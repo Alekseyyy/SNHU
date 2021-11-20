@@ -56,9 +56,9 @@ Outside of school, I like to "stay sharp" by doing computer science practice wit
 </details>
 
 <details>
-<summary>Online Practice</summary>
+<summary>Online Code Judges</summary>
 
-* [Project Euler](./sundries/ProjectEuler)
+* [Project Euler](./sundries/OLCodeJudge/ProjectEuler)
 
 </details>
 
