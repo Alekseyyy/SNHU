@@ -1,6 +1,6 @@
 /* ===========================================================================
- * Solution to "A Spooky Season" from DM::OJ
- * - Source: https://dmoj.ca/problem/wc16c1j1
+ * Solution to "Next in line" from DM::OJ
+ * - Source: https://dmoj.ca/problem/ccc13j1
  * By A. S. "Aleksey" Ahmann <hackermaneia@riseup.net>
  * - GitHub: https://github.com/Alekseyyy
  * - DM::OJ profile: https://dmoj.ca/user/a_ahmann
@@ -10,15 +10,10 @@
 using namespace std;
 
 int main() {
-    int S;
-    cin >> S;
+    int S_1, S_2;
+    cin >> S_1;
+    cin >> S_2;
     
-    string orec;
-    while (S > 0) {
-        orec += "o";
-        S--;
-    }
-    
-    cout << "sp" << orec << "ky" << endl;
+    cout << S_2 + (S_2 - S_1) << endl;
     return 0;
 }

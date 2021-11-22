@@ -1,7 +1,7 @@
 /*
- * By A. S. "Aleksey" Ahmann (hackerrank.com/hackermaneia)
- * https://github.com/Alekseyyy
- *
+ * By A. S. "Aleksey" Ahmann <hackermaneia@riseup.net>
+ * - GitHub: https://github.com/Alekseyyy
+ * - HackerRank: https://hackerrank.com/hackermaneia
  * Doesn't pass test cases where "n" is too big :-(
 */
 

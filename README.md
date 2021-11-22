@@ -34,6 +34,10 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 |Kaggle|[here](./moocs/kaggle)|
 |ImmersiveLabs|[here](./moocs/ImmersiveLabs)|
 
+### Open Source Society University
+
+A significant educational project that I am working on is a (unaccredited, but cheap) "computer science major" from the [Open Source Society University](https://github.com/ossu). This is a project so big that it deserves its own github repo, and I recommend that you check it out if you're interested in my extracuricullar activities: [https://github.com/Alekseyyy/ossu](https://github.com/Alekseyyy/ossu)
+
 </details>
 
 ## Sundries
@@ -50,15 +54,28 @@ Outside of school, I like to "stay sharp" by doing computer science practice wit
 <details>
 <summary>Textbook Problems</summary>
 
-* [Doing Math with Python (ISBN-13: 978-1-59327-640-9)](./sundries/Books/ISBN-13_978-1-59327-640-9/): and introduction to computer algebra, plotting and other computer-driven  with Python.
-* [Matter and Interactions: Fourth Edition (ISBN-13: 978-1-59327-640-9)](./sundries/Books/ISBN-13_978-1118875865/): a physics textbook that has both manually-done, hand-written physics problems and computational physics problems.
+__Introduction to programming__
+
+* [ [T] Introduction to Java Programming: Ninth Edition (ISBN-13: 978-0-13-292373-6)](./sundries/Books/ISBN-13_978-0-13-292373-6)
+* [ [T] Starting Out with C++: From Control Structures through Objects (ISBN-13: 978-0-13-403732-5)](./sundries/Books/ISBN-13_978-0-13-403732-5)
+
+__Maths, natural sciences and engineering__
+
+* [ [L] Bayesian Statistics the Fun Way (ISBN-13: 978-1-59327-956-1)](./sundries/Books/ISBN-13_978-1-59327-956-1)
+* [ [L] Matter and Interactions: Fourth Edition (ISBN-13: 978-1-59327-640-9)](./sundries/Books/ISBN-13_978-1-11887-586-5/)
+
+__Computer science__
+
+* [ [L] Dive Into Algorithms (ISBN-13: 978-1-7185-0068-6)](./sundries/Books/ISBN-13_978-1-7185-0068-6)
+* [ [L] Doing Math with Python (ISBN-13: 978-1-59327-640-9)](./sundries/Books/ISBN-13_978-1-59327-640-9/)
 
 </details>
 
 <details>
-<summary>Online Code Judges</summary>
+<summary>Online code judges</summary>
 
-* [Project Euler](./sundries/OLCodeJudge/ProjectEuler)
+* [Project Euler](./sundries/OLCodeJudge/ProjectEuler): solving maths problems with coding
+* [DM::OJ](./sundries/OLCodeJudge/DMOJ)
 
 </details>
 

@@ -3,5 +3,5 @@
  * - Source: [problem link]
  * By A. S. "Aleksey" Ahmann <hackermaneia@riseup.net>
  * - GitHub: https://github.com/Alekseyyy
- * - Keybase: https://keybase.io/epsiloncalculus
+ * - DM::OJ profile: https://dmoj.ca/user/a_ahmann
  * ========================================================================= */
