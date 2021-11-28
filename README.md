@@ -52,7 +52,7 @@ Outside of school, I like to "stay sharp" by doing computer science practice wit
 </details>
 
 <details>
-<summary>Textbook Problems</summary>
+<summary>Textbook problems</summary>
 
 __Introduction to programming__
 
@@ -74,8 +74,15 @@ __Computer science__
 <details>
 <summary>Online code judges</summary>
 
-* [Project Euler](./sundries/OLCodeJudge/ProjectEuler): solving maths problems with coding
+* [Project Euler](./sundries/OLCodeJudge/ProjectEuler): with special focus on solving maths problems with programming
 * [DM::OJ](./sundries/OLCodeJudge/DMOJ)
+
+</details>
+
+<details>
+<summary>InfoSec CTF practice</summary>
+
+* [crackmes.one](./sundries/wargames/crackmes.one): with special focus on reverse engineering
 
 </details>
 

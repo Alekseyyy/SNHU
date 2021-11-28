@@ -1,6 +1,6 @@
 
 # PORTFINK: Now you're gonna do the hacking ;-)
-# By Aleksey <hackermaneia@riseup.net>
+# By A. S. "Aleksey" Ahmann <hackermaneia@riseup.net>
 # - https://github.com/Alekseyyy
 
 # Here if you don't get the reference: https://youtu.be/jn_dKqtAUjE
