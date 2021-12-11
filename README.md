@@ -44,15 +44,12 @@ A significant educational project that I am working on is a (unaccredited, but c
 
 Outside of school, I like to "stay sharp" by doing computer science practice with sundry textbook problems, and practice systems/other programming, practice information security and other kinds of computer-based practice. I also like to dabble in other STEM and humanities related fields.
 
-<details>
-<summary>Online competitions</summary>
-
-* [InfoSec CTFs and Competitive Programming](https://github.com/Alekseyyy/ctfs): a github repo detailing my adventures in becoming a computer hacker.
-
-</details>
+I also have a github repository called "[ctfs](https://github.com/Alekseyyy/ctfs)" where I document my achievements (and failures) in the world of infosec and competitive computer programming.
 
 <details>
 <summary>Textbook problems</summary>
+
+_Note to self: T = todo and L = later_
 
 __Introduction to programming__
 

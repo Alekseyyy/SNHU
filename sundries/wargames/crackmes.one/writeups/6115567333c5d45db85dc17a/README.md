@@ -1,18 +1,21 @@
 ## A solution to Easiest Crackme
 
-By A. S. "Aleksey" Ahmann <hackermaneia@riseup.net>
+By A. S. "Aleksey" Ahmann \<hackermaneia@riseup.net\>
+Link: https://crackmes.one/crackme/6115567333c5d45db85dc17a
 
 This one was pretty easy (it took me about two minutes to crack lol). I extracted the ``CRACKME.EXE`` file from its archive, launched it and found two textboxes, one that takes a "\[n\]ame" and another that takes a "\[s\]erial." I typed in "Test" to both the ``name`` and ``serial`` textboxes, and SenTDI called me a luser :-(
 
 I then decompiled the .NET executable with [dnSpy](https://github.com/dnSpy/dnSpy) and inspected the crackme's programme logic. It organises a namespace called `Xz` and the main form is ``Form1`` (typical). Reading ``Form1``'s source code, I came across this snippet in the ``InitializeComponent`` method:
 
 ``` c#
-this.button1.Click += delegate(object a, EventArgs e){
-if (this.textBox2.Text == Convert.ToBase64String(Encoding.UTF8.GetBytes(this.textBox1.Text))){
+	[ ... snip ... ]
+
+	this.button1.Click += delegate(object a, EventArgs e){
+	if (this.textBox2.Text == Convert.ToBase64String(Encoding.UTF8.GetBytes(this.textBox1.Text))){
 		MessageBox.Show("Good job", "OK");
 		return;
 	}
-MessageBox.Show("Looser", "ERROR");
+	MessageBox.Show("Looser", "ERROR");
 };
 ```
 
