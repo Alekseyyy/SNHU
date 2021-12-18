@@ -24,6 +24,8 @@ profile: [https://dmoj.ca/user/a_ahmann](https://dmoj.ca/user/a_ahmann)
 | Trik | [coci06c5p1](https://dmoj.ca/problem/coci06c5p1) | [java](./solutions/coci06c5p1/solution.java) | Assignment from [Zingaro (2021, chapter 3)](#bib) |
 | Occupy parking | [ccc18j2](https://dmoj.ca/problem/ccc18j2) | [java](./solutions/ccc18j2/solution.java) | Assignment from [Zingaro (2021, chapter 3)](#bib) |
 | Uncrackable | [wc17c3j3](https://dmoj.ca/problem/wc17c3j3) | [java](./solutions/wc17c3j3/solution.java) | Assignment from [Zingaro (2021, chapter 3)](#bib) |
+| Magnus | [coci18c3p1](https://dmoj.ca/problem/coci18c3p1) | [java](./solutions/coci18c3p1/solution.java) | Assignment from [Zingaro (2021, chapter 3)](#bib) |
+| English or French? | [ccc11s1](https://dmoj.ca/problem/ccc11s1) | [java](./solutions/ccc11s1/solution.java) | Assignment from [Zingaro (2021, chapter 3)](#bib) |
 
 <p id="bib"></p>
 
