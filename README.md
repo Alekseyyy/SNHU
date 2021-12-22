@@ -32,11 +32,10 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 |-|-|
 |DataQuest|[here](./moocs/dataquest)|
 |Kaggle|[here](./moocs/kaggle)|
-|ImmersiveLabs|[here](./moocs/ImmersiveLabs)|
 
 ### Open Source Society University
 
-A significant educational project that I am working on is a (unaccredited, but cheap) "computer science major" from the [Open Source Society University](https://github.com/ossu). This is a project so big that it deserves its own github repo, and I recommend that you check it out if you're interested in my extracuricullar activities: [https://github.com/Alekseyyy/ossu](https://github.com/Alekseyyy/ossu)
+A significant educational project that I am working on is a (unaccredited, but cheap) computer science "major" from the [Open Source Society University](https://github.com/ossu). This is a project so big that it deserves its own github repo, and I recommend that you check it out if you're interested in my extracuricullar activities: [https://github.com/Alekseyyy/ossu](https://github.com/Alekseyyy/ossu)
 
 </details>
 
@@ -71,8 +70,8 @@ __Computer science__
 <details>
 <summary>Online code judges</summary>
 
-* [Project Euler](./sundries/OLCodeJudge/ProjectEuler): with special focus on solving maths problems with programming
-* [DM::OJ](./sundries/OLCodeJudge/DMOJ)
+* [Project Euler](./sundries/OLCodeJudge/ProjectEuler): with special focus on number theory and other maths
+* [DM::OJ](./sundries/OLCodeJudge/DMOJ): general programming
 
 </details>
 
@@ -80,6 +79,7 @@ __Computer science__
 <summary>InfoSec CTF practice</summary>
 
 * [crackmes.one](./sundries/wargames/crackmes.one): with special focus on reverse engineering
+* [ImmersiveLabs](./sundries/wargames/ImmersiveLabs): general infosec
 
 </details>
 
