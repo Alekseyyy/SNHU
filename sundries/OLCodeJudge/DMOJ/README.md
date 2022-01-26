@@ -27,7 +27,7 @@ profile: [https://dmoj.ca/user/a_ahmann](https://dmoj.ca/user/a_ahmann)
 | Winning Score | [ccc19j1](https://dmoj.ca/problem/ccc19j1) | [java](./solutions/ccc19j1/solution.java) | See [Zingaro (2021)](#bib) |
 | Telemarketer or not? | [ccc18j1](https://dmoj.ca/problem/ccc18j1) | [java](./solutions/ccc18j1/solution.java) | See [Zingaro (2021)](#bib) |
 | Canadian Calorie Counting | [ccc06j1](https://dmoj.ca/problem/ccc06j1) | [java](./solutions/ccc06j1/solution.java) | See [Zingaro (2021)](#bib) |
-| Special Day | [ccc15j1](https://dmoj.ca/problem/ccc15j1) | [java](./solutions/ccc15j1/solution.java) | See [Zingaro (2021, ch. 2)](#bib) |
+| Special Day | [ccc15j1](https://dmoj.ca/problem/ccc15j1) | [java](./solutions/ccc15j1/solution.java) | See [Zingaro (2021)](#bib) |
 | Happy or Sad | [ccc15j2](https://dmoj.ca/problem/ccc15j2) | [java](./solutions/ccc15j2/solution.java) | See [Zingaro (2021)](#bib) |
 | C.C. and Cheese-kun | [dmopc16c1p0](https://dmoj.ca/problem/dmopc16c1p0) | [java](./solutions/dmopc16c1p0/solution.java) | See [Zingaro (2021)](#bib) |
 | Who is in the Middle? | [ccc07j1](https://dmoj.ca/problem/ccc07j1) | [java](./solutions/ccc07j1/solution.java) | See [Zingaro (2021)](#bib) |
@@ -50,7 +50,7 @@ profile: [https://dmoj.ca/user/a_ahmann](https://dmoj.ca/user/a_ahmann)
 
 |__problem name__|__problem id__|__solution(s)__|__notes__|
 |----------------|--------------|---------------|---------|
-| Slot Machines | [ccc00s1](https://dmoj.ca/problem/ccc00s1) | [java](./solutions/ccc00s1/solution.java) | TODO (does not pass all test cases) |
+| Slot Machines | [ccc00s1](https://dmoj.ca/problem/ccc00s1) | [java](./solutions/ccc00s1/solution.java) | TODO (only passes 3/5 test cases) |
 | Do the Shuffle | [ccc08j2](https://dmoj.ca/problem/ccc08j2) | | TODO |
 | Epidemiology | [ccc20j2](https://dmoj.ca/problem/ccc20j2) | | TODO |
 | Ptice | [coci08c1p2](https://dmoj.ca/problem/coci08c1p2) | | TODO |

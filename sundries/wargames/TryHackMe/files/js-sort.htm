@@ -1,0 +1,31 @@
+<!-- bad_sort(): simple (but inefficient) javascript sorting function 
+ Implemented by A. S. "Aleksey" Ahmann <hackermaneia@riseup.net>
+ - Githubs: https://github.com/Alekseyyy
+ - TryHackMe: https://tryhackme.com/p/EntropyThot
+ 
+Please don't use this for production reasons, this is just to solve the
+TryHackMe javascript challenge: https://tryhackme.com/room/javascriptbasics
+-->
+
+<script>
+
+const bad_sort = (x) => {
+	y = []
+	do {
+		winner = x[0];
+		for (let k = 0; k < x.length; k++) {
+			if (x[k] < winner) {
+				winner = x[k];
+			}
+		}
+		y.push(winner);
+		x.splice(x.indexOf(winner), 1);
+		
+	} while (x.length > 0);
+	return y
+};
+
+input = [1,10,5,15,2,7,28,900,45,18,27]; // the solution is: [1,2,5,7,10,15,18,27,28,45,900]
+document.write("<p>Given an array of [" + input + "] ... <br><br> ... it is sorted from smallest to biggest as [" + bad_sort(input) + "].</p>");
+
+</script>
