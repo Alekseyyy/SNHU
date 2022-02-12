@@ -70,16 +70,17 @@ __Computer science__
 <details>
 <summary>Online code judges</summary>
 
-* [Project Euler](./sundries/OLCodeJudge/ProjectEuler): with special focus on number theory and other maths
 * [DM::OJ](./sundries/OLCodeJudge/DMOJ): general programming
+* [Project Euler](./sundries/OLCodeJudge/ProjectEuler): with special focus on number theory and other maths
 
 </details>
 
 <details>
-<summary>InfoSec CTF practice</summary>
+<summary>InfoSec labs and "capture the flag" practice</summary>
 
-* [crackmes.one](./sundries/wargames/crackmes.one): with special focus on reverse engineering
 * [ImmersiveLabs](./sundries/wargames/ImmersiveLabs): general infosec
+* [TryHackMe](./sundries/wargames/TryHackMe): general infosec
+* [crackmes.one](./sundries/wargames/crackmes.one): with special focus on reverse engineering
 
 </details>
 

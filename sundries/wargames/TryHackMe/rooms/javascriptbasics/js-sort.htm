@@ -10,7 +10,7 @@ TryHackMe javascript challenge: https://tryhackme.com/room/javascriptbasics
 <script>
 
 const bad_sort = (x) => {
-	y = []
+	y = [];
 	do {
 		winner = x[0];
 		for (let k = 0; k < x.length; k++) {
@@ -22,7 +22,7 @@ const bad_sort = (x) => {
 		x.splice(x.indexOf(winner), 1);
 		
 	} while (x.length > 0);
-	return y
+	return y;
 };
 
 input = [1,10,5,15,2,7,28,900,45,18,27]; // the solution is: [1,2,5,7,10,15,18,27,28,45,900]

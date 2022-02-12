@@ -1,15 +1,11 @@
 
-## TryHackMe
+# TryHackMe
 
-profile: [https://tryhackme.com/p/EntropyThot](https://tryhackme.com/p/EntropyThot)
-
-<script src="https://tryhackme.com/badge/293287"></script>
-
-<noscript><img src="https://tryhackme-badges.s3.amazonaws.com/EntropyThot.png" alt="TryHackMe"></noscript>
+<a href="https://tryhackme.com/p/EntropyThot"><img src="https://tryhackme-badges.s3.amazonaws.com/EntropyThot.png" alt="TryHackMe Profile: @EntropyThot"></a>
 
 ### Accomplishments
 
-![skills matrix](./skills_matrix.png)
+<img width="200px;" alt="skills matrix" src="./assets/skills_matrix.png" />
 
 <details>
 <summary>Badges</summary>
@@ -22,11 +18,44 @@ profile: [https://tryhackme.com/p/EntropyThot](https://tryhackme.com/p/EntropyTh
 
 </details>
 
-<details>
-<summary>Selected rooms (a/k/a labs)</summary>
+### Completed Rooms (a/k/a labs)
 
-| __Room__ | · | __Room__ | · | __Room__ |
-|----------|---|----------|---|----------|
-| [Principles of Security](https://tryhackme.com/room/principlesofsecurity) | | [Introductory Researching](https://tryhackme.com/room/introtoresearch) | | [History of Malware](https://tryhackme.com/room/historyofmalware) |
+<details>
+<summary>Penetration testing - walkthroughs</summary>
+
+| __Room__ | __Description__ | __Pricing__ | __Writeup(s)__ | __Notes__ |
+|----------|-----------------|-------------|----------------|-----------|
+| [Tutorial](https://tryhackme.com/room/tutorial) | \[todo\] | Free | n/a | n/a |
+| [Introductory Researching](https://tryhackme.com/room/introtoresearch) | n/a | Free | n/a | n/a |
+| [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | \[todo\] | Free | n/a | n/a |
+| [Nmap](https://tryhackme.com/room/furthernmap) | \[todo\] | Free | n/a | n/a |
+
+</details>
+
+<details>
+<summary>Operating systems, networking & other rudimentary notions</summary>
+
+| __Room__ | __Description__ | __Pricing__ | __Writeup(s)__ | __Notes__ |
+|----------|-----------------|-------------|----------------|-----------|
+| [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) | \[todo\] | Free | n/a | n/a |
+| [Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2) | \[todo\] | Free | n/a | n/a |
+| [Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3) | \[todo\] | Free | n/a | n/a |
+| [Introductory Networking](https://tryhackme.com/room/introtonetworking) | \[todo\] | Free | n/a | n/a |
+| [Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101) | \[todo\] | Free | n/a | n/a |
+
+</details>
+
+<details>
+<summary>Scripting</summary>
+
+| __Room__ | __Description__ | __Pricing__ | __Writeup(s)__ | __Notes__ |
+|----------|-----------------|-------------|----------------|-----------|
+| [Python Basics](https://tryhackme.com/room/pythonbasics) | \[todo\] | Free | n/a | n/a |
+
+</details>
+
+<details>
+<summary>Reverse engineering</summary>
+
 
 </details>
