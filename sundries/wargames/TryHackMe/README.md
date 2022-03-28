@@ -5,8 +5,6 @@
 
 ### Accomplishments
 
-<img width="200px;" alt="skills matrix" src="./assets/skills_matrix.png" />
-
 <details>
 <summary>Badges</summary>
 
@@ -17,6 +15,8 @@
 | Pentesting Principles | Completing the 'Introduction to Pentesting' module | | | |
 
 </details>
+
+<img width="300px;" alt="skills matrix" src="./assets/skills_matrix.png" />
 
 ### Completed Rooms (a/k/a labs)
 
