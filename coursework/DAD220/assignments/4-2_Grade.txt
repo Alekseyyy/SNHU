@@ -1,0 +1,19 @@
+Grade: A
+
+Lecturer's comments:
+"""
+The SELECT statement is used to select data from one or more tables:
+SELECT column_name(s) FROM table_name
+or 
+we can use the * character to select ALL columns from a table:
+SELECT * FROM table_name
+
+DELETE FROM `table_name` tells MySQL server to remove rows from the table ..
+[WHERE condition] is optional and is used to put a filter that restricts the number of rows affected by the DELETE query.
+
+In MySQL, the term cardinality refers to the uniqueness of data values that can be put into columns. It is a kind of property which influences the ability to search, cluster and sort data.
+Low Cardinality − All values for a column must be same.
+High Cardinality − All values for a column must be unique.
+The concept of high cardinality is used if we put a constraint on a column in order to restrict duplicate values.
+
+"""

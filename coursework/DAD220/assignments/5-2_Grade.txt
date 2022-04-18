@@ -1,0 +1,9 @@
+Grade: A
+
+Lecturer's comments:
+"""
+https://debezium.io/blog/2016/08/02/capturing-changes-from-mysql/
+Data analysis is a process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusion and supporting decision-making.Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, and is used in different business, science, and social science domains.
+the work was summarized as per guidelines.
+Thank you for your active participation in Week 5. - Aastha
+"""

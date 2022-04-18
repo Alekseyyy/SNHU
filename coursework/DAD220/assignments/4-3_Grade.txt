@@ -1,0 +1,12 @@
+Grade: A
+
+Lecturer's comments:
+"""
+A SELECT statement begins with the SELECT keyword and is used to retrieve information from MySQL database tables. You must specify the table name to fetch data from—using the FROM keyword—and one or more columns that you want to retrieve from that table.
+    SELECT a,b,a+b INTO OUTFILE '/tmp/result.txt'
+      FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+      LINES TERMINATED BY '\n'
+      FROM test_table;
+
+Thank you for your participation this week. Aastha
+"""

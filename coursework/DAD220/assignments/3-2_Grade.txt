@@ -1,0 +1,20 @@
+Grade: A
+
+Lecturer's comments:
+"""
+To rename a table in MySQL you just need to run a command named RENAME TABLE, the syntax is very easy to use,
+RENAME TABLE tb1 TO tb2;
+
+ALTER TABLE table_name
+ADD column_name datatype;
+A JOIN clause is used to combine rows from two or more tables, based on a related column between them.
+After creating your table, you need to populate it. The LOAD DATA and INSERT statements are useful for this.
+MySQL SQL Syntax:
+SELECT column_a,column_b,column_c+column_d INTO OUTFILE '/tmp/result.csv'
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+FROM test_table;
+The objective of the lab was to learn how to create a query use JOINS to retrieve data; understand the use and application of join functions. 
+You did a great work with the lab unit.Keep up the work! You are doing great.
+
+"""
