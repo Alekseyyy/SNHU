@@ -17,11 +17,13 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 <details>
 <summary>Accredited In-University Coursework</summary>
 
-|__Course name__|__Course number__|__Course files__|
+|__Course name__|__Course number__|__Course documents__|
 |-|-|-|
 |Precalculus|MAT140|[here](./coursework/MAT140/)|
 |Perspectives in social science|SCS100|[here](./coursework/SCS100/)|
 |Applied social science|SCS200|[here](./coursework/SCS200/)|
+|Introduction to Structured Database Environments|DAD220|[here](./coursework/DAD220/)|
+|Introduction to Physics|PHY150|[here](./coursework/PHY150/)|
 
 </details>
 
@@ -33,9 +35,9 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 |DataQuest|[here](./moocs/dataquest)|
 |Kaggle|[here](./moocs/kaggle)|
 
-### Open Source Society University
+### Open Source Society University (OSSU)
 
-A significant educational project that I am working on is a (unaccredited, but cheap) computer science "major" from the [Open Source Society University](https://github.com/ossu). This is a project so big that it deserves its own github repo, and I recommend that you check it out if you're interested in my extracuricullar activities: [https://github.com/Alekseyyy/ossu](https://github.com/Alekseyyy/ossu)
+A significant educational project that I am working on is a (unaccredited, but cheap) computer science "major" from the [Open Source Society University](https://github.com/ossu)--- or simply just the "OSSU." This is a project so big that it deserves its own github repo, and I recommend that you check it out if you're interested in my extracuricullar activities: [https://github.com/Alekseyyy/ossu](https://github.com/Alekseyyy/ossu)
 
 </details>
 
