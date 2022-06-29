@@ -1,0 +1,21 @@
+Grade: "A"
+
+Instructor comments:
+"""
+CREATE TABLE table_name (column_name column_type);
+
+
+CREATE DATABASE statement to create a new database in the server.
+
+
+The INSERT statement allows you to insert one or more rows into a table. 
+INSERT INTO table(c1,c2,...)
+VALUES (v1,v2,...);
+
+https://www.digitalocean.com/community/tutorials/how-to-import-and-export-databases-in-mysql-or-mariadb
+
+The SELECT statement is used to select data from a database.
+
+
+Thank you for your active participation in the class. - Aastha
+"""
