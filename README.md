@@ -30,14 +30,11 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 <details>
 <summary>Non-accredited coursework and MOOCs</summary>
 
-|__Program name__|__Course files__|
-|-|-|
-|DataQuest|[here](./moocs/dataquest)|
-|Kaggle|[here](./moocs/kaggle)|
-
 ### Open Source Society University (OSSU)
 
 A significant educational project that I am working on is a (unaccredited, but cheap) computer science "major" from the [Open Source Society University](https://github.com/ossu)--- or simply just the "OSSU." This is a project so big that it deserves its own github repo, and I recommend that you check it out if you're interested in my extracuricullar activities: [https://github.com/Alekseyyy/ossu](https://github.com/Alekseyyy/ossu)
+
+My "OSSU" GitHub repository also includes all of my other non-accredited coursework that is not directly associated with the curriculum proposed by the OSSU project. It is basically a semi-formal way to validate my skills in computing and its relationship to other fields.
 
 </details>
 
