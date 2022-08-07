@@ -12,23 +12,23 @@ import java.util.*;
 public class solution {
 
 	public static void main(String[] args) {
-		Scanner input_mechanism = new Scanner(System.in);
-		int lines = Integer.parseInt(input_mechanism.nextLine());
+		Scanner inputMechanism = new Scanner(System.in);
+		int lines = Integer.parseInt(inputMechanism.nextLine());
 		String[] samples = new String[lines];
 		for (int i = 0; i < lines; i++)
-			samples[i] = input_mechanism.nextLine();
-		input_mechanism.close();
+			samples[i] = inputMechanism.nextLine();
+		inputMechanism.close();
         	int[] counts = {0, 0}; //t and T, or s and S
 		for (int i = 0; i < lines; i++) {
-			char[] explode_sample = samples[i].toCharArray();
-			for (int j = 0; j < explode_sample.length; j++) {
-				if (explode_sample[j] == 't')
+			char[] explodeSample = samples[i].toCharArray();
+			for (int j = 0; j < explodeSample.length; j++) {
+				if (explodeSample[j] == 't')
 					counts[0] += 1;
-				else if (explode_sample[j] == 'T')
+				else if (explodeSample[j] == 'T')
 					counts[0] += 1;
-				else if (explode_sample[j] == 's')
+				else if (explodeSample[j] == 's')
 					counts[1] += 1;
-				else if (explode_sample[j] == 'S')
+				else if (explodeSample[j] == 'S')
 					counts[1] += 1;
 				else
 					continue;

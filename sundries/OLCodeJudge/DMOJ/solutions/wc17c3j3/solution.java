@@ -11,19 +11,19 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        String password = input_mechanism.nextLine();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        String password = inputMechanism.nextLine();
+        inputMechanism.close();
 
         if (password.length() >= 8 && password.length() <= 12) {
-            char[] explode_password = password.toCharArray();
+            char[] explodePassword = password.toCharArray();
             int[] criteria = {0, 0, 0}; // lower, upper, digit
-            for (int i = 0; i < explode_password.length; i++) {
-                if (Character.isLowerCase(explode_password[i]))
+            for (int i = 0; i < explodePassword.length; i++) {
+                if (Character.isLowerCase(explodePassword[i]))
                     criteria[0] += 1;
-                else if (Character.isUpperCase(explode_password[i]))
+                else if (Character.isUpperCase(explodePassword[i]))
                     criteria[1] += 1;
-                else if (Character.isDigit(explode_password[i]))
+                else if (Character.isDigit(explodePassword[i]))
                     criteria[2] += 1;
             }
             if (

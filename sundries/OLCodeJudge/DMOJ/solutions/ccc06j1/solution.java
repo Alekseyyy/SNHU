@@ -17,14 +17,14 @@ public class solution {
           {130, 160, 118, 0}, //drinks: soft drink, orange juice, milk, no drink
           {167, 266, 75, 0} // desert: apple pie, sundae, fruit cup, no desert
         };
-        int total_calories = 0;
+        int totalCalories = 0;
         
-        Scanner input_mechanism = new Scanner(System.in);
+        Scanner inputMechanism = new Scanner(System.in);
         for (int i = 0; i < 4; i++)
-            total_calories += calories[i][input_mechanism.nextInt() - 1];
-        input_mechanism.close();
+            totalCalories += calories[i][inputMechanism.nextInt() - 1];
+        inputMechanism.close();
         
-        System.out.format("Your total Calorie count is %d.", total_calories);
+        System.out.format("Your total Calorie count is %d.", totalCalories);
     }
 }
 

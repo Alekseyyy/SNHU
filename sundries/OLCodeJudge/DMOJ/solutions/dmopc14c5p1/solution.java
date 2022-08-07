@@ -13,10 +13,10 @@ import java.lang.Math.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        double r = input_mechanism.nextDouble();
-        double h = input_mechanism.nextDouble();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        double r = inputMechanism.nextDouble();
+        double h = inputMechanism.nextDouble();
+        inputMechanism.close();
         
         double V = (Math.PI * Math.pow(r, 2) * h) / 3.0;
         System.out.format("%f", V);

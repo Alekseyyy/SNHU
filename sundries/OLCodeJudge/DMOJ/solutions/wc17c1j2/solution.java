@@ -11,9 +11,9 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        float C = input_mechanism.nextFloat();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        float C = inputMechanism.nextFloat();
+        inputMechanism.close();
         
         System.out.format("%f", ((9.0 * C) / 5.0) + 32.0);
     }

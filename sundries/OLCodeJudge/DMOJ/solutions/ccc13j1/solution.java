@@ -11,12 +11,12 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        int S_1 = input_mechanism.nextInt();
-        int S_2 = input_mechanism.nextInt();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        int S1 = inputMechanism.nextInt();
+        int S2 = inputMechanism.nextInt();
+        inputMechanism.close();
         
-        System.out.format("%d", S_2 + (S_2 - S_1));
+        System.out.format("%d", S2 + (S2 - S1));
     }
 }
 

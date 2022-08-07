@@ -11,21 +11,21 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        int buf_size = Integer.parseInt(input_mechanism.nextLine());
+        Scanner inputMechanism = new Scanner(System.in);
+        int bufSize = Integer.parseInt(inputMechanism.nextLine());
         
-	char[] raw_input = new char[2 * buf_size];
-	for (int i = 0; i < 2 * buf_size; i++)
-		raw_input[i] = input_mechanism.nextLine().charAt(0);
-        input_mechanism.close();
+	char[] rawInput = new char[2 * bufSize];
+	for (int i = 0; i < 2 * bufSize; i++)
+		rawInput[i] = inputMechanism.nextLine().charAt(0);
+        inputMechanism.close();
 		
-	int correct_answers = 0;
-	for (int i = 0; i < buf_size; i++) {
-		if (raw_input[i] == raw_input[i + buf_size])
-			correct_answers += 1;
+	int correctAnswers = 0;
+	for (int i = 0; i < bufSize; i++) {
+		if (rawInput[i] == rawInput[i + bufSize])
+			correctAnswers += 1;
 	}
 
-        System.out.println(correct_answers);
+        System.out.println(correctAnswers);
     }
 }
 

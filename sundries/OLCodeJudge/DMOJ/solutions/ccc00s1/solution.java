@@ -9,34 +9,34 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class solution {
 
     private static int quarters;
     private static int[] machines;
     private static int rounds;
 
-    public static void play_machine(int machine_id, 
-        int winning_position, int payoff) {
+    public static void playMachine(int machineId, 
+        int winningPosition, int payoff) {
         quarters -= 1;
-        machines[machine_id] += 1;
-        if (machines[machine_id] % winning_position == 0)
+        machines[machineId] += 1;
+        if (machines[machineId] % winningPosition == 0)
             quarters += payoff;
         rounds += 1;
     }
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        quarters = Integer.parseInt(input_mechanism.nextLine());
+        Scanner inputMechanism = new Scanner(System.in);
+        quarters = Integer.parseInt(inputMechanism.nextLine());
         machines = new int[3];
         for (int i = 0; i < 3; i++)
-            machines[i] = Integer.parseInt(input_mechanism.nextLine());
-        input_mechanism.close();
+            machines[i] = Integer.parseInt(inputMechanism.nextLine());
+        inputMechanism.close();
 
         boolean broke = false;
         rounds = 0;
         while (!broke) {
-            play_machine(0, 35, 30); //play machine 1
-            play_machine(1, 100, 60); //play machine 2
-            play_machine(2, 10, 9); //play machine 3
+            playMachine(0, 35, 30); //play machine 1
+            playMachine(1, 100, 60); //play machine 2
+            playMachine(2, 10, 9); //play machine 3
 
             if (!(quarters > 0))
                 broke = true;

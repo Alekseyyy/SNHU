@@ -11,9 +11,9 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        char[] moves = input_mechanism.nextLine().toCharArray();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        char[] moves = inputMechanism.nextLine().toCharArray();
+        inputMechanism.close();
 
         int position = 1;
         for (int k = 0; k < moves.length; k++) {

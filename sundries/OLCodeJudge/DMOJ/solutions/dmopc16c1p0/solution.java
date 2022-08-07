@@ -11,10 +11,10 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        int W = input_mechanism.nextInt();
-        int C = input_mechanism.nextInt();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        int W = inputMechanism.nextInt();
+        int C = inputMechanism.nextInt();
+        inputMechanism.close();
         
         if (W == 3 && C >= 95)
             System.out.format("C.C. is absolutely satisfied with her pizza.\n");
@@ -24,4 +24,3 @@ public class solution {
             System.out.format("C.C. is very satisfied with her pizza.\n");
     }
 }
-

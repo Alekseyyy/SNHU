@@ -11,11 +11,11 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        String sentence = input_mechanism.nextLine();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        String sentence = inputMechanism.nextLine();
+        inputMechanism.close();
         
-        String[] sentence_split = sentence.split(" ");
-        System.out.format("%d", sentence_split.length);
+        String[] sentenceSplit = sentence.split(" ");
+        System.out.format("%d", sentenceSplit.length);
     }
 }

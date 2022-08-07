@@ -11,10 +11,10 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        int month = input_mechanism.nextInt();
-        int day = input_mechanism.nextInt();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        int month = inputMechanism.nextInt();
+        int day = inputMechanism.nextInt();
+        inputMechanism.close();
         
         if (month < 2) 
             System.out.println("Before");

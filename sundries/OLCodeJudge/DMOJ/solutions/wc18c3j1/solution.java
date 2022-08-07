@@ -11,11 +11,11 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        int P = input_mechanism.nextInt();
-        int B = input_mechanism.nextInt();
-        int D = input_mechanism.nextInt();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        int P = inputMechanism.nextInt();
+        int B = inputMechanism.nextInt();
+        int D = inputMechanism.nextInt();
+        inputMechanism.close();
         
         int badges = (P / B) * D;
         int leftovers = P % B;

@@ -11,15 +11,15 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        int[] slots = new int[Integer.parseInt(input_mechanism.nextLine())];
-        char[] lot_yest = input_mechanism.nextLine().toCharArray();
-        char[] lot_toda = input_mechanism.nextLine().toCharArray();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        int[] slots = new int[Integer.parseInt(inputMechanism.nextLine())];
+        char[] lotYest = inputMechanism.nextLine().toCharArray();
+        char[] lotToda = inputMechanism.nextLine().toCharArray();
+        inputMechanism.close();
 
         // Fill the slots
         for (int i = 0; i < slots.length; i++) {
-            if (lot_yest[i] == 'C' && lot_toda[i] == 'C')
+            if (lotYest[i] == 'C' && lotToda[i] == 'C')
                 slots[i] = 1;
             else
                 slots[i] = 0;

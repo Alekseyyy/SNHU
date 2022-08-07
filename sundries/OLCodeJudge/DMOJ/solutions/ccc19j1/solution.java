@@ -11,16 +11,16 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
+        Scanner inputMechanism = new Scanner(System.in);
         int apples = 0;
         int bananas = 0;
         for (int i = 0; i < 6; i++) {
             if (i < 3)
-                apples += input_mechanism.nextInt() * (3 - i);
+                apples += inputMechanism.nextInt() * (3 - i);
             else
-                bananas += input_mechanism.nextInt() * (3 - (i - 3));
+                bananas += inputMechanism.nextInt() * (3 - (i - 3));
         }
-        input_mechanism.close();
+        inputMechanism.close();
         if (apples > bananas) 
             System.out.println("A");
         else if (bananas > apples)

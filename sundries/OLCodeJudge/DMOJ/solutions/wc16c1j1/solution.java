@@ -11,9 +11,9 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        int S = input_mechanism.nextInt();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        int S = inputMechanism.nextInt();
+        inputMechanism.close();
         
         String orec = "";
         while (S > 0) {

@@ -11,9 +11,9 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
-        String message = input_mechanism.nextLine();
-        input_mechanism.close();
+        Scanner inputMechanism = new Scanner(System.in);
+        String message = inputMechanism.nextLine();
+        inputMechanism.close();
         
         int[] scores = {
             message.split("\\Q:-)\\E").length - 1,

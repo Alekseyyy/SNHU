@@ -11,13 +11,12 @@ import java.util.*;
 
 public class solution {
     public static void main(String[] args) {
-        Scanner input_mechanism = new Scanner(System.in);
+        Scanner inputMechanism = new Scanner(System.in);
         int[] bowls = new int[3];
         for (int i = 0; i < 3; i++)
-            bowls[i] = input_mechanism.nextInt();
-        input_mechanism.close();
+            bowls[i] = inputMechanism.nextInt();
+        inputMechanism.close();
         Arrays.sort(bowls);
         System.out.format("%d", bowls[1]);
     }
 }
-
