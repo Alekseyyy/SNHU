@@ -30,11 +30,19 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 <details>
 <summary>Non-accredited coursework and MOOCs</summary>
 
+### Articulated to college credit
+
+Some online courses that I took were able to be articulated to college credit at SNHU. Here is a full list of them:
+
+|__Online course__|__Provider__|__SNHU course name__|__SNHU course number__|
+|-----------------|------------|--------------------|----------------------|
+| [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/ba83ef4d67d94dca87154ed312181845) | edX | Introduction to Scripting | ~~todo~~ |
+
 ### Open Source Society University (OSSU)
 
-A significant educational project that I am working on is a (unaccredited, but cheap) computer science "major" from the [Open Source Society University](https://github.com/ossu)--- or simply just the "OSSU." This is a project so big that it deserves its own github repo, and I recommend that you check it out if you're interested in my extracuricullar activities: [https://github.com/Alekseyyy/ossu](https://github.com/Alekseyyy/ossu)
+A significant educational project that I am working on is a (unaccredited, but cheap) computer science "major" from the [Open Source Society University](https://github.com/ossu) --- or simply just the "OSSU." This GitHub repository also includes all of my other non-accredited coursework that is not directly associated with the curriculum proposed by the OSSU project. It is basically a semi-formal way to validate my skills in computing and its relationship to other fields.
 
-My "OSSU" GitHub repository also includes all of my other non-accredited coursework that is not directly associated with the curriculum proposed by the OSSU project. It is basically a semi-formal way to validate my skills in computing and its relationship to other fields.
+This project is so big that it deserves its own github repo and I recommend that you check it out if you're interested in some of my extracuricullar activities: [https://github.com/Alekseyyy/ossu](https://github.com/Alekseyyy/ossu)
 
 </details>
 
@@ -51,8 +59,9 @@ _Note to self: T = todo and L = later_
 
 __Introduction to programming__
 
-* [ [T] Introduction to Java Programming: Ninth Edition (ISBN-13: 978-0-13-292373-6)](./sundries/Books/ISBN-13_978-0-13-292373-6)
-* [ [T] Starting Out with C++: From Control Structures through Objects (ISBN-13: 978-0-13-403732-5)](./sundries/Books/ISBN-13_978-0-13-403732-5)
+* [\[T\] Introduction to Java Programming: Ninth Edition (ISBN-13: 978-0-13-292373-6)](./sundries/Books/ISBN-13_978-0-13-292373-6)
+* [\[T\] Starting Out with C++: From Control Structures through Objects (ISBN-13: 978-0-13-403732-5)](./sundries/Books/ISBN-13_978-0-13-403732-5)
+* [\[T\] Objects First with Java (ISBN-13: 978-0-13-700562-8)](./sundries/ISBN-13_978-0-13-700562-8)
 
 __Maths, natural sciences and engineering__
 
