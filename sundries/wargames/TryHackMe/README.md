@@ -16,7 +16,7 @@
 | [Networking Nerd](https://tryhackme.com/EntropyThot/badges/network-fundamentals) | [World Wide Web](https://tryhackme.com/EntropyThot/badges/world-wide-web) | [Burp'ed](https://tryhackme.com/EntropyThot/badges/burped) |
 | [Wireshark](https://tryhackme.com/EntropyThot/badges/wireshark) | [90 Day Streak](https://tryhackme.com/EntropyThot/badges/90-day-streak) | [Intro to Web Hacking](https://tryhackme.com/EntropyThot/badges/intro-to-web-hacking) |
 | [Hash Cracker](https://tryhackme.com/EntropyThot/badges/hash-cracker) | [Pentester Tools](https://tryhackme.com/EntropyThot/badges/pentestingtools) | [180 Day Streak](https://tryhackme.com/EntropyThot/badges/180-day-streak)
-| [180 Day Streak](https://tryhackme.com/EntropyThot/badges/linux-privesc) | | |
+| [Linux PrivEsc](https://tryhackme.com/EntropyThot/badges/linux-privesc) | | |
 
 </details>
 
