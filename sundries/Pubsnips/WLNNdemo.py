@@ -9,7 +9,7 @@ st.markdown("""
 ## The (weak) law of large numbers demonstration
 ### By A. S. Ahmann
 
-This is a small streamlit app to demonstrate the weak law of large numbers (WLLN) by simulating a game of craps involving one (1) six-faced fair dice. The WLNN states that as the number of trials in a probability experiment incrases, the expected value of the sample space will match the true expected value of the random process being studied.
+This is a small streamlit app to demonstrate the weak law of large numbers (WLLN) by simulating a game of craps involving one (1) six-faced fair dice. The WLNN states that as the number of trials in a probability experiment incrases, the expected value of its results will converge to the true expected value of the random process being studied.
 
 In the case of the hypothetical game of craps, the expected value is: 
 
