@@ -1,0 +1,9 @@
+- downloaded "UltimateMinesweeper.7z"
+- extracted it
+- Assumed it was an unmanaged exectuable
+  - had problems reading it in Immunity Debugger
+- Later worked out it was a .NET assembly (by opening it up in notepad)
+- Downloaded dnSpy
+- Disassembled "UltimateMinesweeper.exe"
+- Recreating the "MainForm" class in Python (nah disregard that)
+- 

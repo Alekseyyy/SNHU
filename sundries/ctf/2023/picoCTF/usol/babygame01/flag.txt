@@ -1,0 +1,1 @@
+picoCTF{th1s_1s_a_t3st_flag}

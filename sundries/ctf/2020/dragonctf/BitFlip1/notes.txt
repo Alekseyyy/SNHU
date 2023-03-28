@@ -1,0 +1,46 @@
+
+* downloaded task.tgz & extracted files
+* had to install gmpy2
+  * but first had to install libmpfr-dev, libmpc-dev and hashcash
+
+* Probing task.py
+  * running it gives us:
+
+```
+bit-flip str:
+<input>
+```
+
+   * so I tried different values:
+     * "test" gives "Generated after 25 iterations
+bob number 547336995320179550475313059736029387768900138520754203277358021117530550681306538151768788821003682244441669634558858897863823276290243412632630752221966
+4HfDw1jgiKG0VY7zB3IEdw==
+BplI58CB5+NLV5x/uhBSg26N5j5GrYlGDAAyWZZWSpk="
+
+     * "666" gives "Traceback (most recent call last):
+  File './task.py', line 75, in <module>
+    alice = DiffieHellman(bit_flip(alice_seed))
+  File './task.py', line 68, in bit_flip
+    flip_str = base64.b64decode(input().strip())
+  File '/usr/lib/python3.6/base64.py', line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding"
+
+     * "test1" gives the same traceback error
+
+     * and "tstr" gives: "Generated after 384 iterations
+bob number 5103250807491952957239459580172581987744526571602465741907996753893016170446248565255540442214569809310230350573460418658863268791198481372463604589318573
+nKZRapBrdHpvGnIYdvuiXQ==
+/3VuxqXbKyurf7x64J/ZaExmUvmgKaS2rkK3FgovfbU="
+
+  * It's safe to assume that the test.py script takes values that must be either alphanumeric or non-alphanumeric and length of 4.
+
+
+* netcated to:
+  * nc bitflip1.hackable.software 1337
+    * output: "Please use the following command to solve the Proof of Work: hashcash -mb28 ookrcpvo"
+  * concerning hashcash: https://dl.acm.org/doi/abs/10.5555/3381540.3381547
+
+
+* source code analysis:
+  
