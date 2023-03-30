@@ -1,4 +1,11 @@
 
+"""
+A solution to "repetition" for the picoCTF 2023 ctf.
+By A. S. "Aleksey" Ahmann <alexander.ahmann@outlook.com>
+ * GitHub: https://github.com/Alekseyyy
+ * Medium: https://medium.com/@EpsilonCalculus
+"""
+
 # sources:
 # 1. https://www.geeksforgeeks.org/python-convert-string-to-bytes/
 # 2. https://docs.python.org/3/library/base64.html

@@ -1,9 +1,12 @@
 
 <img width="450px" src="./banner.jpg" />
 
-This is GitHub repository that showcases the work that I did for picoCTF.
+This is GitHub repository that showcases the work that I did for [picoCTF](https://picoctf.org/) 2023 edition.
 
 ## Writeups
+
+* "Aleksey" (2023). [picoCTF writeup: Decompilation of a simple Android Package](https://mobileappcircular.com/picoctf-writeup-decompilation-of-a-simple-android-package-57608b7c5929). Mobile App Circular.
+    * This writeup deals with the following picoCTF 2023 challenges: [timer](./sol/timer).
 
 ## Challenges
 
@@ -46,6 +49,14 @@ This is GitHub repository that showcases the work that I did for picoCTF.
 * [Virtual Machine 0](./usol/Virtual%20Machine%200)
 
 </details>
+
+## Rankings
+
+* I rank 1238 out of 6924 in the _Global_ scoreboard.
+* I rank 414 out of 2463 in the _Undergraduate Students_ scoreboard.
+
+<br />
+<img width="500px;" src="./individual_stats.png" />
 
 ## Further Reading
 

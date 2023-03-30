@@ -1,8 +1,8 @@
 # SOAP
 
-Author: Geoffrey Njogu
-Location: https://play.picoctf.org/events/72/challenges/challenge/376
-Tags: Web Exploitation, XXE
+* Author: Geoffrey Njogu
+* Location: https://play.picoctf.org/events/72/challenges/challenge/376
+* Tags: Web Exploitation, XXE
 
 ## Problem
 
