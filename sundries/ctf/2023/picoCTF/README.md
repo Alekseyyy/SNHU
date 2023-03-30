@@ -56,7 +56,7 @@ This is GitHub repository that showcases the work that I did for [picoCTF](https
 * I rank 414 out of 2463 in the _Undergraduate Students_ scoreboard.
 
 <br />
-<img width="500px;" src="./individual_stats.png" />
+<img width="700px;" src="./individual_stats.png" />
 
 ## Further Reading
 

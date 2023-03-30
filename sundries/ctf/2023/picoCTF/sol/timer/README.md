@@ -1,7 +1,7 @@
 # timer
 
-Author: Loic Shema
-Location: https://play.picoctf.org/events/72/challenges/challenge/381
+* Author: Loic Shema
+* Location: https://play.picoctf.org/events/72/challenges/challenge/381
 
 ## Problem
 

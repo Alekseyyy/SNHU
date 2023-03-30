@@ -1,7 +1,7 @@
 # Reverse
 
-Author: Mubarak Mikail
-Location: https://play.picoctf.org/events/72/challenges/challenge/372
+* Author: Mubarak Mikail
+* Location: https://play.picoctf.org/events/72/challenges/challenge/372
 
 ## Problem 
 

@@ -1,8 +1,8 @@
 # findme
 
-Author: Geoffrey Njogu
-Location: https://play.picoctf.org/events/72/challenges/challenge/349
-Tags: Web Exploitation
+* Author: Geoffrey Njogu
+* Location: https://play.picoctf.org/events/72/challenges/challenge/349
+* Tags: Web Exploitation
 
 ## Problem
 

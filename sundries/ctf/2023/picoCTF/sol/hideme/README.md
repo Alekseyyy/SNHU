@@ -1,8 +1,8 @@
 # hideme
 
-Author: Geoffrey Njogu
-Location: https://play.picoctf.org/events/72/challenges/challenge/350
-Tags: Forensics, Steganography
+* Author: Geoffrey Njogu
+* Location: https://play.picoctf.org/events/72/challenges/challenge/350
+* Tags: Forensics, Steganography
 
 ## Problem
 

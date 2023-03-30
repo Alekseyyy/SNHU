@@ -1,8 +1,8 @@
 # Rules 2023
 
-Author: LT 'syreal' Jones
-Location: https://play.picoctf.org/events/72/challenges/challenge/374
-Tags: General Skills
+* Author: LT 'syreal' Jones
+* Location: https://play.picoctf.org/events/72/challenges/challenge/374
+* Tags: General Skills
 
 ## Problem
 

@@ -1,8 +1,8 @@
 # MatchTheRegex
 
-Author: Sunday Jacob Nwanyim
-Location: https://play.picoctf.org/events/72/challenges/challenge/356
-Tags: Web Exploitation
+* Author: Sunday Jacob Nwanyim
+* Location: https://play.picoctf.org/events/72/challenges/challenge/356
+* Tags: Web Exploitation
 
 ## Problem
 

@@ -1,8 +1,8 @@
 # useless
 
-Author: Loic Shema
-Location: https://play.picoctf.org/events/72/challenges/challenge/384
-Tags: General Skills, man
+* Author: Loic Shema
+* Location: https://play.picoctf.org/events/72/challenges/challenge/384
+* Tags: General Skills, man
 
 ## Problem
 

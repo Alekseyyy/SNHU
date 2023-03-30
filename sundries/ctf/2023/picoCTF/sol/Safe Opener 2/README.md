@@ -1,7 +1,7 @@
 # Safe Opener 2
 
-Author: Mubarak Mikail
-Location: https://play.picoctf.org/events/72/challenges/challenge/375
+* Author: Mubarak Mikail
+* Location: https://play.picoctf.org/events/72/challenges/challenge/375
 
 ## Problem 
 
