@@ -7,6 +7,8 @@ This is GitHub repository that showcases the work that I did for [picoCTF](https
 
 * "Aleksey" (2023). [picoCTF writeup: Decompilation of a simple Android Package](https://mobileappcircular.com/picoctf-writeup-decompilation-of-a-simple-android-package-57608b7c5929). Mobile App Circular.
     * This writeup deals with the following picoCTF 2023 challenges: [timer](./sol/timer).
+* "Aleksey" (2023). [Basic Linux skills for coders: Learning about that ubiquitous series of distros from picoCTF 2023](https://levelup.gitconnected.com/basic-linux-skills-for-coders-c34f4dba185d). Level Up Coding.
+    * This writeup deals with the following picoCTF 2023 challenges: [Permissions](./sol/Permissions), [chrono](./sol/chrono), [useless](./sol/useless), [repetitions](./sol/repetitions), [Special](./sol/Special), and with honourable mention of _Specialer_.
 
 ## Challenges
 
