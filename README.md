@@ -20,10 +20,11 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 |__Course name__|__Course number__|__Course documents__|
 |-|-|-|
 |Precalculus|MAT140|[here](./coursework/MAT140/)|
-|Perspectives in social science|SCS100|[here](./coursework/SCS100/)|
-|Applied social science|SCS200|[here](./coursework/SCS200/)|
-|Introduction to Structured Database Environments|DAD220|[here](./coursework/DAD220/)|
 |Introduction to Physics|PHY150|[here](./coursework/PHY150/)|
+|Perspectives in History|HIS100|[here](./coursework/HIS100/)|
+|Perspectives in Social Science|SCS100|[here](./coursework/SCS100/)|
+|Applied Social Science|SCS200|[here](./coursework/SCS200/)|
+|Introduction to Structured Database Environments|DAD220|[here](./coursework/DAD220/)|
 
 </details>
 
@@ -37,10 +38,11 @@ Some online courses that I took were able to be articulated to college credit at
 |__Online course__|__Provider__|__SNHU course name__|__SNHU course number__|
 |-----------------|------------|--------------------|----------------------|
 | [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/ba83ef4d67d94dca87154ed312181845) | edX | Introduction to Scripting | ~~todo~~ |
+| [Introduction to Java Programming](./coursework/IT145) | Sophia Learning | Foundations of Application Development | IT145 |
 
 ### Open Source Society University (OSSU)
 
-A significant educational project that I am working on is a (unaccredited, but cheap) computer science "major" from the [Open Source Society University](https://github.com/ossu) --- or simply just the "OSSU." This GitHub repository also includes all of my other non-accredited coursework that is not directly associated with the curriculum proposed by the OSSU project. It is basically a semi-formal way to validate my skills in computing and its relationship to other fields.
+A significant educational project that I am working on is a (unaccredited, but cheap) set of STEM "majors" from the [Open Source Society University](https://github.com/ossu) --- or simply just the "OSSU." This GitHub repository also includes all of my other non-accredited coursework that is not directly associated with the curriculum proposed by the OSSU project. It is basically a semi-formal way to validate my skills in computing and its relationship to other fields.
 
 This project is so big that it deserves its own github repo and I recommend that you check it out if you're interested in some of my extracuricullar activities: [https://github.com/Alekseyyy/ossu](https://github.com/Alekseyyy/ossu)
 

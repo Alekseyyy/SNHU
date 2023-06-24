@@ -1,7 +1,7 @@
 # rotation
 
 * Author: Loic Shema
-* Location: https://play.picoctf.org/events/72/challenges/challenge/373
+* Location: https://play.picoctf.org/practice/challenge/373
 * Tags: Cryptography
 
 ## Problem

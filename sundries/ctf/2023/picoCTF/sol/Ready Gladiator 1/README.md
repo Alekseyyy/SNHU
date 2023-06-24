@@ -1,7 +1,7 @@
 # Ready Gladiator 1
 
 * Author: LT 'syreal' Jones
-* Location: https://play.picoctf.org/events/72/challenges/challenge/369
+* Location: https://play.picoctf.org/practice/challenge/369
 * Tags: Reverse Engineering, CoreWars
 
 ## Problem

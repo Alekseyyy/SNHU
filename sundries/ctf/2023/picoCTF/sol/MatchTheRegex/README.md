@@ -1,7 +1,7 @@
 # MatchTheRegex
 
 * Author: Sunday Jacob Nwanyim
-* Location: https://play.picoctf.org/events/72/challenges/challenge/356
+* Location: https://play.picoctf.org/practice/challenge/356
 * Tags: Web Exploitation
 
 ## Problem

@@ -1,0 +1,4 @@
+﻿  InvestmentAccount.cpp
+Z:\mod5\Project 2\Project 2\InvestmentAccount.cpp(122,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Z:\mod5\Project 2\Project 2\InvestmentAccount.cpp(122,23): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Project 2.vcxproj -> Z:\mod5\Project 2\x64\Debug\Project 2.exe

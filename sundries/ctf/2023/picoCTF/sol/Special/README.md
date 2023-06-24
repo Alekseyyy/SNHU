@@ -1,7 +1,7 @@
 # Special
 
 * Author: LT 'syreal' Jones
-* Link: https://play.picoctf.org/events/72/challenges/challenge/377
+* Link: https://play.picoctf.org/practice/challenge/377
 * Tags: General Skills, bash, ssh
 
 ## Problem

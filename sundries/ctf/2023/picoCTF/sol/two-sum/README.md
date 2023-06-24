@@ -1,7 +1,7 @@
 # two-sum
 
 * Author: Mubarak Mikail
-* Location: https://play.picoctf.org/events/72/challenges/challenge/382
+* Location: https://play.picoctf.org/practice/challenge/382
 * Tags: Binary Exploitation, C, make
 
 ## Problem

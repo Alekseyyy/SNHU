@@ -1,8 +1,8 @@
 # HideToSee
 
-Author: Sunday Jacob Nwanyim
-Location: https://play.picoctf.org/events/72/challenges/challenge/351
-Tags: Cryptography
+* Author: Sunday Jacob Nwanyim
+* Location: https://play.picoctf.org/events/72/challenges/challenge/351
+* Tags: Cryptography
 
 ## Problem 
 

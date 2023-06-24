@@ -1,7 +1,7 @@
 # who is it
 
 * Author: Junias Bonou
-* Location: https://play.picoctf.org/events/72/challenges/challenge/388
+* Location: https://play.picoctf.org/practice/challenge/388
 * Tags: Forensics, email
 
 ## Problem

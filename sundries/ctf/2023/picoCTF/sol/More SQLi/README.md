@@ -1,7 +1,7 @@
 # More SQLi
 
 * Author: Mubarak Mikail
-* Location: https://play.picoctf.org/events/72/challenges/challenge/358
+* Location: https://play.picoctf.org/practice/challenge/358
 * Tags: Web Exploitation, sql
 
 ## Problem 

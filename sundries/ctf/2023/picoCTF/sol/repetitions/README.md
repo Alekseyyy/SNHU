@@ -1,7 +1,7 @@
 # repetitions
 
 * Author: Theoneste Byagutangaza
-* Location: https://play.picoctf.org/events/72/challenges/challenge/371
+* Location: https://play.picoctf.org/practice/challenge/371
 * Tags: General Skills, base64
 
 ## Problem 

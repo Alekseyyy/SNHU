@@ -1,7 +1,7 @@
 # ReadMyCert
 
 * Author: Sunday Jacob Nwanyim
-* Location: https://play.picoctf.org/events/72/challenges/challenge/367
+* Location: https://play.picoctf.org/practice/challenge/367
 * Tags: Cryptography
 
 ## Problem

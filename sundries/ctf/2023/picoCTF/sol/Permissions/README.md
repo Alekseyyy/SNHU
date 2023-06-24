@@ -1,7 +1,7 @@
 # Permissions
 
 * Author: Geoffrey Njogu
-* Location: https://play.picoctf.org/events/72/challenges/challenge/363
+* Location: https://play.picoctf.org/practice/challenge/363
 * Tags: General Skills, vim
 
 ## Problem

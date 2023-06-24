@@ -1,7 +1,8 @@
 # Reverse
 
 * Author: Mubarak Mikail
-* Location: https://play.picoctf.org/events/72/challenges/challenge/372
+* Location: https://play.picoctf.org/practice/challenge/372
+* Reverse Engineering
 
 ## Problem 
 

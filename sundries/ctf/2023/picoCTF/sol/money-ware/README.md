@@ -1,7 +1,7 @@
 # money-ware
 
 * Author: Juni19
-* Location: https://play.picoctf.org/events/72/challenges/challenge/357
+* Location: https://play.picoctf.org/practice/challenge/357
 * Tags: General Skills, osint
 
 ## Problem

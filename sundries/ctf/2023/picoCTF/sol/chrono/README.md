@@ -1,7 +1,7 @@
 # chrono
 
 * Author: Mubarak Mikail
-* Location: https://play.picoctf.org/events/72/challenges/challenge/347
+* Location: https://play.picoctf.org/practice/challenge/347
 * Tags: General Skills, linux
 
 ## Problem
