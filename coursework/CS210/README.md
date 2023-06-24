@@ -1,5 +1,5 @@
 
-<img src="./banner.png" width="300px" />
+<img src="./banner.png" width="500px" />
 
 ## Projects
 
