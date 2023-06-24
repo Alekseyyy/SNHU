@@ -5,21 +5,27 @@ This is a simple utility that reads the text file ``inventory.txt`` which contai
 
 ## Usage
 
-### Search for a specific item
+<details>
+<summary>Search for a specific item</summary>
 
 <img src="./images/Figure_1.png" width="600px" />
+</details>
 
-### Display all frequencies
+<details>
+<summary>Display all frequencies</summary>
 
 <img src="./images/Figure_2.png" width="600px" />
+</details>
 
-### Display a frequency distribution
+<details>
+<summary>Display a frequency distribution</summary>
 
 <img src="./images/Figure_3.png" width="600px" />
+</details>
 
-## "Behind the scenes"
+## Discussion
 
-### Discussion
+### Limitation
 
-* __Limitations__ 
-    * From the teacher's feedback: sufficient documentation has not been developed for the end user.
+From the teacher's feedback: sufficient documentation has not been developed for the end user.
+
