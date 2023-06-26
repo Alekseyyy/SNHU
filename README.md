@@ -17,15 +17,15 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 <details>
 <summary>Accredited In-University Coursework</summary>
 
-|__Course name__|__Course number__|__Course documents__|
-|---------------|-----------------|--------------------|
-|Precalculus|MAT140|[here](./coursework/MAT140/)|
-|Introduction to Physics|PHY150|[here](./coursework/PHY150/)|
-|Perspectives in History|HIS100|[here](./coursework/HIS100/)|
-|Perspectives in Social Science|SCS100|[here](./coursework/SCS100/)|
-|Applied Social Science|SCS200|[here](./coursework/SCS200/)|
-|Introduction to Structured Database Environments|DAD220|[here](./coursework/DAD220/)|
-|Programming Languages|CS210|[here](./coursework/CS210/)|
+|__Course name__|__Course number__|
+|---------------|-----------------|
+|[Precalculus]((./coursework/MAT140/))|MAT140|
+|[Introduction to Physics](./coursework/PHY150/)|PHY150|
+|[Perspectives in History](./coursework/HIS100/)|HIS100|
+|[Perspectives in Social Science](./coursework/SCS100/)|SCS100|
+|[Applied Social Science](./coursework/SCS200/)|SCS200|
+|[Introduction to Structured Database Environments](./coursework/DAD220/)|DAD220|
+|[Programming Languages](./coursework/CS210/)|CS210|
 
 </details>
 
@@ -52,8 +52,6 @@ This project is so big that it deserves its own github repo and I recommend that
 ## Sundries
 
 Outside of school, I like to "stay sharp" by doing computer science practice with sundry textbook problems, and practice systems/other programming, practice information security and other kinds of computer-based practice. I also like to dabble in other STEM and humanities related fields.
-
-I also have a github repository called "[ctfs](https://github.com/Alekseyyy/ctfs)" where I document my achievements (and failures) in the world of infosec and competitive computer programming.
 
 <details>
 <summary>Textbook problems</summary>
@@ -87,7 +85,16 @@ __Computer science__
 </details>
 
 <details>
-<summary>InfoSec labs and "capture the flag" practice</summary>
+<summary>Capture The Flags (CTFs)</summary>
+
+* [picoCTF 2023](./sundries/ctf/2023/picoCTF): general beginner-level ctf challenges.
+* [Decompetition 2020](./sundries/ctf/2020/decompetition): intresting reverse engineering puzzles: rather than trying to work out a "flag," participants are challenged to reengineer compiled executables in a programming language.
+* [FlareON 5](./sundries/ctf/2018/flareon5): ctf focused on reverse engineering.
+
+</details>
+
+<details>
+<summary>InfoSec labs and CTF practice</summary>
 
 * [ImmersiveLabs](./sundries/wargames/ImmersiveLabs): general infosec
 * [TryHackMe](./sundries/wargames/TryHackMe): general infosec
@@ -104,3 +111,4 @@ __Computer science__
 * [RESEARCHERS.ONE paper](./auxiliary/latex-templates/resone-paper/)
 
 </details>
+

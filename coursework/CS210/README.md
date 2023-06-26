@@ -9,8 +9,8 @@ Throughout this class, I have completed three programming projects to demonstrat
 
 I also present two other projects that I worked on in the class:
 
-* [Project 1](./project/p1):
-* [Project 2](./project/p2):
+* [Project 1](./projects/p1): A simple C++ utility that keeps time.
+* [Project 2](./projects/p2): A simple C++ accounting tool that works out compound interest.
 
 ## Programming Labs
 
@@ -36,5 +36,5 @@ Solutions to selected problems from the zyBooks textbook:
 * Bibi, K. (2022). _Pass String by Reference in C++_. Linux Hint. Last Retrieved on Jun. 23, 2023 from: https://linuxhint.com/pass-string-reference-cpp/
 * cplusplus.com (n.d.). ``std::set``. Last Retrieved on Jun. 23, 2023 from: https://cplusplus.com/reference/set/set/
 * Rollbar Editorial Team (2021). _Throwing Exceptions in C++_. Last Retrieved on Jun. 23, 2023 from: https://rollbar.com/blog/error-exceptions-in-c/
-* Techie Delight (n.d.). _Use an object as a key in ``std::set`` in C++_. Last Retrieved on Jun. 23, 2023 from: https://www.techiedelight.com/use-object-key-stdset-cpp/
-* Tutorials Point (n.d.). _Set ``insert()`` in C++ STL_.
+* Techie Delight (n.d.). _Use an object as a key in_ ``std::set`` _in C++_. Last Retrieved on Jun. 23, 2023 from: https://www.techiedelight.com/use-object-key-stdset-cpp/
+* Tutorials Point (n.d.). _Set_ ``insert()`` _in C++ STL_.
