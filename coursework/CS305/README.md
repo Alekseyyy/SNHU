@@ -5,7 +5,12 @@
 
 ### Assignments
 
-### References
+### Resources
+
+* The course supplied a [Vulnerability Assessment Process Flow](./resources/VAPF_Diagram.pdf) diagram.
+
+<details>
+<summary>References</summary>
 
 Apache Maven (2023). _Introduction_. Last Retrieved on Aug. 16, 2023 from https://maven.apache.org/what-is-maven.html
 
@@ -16,3 +21,5 @@ Dependency Check (2023). _Usage_. Retrieved on Aug. 16, 2023 from https://jeremy
 OWASP Foundation (2010). _OWASP Secure Coding Practices Quick Reference Guide_. Retrieved on Aug. 16, 2023 from: https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v1.pdf
 
 Secure Coding Guidelines for Java SE (v. 10.0). Last retrieved on Aug. 16, 2023 from: https://www.oracle.com/java/technologies/javase/seccodeguide.html
+
+</details>
