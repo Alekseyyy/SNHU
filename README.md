@@ -18,18 +18,17 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 <summary>Accredited In-University Coursework</summary>
 
 |__Core CS coursework__| |
-|---------------|-----------------|
-|__Course name__|__Course number__|
+|---------------|-------------|
+|_Course name_|_Course number_|
 |[Programming Languages](./coursework/CS210/)|CS210|
 |[Secure Coding](./coursework/CS305/)|CS305|
 |[Introduction to Structured Database Environments](./coursework/DAD220/)|DAD220|
 |__General STEM coursework__| |
-|__Course name__|__Course number__|
+|_Course name_|_Course number_|
 |[Precalculus]((./coursework/MAT140/))|MAT140|
 |[Introduction to Physics](./coursework/PHY150/)|PHY150|
-| __Other prerequisite coursework__ | |
-|__Course name__|__Course number__|
-|---------------|-----------------|
+|__Other prerequisite coursework__ | |
+|_Course name_|_Course number_|
 |[Perspectives in History](./coursework/HIS100/)|HIS100|
 |[Applied History](./coursework/HIS200/)|HIS200|
 |[Perspectives in Social Science](./coursework/SCS100/)|SCS100|
