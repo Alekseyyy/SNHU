@@ -1,13 +1,20 @@
 
 ## CS-305: Secure Coding
 
+> "Through the analysis of advanced security concepts, students will learn how to develop secure code that complies with security testing protocols. In addition to exploring and implementing security concepts through code, students will also learn why and how to apply encryption technologies and techniques to communicate securely." From the [SNHU Academic Catalog c.a. Nov. 2023](http://web.archive.org/web/20231115161441/https://www.snhu.edu/admission/academic-catalogs#/courses/view/63fe2de7e698f7ed682369ac)
+
 ### Projects
+
+* [Vulnerability Assessment Report: Part I](./projects/proj1/): this report involves using automated and manual static testing to reveal vulnerabilities in code, and then recommending fixes of said vulnerabilities. Previous cybercrimes and standards by which individuals and organisations can use as a guideline to protect themselves is also briefly discussed.
+* [Vulnerability Assessment Report: Part II](./projects/proj2/): this is an extension of the report produced in the previous project. In it, I discuss techniques for implementing cryptography for data at rest and data in transit to protect the confidentality and integrity of said data. I also do automatic and manual static analysis to identify vulnerable code and fix them.
 
 ### Assignments
 
+[todo]
+
 ### Resources
 
-* The course supplied a [Vulnerability Assessment Process Flow](./resources/VAPF_Diagram.pdf) diagram.
+The course supplied a [Vulnerability Assessment Process Flow](./resources/VAPF_Diagram.pdf) diagram.
 
 <details>
 <summary>References</summary>
