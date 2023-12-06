@@ -1,5 +1,5 @@
 
-<img width="400px" src="./banner.jpg" />
+<img width="500px" src="./banner.jpg" />
 
 Banner image from ["SNHU Computer Science", (2023)](https://youtu.be/mfZ_znx-YO8)
 
@@ -30,8 +30,9 @@ CS-330 is arguably the most difficult course in _Southern New Hampshire Universi
 ### Case Studies & Examples
 
 * [OpenGL Examples (n.d.)](https://cs.lmu.edu/~ray/notes/openglexamples/) from what appears to be a university student or teacher's lecture notes.
-* A WebGL simulation of fluid mechanics \([Wallace 2011](https://experiments.withgoogle.com/webgl-water-simulation)\).
 * [Google Arts & Crafts Bagan (n.d.)](https://artsexperiments.withgoogle.com/bagan): an application of WebGL to create a multimedia experience of what (I think?) is are depictions of foreign cultures.
+* A WebGL simulation of fluid mechanics \([Wallace 2011](https://experiments.withgoogle.com/webgl-water-simulation)\).
+* An art student's \([Rodić, n.d.](https://akirodic.com/p/jellyfish/)\) demonstration of lighting with a Jellyfish WebGL animation.
 
 
 The following are open textbooks and other resources recommended by the course instructor for each week or module:
@@ -67,6 +68,12 @@ The following are open textbooks and other resources recommended by the course i
   * An article discussing a new kind of brain-computer interface \([Protalinski 2020](https://venturebeat.com/ai/nextmind-is-building-a-real-time-brain-computer-interface-unveils-dev-kit-for-399/)\).
 </details>
 
+<details>
+  <summary>Module 6: Lighting</summary>
+
+  * [Learn OpenGL (n.d.-?)](https://learnopengl.com/Lighting/Colors) textbook section for lighting.
+</details>
+
 <hr>
 
 ### References
@@ -88,6 +95,7 @@ The following are open textbooks and other resources recommended by the course i
   * Programmer Sought (n.d.). _Relative and absolute paths in C++_. Retrieved on Nov. 15, 2023 from: https://programmersought.com/article/27101006403/
   * Protalinski, E. (2020). _NextMind is building a real-time brain computer interface, unveils Dev Kit for $399._ VentureBeat. Retrieved on Nov. 15, 2023 from: https://venturebeat.com/ai/nextmind-is-building-a-real-time-brain-computer-interface-unveils-dev-kit-for-399/
   * Rightware Blog (2020). _6 seriously cool ways to use 3D computer graphics._ Retrieved on Nov. 15, 2023 from: https://rightware.com/blog/6-seriously-cool-ways-to-use-3d-computer-graphics/
+  * Rodić, A. A. (n.d.). _WebGL: Jellyfish._ Retrieved on Dec. 5, 2023 from: https://akirodic.com/p/jellyfish/
   * Unreal Engine (2020). _Unreal Engine 5 Revealed! | Next-Gen Real-Time Demo Running on PlayStation 5._ YouTube Video. Retrieved on Nov. 15, 2023 from: https://www.youtube.com/watch?v=qC5KtatMcUw
   * Wallace, E. (2011). _WebGL Water Simulation_. Experiments with Google. Retrieved on Nov. 15, 2023 from: https://experiments.withgoogle.com/webgl-water-simulation
 </details>
