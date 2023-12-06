@@ -1,26 +1,38 @@
 
-## CS-330: Computational Graphics and Visualization
+<img width="400px" src="./banner.jpg" />
+
+Banner image from ["SNHU Computer Science", (2023)](https://youtu.be/mfZ_znx-YO8)
 
 > "Students will create realistic, interactive three-dimensional objects through the use of application programming interface (API) libraries and best practices. Students will also develop fully formed graphic applications that meet project requirements." - From the [SNHU Course Catalog](http://web.archive.org/web/20231115161441/https://www.snhu.edu/admission/academic-catalogs#/courses/view/63fe2de7e698f7ed682369ac).
 
-### Project
+## Project
 
 [tba]
 
-### Assignments
+## Assignments
 
 [todo]
 
-### Resources
+## Resources
 
 CS-330 is arguably the most difficult course in _Southern New Hampshire University's_ computer science programme. The following are tutorials that have been created to help students taking this course do as well as they can:
 
-* ["CS-330" YouTube playlist & video series](https://www.youtube.com/playlist?list=PLI5uOhAD-G-MdbltQJdcrO_tzMfqXvZU0) by user ["SNHU Computer Science"](https://www.youtube.com/@snhucomputerscience).
-* [OpenGL Examples (n.d.)](https://cs.lmu.edu/~ray/notes/openglexamples/) from what appears to be a university student or teacher's lecture notes.
-* Article: [3D Graphics with OpenGL: Basic Theory (c.a. 2012)](https://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html).
-* [Google Arts & Crafts Bagan (n.d.)](https://artsexperiments.withgoogle.com/bagan): an application of WebGL to create a multimedia experience of what (I think?) is are depictions of foreign cultures.
+### Tutorials
+
+* ["CS-330" YouTube playlist & video series](https://www.youtube.com/playlist?list=PLI5uOhAD-G-MdbltQJdcrO_tzMfqXvZU0) by the [SNHU Computer Science](https://www.youtube.com/@snhucomputerscience) channel.
+* [OpenGL Course: Create 3D and 2D Graphics With C++](https://www.youtube.com/watch?v=45MIykWJ-C4) by the [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) _YouTube_ channel.
+
+### Articles
+
 * A discussion of absolute file paths versus relative file paths, useful for configuing the IDE to use libraries \([Programmer Sought, n.d.](https://programmersought.com/article/27101006403/)\).
+* Article: [3D Graphics with OpenGL: Basic Theory (c.a. 2012)](https://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html).
+
+### Case Studies & Examples
+
+* [OpenGL Examples (n.d.)](https://cs.lmu.edu/~ray/notes/openglexamples/) from what appears to be a university student or teacher's lecture notes.
 * A WebGL simulation of fluid mechanics \([Wallace 2011](https://experiments.withgoogle.com/webgl-water-simulation)\).
+* [Google Arts & Crafts Bagan (n.d.)](https://artsexperiments.withgoogle.com/bagan): an application of WebGL to create a multimedia experience of what (I think?) is are depictions of foreign cultures.
+
 
 The following are open textbooks and other resources recommended by the course instructor for each week or module:
 
