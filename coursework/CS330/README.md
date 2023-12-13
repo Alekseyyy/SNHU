@@ -15,7 +15,9 @@ Banner image from ["SNHU Computer Science", (2023)](https://youtu.be/mfZ_znx-YO8
 
 ## Resources
 
-CS-330 is arguably the most difficult course in _Southern New Hampshire University's_ computer science programme. The following are tutorials that have been created to help students taking this course do as well as they can:
+CS-330 is arguably the most difficult course in _Southern New Hampshire University's_ computer science programme. The following are tutorials that have been created to help students taking this course do as well as they can.
+
+* The CS-330 Course GitHub repository: [https://github.com/SNHU-CS/CS-330](https://github.com/SNHU-CS/CS-330)
 
 ### Tutorials
 
@@ -61,7 +63,7 @@ The following are open textbooks and other resources recommended by the course i
 </details>
 
 <details>
-  <summary>Module 4: Navigating via Camera</summary>
+  <summary><strike>Module 4: Navigating via Camera</strike></summary>
 
   * [Learn OpenGL (n.d.-e)](https://learnopengl.com/Getting-started/Camera) textbook section for working the camera.
   * [GLFW Documentation (n.d.-a)](https://www.glfw.org/docs/latest/input_guide.html) documentation on input peripherals.
@@ -69,9 +71,24 @@ The following are open textbooks and other resources recommended by the course i
 </details>
 
 <details>
-  <summary>Module 6: Lighting</summary>
+  <summary> <strike>Module 5: Texturing</strike> </summary>
+
+</details>
+
+<details>
+  <summary><strike>Module 6: Lighting</strike></summary>
 
   * [Learn OpenGL (n.d.-?)](https://learnopengl.com/Lighting/Colors) textbook section for lighting.
+</details>
+
+<details>
+  <summary> <strike>Module 7: Miscellaneous Topics</strike> </summary>
+
+</details>
+
+<details>
+  <summary> <strike>Module 8: Conclusion</strike> </summary>
+
 </details>
 
 <hr>
@@ -98,4 +115,5 @@ The following are open textbooks and other resources recommended by the course i
   * Rodić, A. A. (n.d.). _WebGL: Jellyfish._ Retrieved on Dec. 5, 2023 from: https://akirodic.com/p/jellyfish/
   * Unreal Engine (2020). _Unreal Engine 5 Revealed! | Next-Gen Real-Time Demo Running on PlayStation 5._ YouTube Video. Retrieved on Nov. 15, 2023 from: https://www.youtube.com/watch?v=qC5KtatMcUw
   * Wallace, E. (2011). _WebGL Water Simulation_. Experiments with Google. Retrieved on Nov. 15, 2023 from: https://experiments.withgoogle.com/webgl-water-simulation
+  * Wikipedia & Pursel, B. (n.d.). Human-computer Interaction. In _Information, People, and Technology_ Online Book. Penn State University. Retrieved on Dec. 13, 2023 from: https://psu.pb.unizin.org/ist110/
 </details>
