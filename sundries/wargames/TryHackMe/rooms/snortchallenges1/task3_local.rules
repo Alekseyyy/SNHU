@@ -1,0 +1,28 @@
+
+# ----------------
+# LOCAL RULES
+# ----------------
+# This file intentionally does not come with signatures.  Put your local
+# additions here.
+
+# Rule to detect traffic coming to and from TCP port 21
+
+alert tcp any 21 <> any any (msg: "Incoming TCP connection on port 21."; Sid: 1000001)
+alert tcp any any <> any 21 (msg: "Outgoing TCP connection on port 21."; Sid: 1000002)
+
+# Rule to detect failed FTP login attempts
+
+alert tcp any any <> any 21 (msg: "Failed FTP Login Attempt"; content:"530 User"; sid:1000003)
+
+# Rule to detect successful FTP login attempts
+
+alert tcp any any <> any 21 (msg: "Successful FTP Login Attempt"; content:"230 User"; sid:1000004)
+
+# Rule to detect failed FTP login attempts (when the username is known)
+
+alert tcp any any <> any 21 (msg: "Failed FTP login attempt with known username"; content:"331 Password"; sid:1000005)
+
+# Rule to detect failed FTP login attempts for the administrator
+
+alert tcp any any <> any 21 (msg: "Failed FTP login attempt for the Administrator"; content: "Administrator"; content: "331 Password"; sid:1000006)
+
