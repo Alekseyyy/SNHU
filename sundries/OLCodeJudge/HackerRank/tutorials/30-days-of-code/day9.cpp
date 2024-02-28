@@ -5,7 +5,7 @@
  *   Submitted on Feb. 24, 2024
  *   Link: https://www.hackerrank.com/challenges/30-recursion/problem
  * 
- * Objective: Today, we are learning about an algorithmic concept called recursion.
+ * Task description: 
  */
 
 #include <bits/stdc++.h>

@@ -5,7 +5,7 @@
  *   Submitted on Feb. 21, 2024
  *   Link: https://www.hackerrank.com/challenges/30-arrays/problem
  * 
- * Objective: Today, we will learn about the Array data structure.
+ * Task description: 
  */
 
 #include <bits/stdc++.h>

@@ -5,7 +5,7 @@
  *   Submitted on Feb. 19, 2024
  *   Link: https://www.hackerrank.com/challenges/30-conditional-statements/problem
  * 
- * Objective: "In this challenge, we learn about conditional statements."
+ * Task description: 
  */
 
 #include <bits/stdc++.h>

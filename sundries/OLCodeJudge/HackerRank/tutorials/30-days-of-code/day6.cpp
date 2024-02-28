@@ -5,7 +5,7 @@
  *   Submitted on Feb. 21, 2024
  *   Link: https://www.hackerrank.com/challenges/30-review-loop/problem
  * 
- * Objective: Today we will expand our knowledge of strings, combining it with what we have already learned about loops.
+ * Task description: 
  */
 
 #include <cmath>

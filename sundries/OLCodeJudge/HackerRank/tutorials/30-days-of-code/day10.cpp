@@ -5,7 +5,7 @@
  *   Submitted on Feb. 24, 2024
  *   Link: https://www.hackerrank.com/challenges/30-binary-numbers/problem
  * 
- * Objective: Today, we're working with binary numbers.
+ * Task description: 
  */
 
 #include <bits/stdc++.h>

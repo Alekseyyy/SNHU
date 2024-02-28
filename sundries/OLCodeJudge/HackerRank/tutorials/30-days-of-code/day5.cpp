@@ -5,7 +5,7 @@
  *   Submitted on Feb. 21, 2024
  *   Link: https://www.hackerrank.com/challenges/30-loops/problem
  * 
- * Objective: In this challenge, we will use loops to do some math.
+ * Task description:
  */
 
 #include <bits/stdc++.h>

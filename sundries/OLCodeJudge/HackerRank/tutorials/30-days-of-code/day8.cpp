@@ -5,7 +5,7 @@
  *   Submitted on Feb. 22, 2024
  *   Link: https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem
  * 
- * Objective: Today, we're learning about Key-Value pair mappings using a Map or Dictionary data structure.
+ * Task description: 
  */
 
 #include <cmath>

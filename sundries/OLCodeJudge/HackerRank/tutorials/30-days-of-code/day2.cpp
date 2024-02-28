@@ -5,7 +5,7 @@
  *   Submitted on Feb. 19, 2024
  *   Link: https://www.hackerrank.com/challenges/30-operators/problem
  * 
- * Objective: "In this challenge, you will work with arithmetic operators."
+ * Task description: 
  */
 
 #include <bits/stdc++.h>
