@@ -2,17 +2,19 @@
  * Tutorial: 30 Days of Code.
  * A solution to "Day 10: Binary Numbers"
  *   Submitted by A. S. "Aleksey" Ahmann <alekseyyy2@outlook.com>
- *   Submitted on Feb. 24, 2024
+ *   Submitted on Feb. 29, 2024
  *   Link: https://www.hackerrank.com/challenges/30-binary-numbers/problem
  * 
- * Task description: 
+ * Task description: Given a base-10 integer, n, convert it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation. When working with different bases, it is common to show the base as a subscript. 
  */
 
 #include <bits/stdc++.h>
 
 using namespace std;
 
-void DecimalToBinary(int n);
+list<int> DecimalToBinary(int n);
+int MaximalConsecutive(list<int> result);
+
 string ltrim(const string &);
 string rtrim(const string &);
 
@@ -22,16 +24,19 @@ int main()
     getline(cin, n_temp);
 
     int n = stoi(ltrim(rtrim(n_temp)));
-    DecimalToBinary(n);
+    
+    list<int> binaryRepresentation = DecimalToBinary(n);
+    int maxConsecutive = MaximalConsecutive(binaryRepresentation);
+    
+    cout << maxConsecutive << endl;
 
     return 0;
 }
 
-void DecimalToBinary(int n) {
+list<int> DecimalToBinary(int n) {
     
     list<int> result;
     
-    // Convert it to binary
     int i = 0;
     while (n > 0) {
         result.push_back(n % 2);
@@ -39,7 +44,10 @@ void DecimalToBinary(int n) {
         i++;
     }
     
-    // Determine the length of the biggest consecutive 1s
+    return result;
+}
+
+int MaximalConsecutive(list<int> result) {
     int max_count, curr_count;
     max_count = 0;
     curr_count = 0;
@@ -51,8 +59,7 @@ void DecimalToBinary(int n) {
             max_count = max(max_count, curr_count);
         }
     }
-    cout << max_count << endl;
-    
+    return max_count;
 }
 
 string ltrim(const string &str) {
