@@ -1,6 +1,15 @@
 
-# Submitted by: A. S. "Aleksey" Ahmann <alekseyyy2@outlook.com
-# Problem statement: Given two integers, X and Y, identify whether X < Y or X > Y or X = Y. 
+# Domain: Linux Shell
+# A solution to "Compariing Numbers"
+#   Submitted by A. S. "Aleksey" Ahmann <alekseyyy2@outlook.com>
+#   Submitted on: [tba]
+#   Link: https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem
+#
+# Task description: Given two integers, X and Y, identify whether:
+#   1. X < Y, 
+#   2. or X > Y,
+#   3. or X = Y. 
+#
 
 read X
 read Y
@@ -19,7 +28,9 @@ then
 
 fi
 
-# Notes:
-# * I learnt that Bash is super sensitive regarding its syntax. Examples:
-# ** [ "$X" -eq "$Y" ] needs to have spaces; ["$X" -eq "$Y"] DOES NOT WORK (notice te lack of spaces between the brackets)!
+#
+# Endnotes:
+# 1. I learnt that Bash is super sensitive regarding its syntax. Examples:
+# 2. [ "$X" -eq "$Y" ] needs to have spaces; ["$X" -eq "$Y"] DOES NOT WORK!!!1 (notice te lack of spaces between the brackets)
+#
 
