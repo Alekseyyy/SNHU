@@ -1,5 +1,5 @@
 
-<img src="./banner.png" width="500px" />
+<img src="./banner.png" width="600px" />
 
 These are my solutions and notes to [HackerRank](https://hackerrank.com) coding problems.
 
