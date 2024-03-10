@@ -1,5 +1,5 @@
 
-<img src="./banner.jpg" width="400px;" />
+<img src="./banner.jpg" width="500px;" />
 
 ![cs student](https://img.shields.io/badge/CS-student-f39f37)
 ![software engineer](https://img.shields.io/badge/software-engineer-f39f37)
