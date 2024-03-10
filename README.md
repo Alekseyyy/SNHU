@@ -1,5 +1,5 @@
 
-<img src="./banner.jpg" width="375px;" />
+<img src="./banner.jpg" width="400px;" />
 
 ![cs student](https://img.shields.io/badge/CS-student-f39f37)
 ![software engineer](https://img.shields.io/badge/software-engineer-f39f37)
@@ -86,8 +86,9 @@ __Computer science__
 <details>
 <summary>Online code judges</summary>
 
+* [HackerRank](./sundries/OLCodeJudge/HackerRank): general programming
 * [DM::OJ](./sundries/OLCodeJudge/DMOJ): general programming
-* [Project Euler](./sundries/OLCodeJudge/ProjectEuler): with special focus on number theory and other maths
+* [Project Euler](./sundries/OLCodeJudge/ProjectEuler): with special focus on number theory and maths
 
 </details>
 
@@ -95,7 +96,8 @@ __Computer science__
 <summary>Capture The Flags (CTFs)</summary>
 
 * [picoCTF 2023](./sundries/ctf/2023/picoCTF): general beginner-level ctf challenges.
-* [Decompetition 2020](./sundries/ctf/2020/decompetition): intresting reverse engineering puzzles: rather than trying to work out a "flag," participants are challenged to reengineer compiled executables in a programming language.
+* [BrixelCTF 2020](./sundries/ctf/2020/brixelctf): general beginner-level ctf challenges.
+* [Decompetition 2020](./sundries/ctf/2020/decompetition): intresting reverse engineering puzzles--- rather than trying to work out a "flag," participants are challenged to reengineer compiled executables in a programming language.
 * [FlareON 5](./sundries/ctf/2018/flareon5): ctf focused on reverse engineering.
 
 </details>
@@ -105,7 +107,7 @@ __Computer science__
 
 * [ImmersiveLabs](./sundries/wargames/ImmersiveLabs): general infosec
 * [TryHackMe](./sundries/wargames/TryHackMe): general infosec
-* [crackmes.one](./sundries/wargames/crackmes.one): with special focus on reverse engineering
+* [crackmes.one](./sundries/wargames/crackmes.one): infosec with a special focus on reversing
 
 </details>
 

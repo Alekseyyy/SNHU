@@ -9,3 +9,4 @@ note: that the password for the challenge 7zip archive is "flare"
 
 1. _credchecker_ \([notes](./notes/1.md), [download challenge](./challenges/01_credchecker.7z)\)
 2. _known_ \([notes](./notes/2.md), [download challenge](./challenges/02_known.7z)\)
+
