@@ -1,15 +1,14 @@
 
 <a href="https://tryhackme.com/room/hackpark" target="_blank"><img src="./banner.png" width="700px" /></a>
 
-> "Bruteforce a websites login with Hydra, identify and use a public exploit then escalate your privileges on this Windows machine!"
-
 ## Background
 
 This room challenges its mock attackers to exploit vulnerabilities in a web application. It mainly involves brute forcing an admin login panel and exploiting a path traversial bug in the CMS. Post-exploitation has the attacker use [winPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS) to work out privesc vulnerabilities to get SYSTEM-level privileges on the target system.
 
-writeups: 
-    * https://infosecwriteups.com/tryhackme-writeup-hackpark-bd9c075c5262
-    * https://0x00sec.org/t/modified-cve-2019-6714-poc-to-execute-payload-via-mshta-exe/32728
+writeups:
+
+* https://infosecwriteups.com/tryhackme-writeup-hackpark-bd9c075c5262
+* https://0x00sec.org/t/modified-cve-2019-6714-poc-to-execute-payload-via-mshta-exe/32728
 
 ### Materials
 

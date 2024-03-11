@@ -1,5 +1,5 @@
 
-<img src="./banner.png" width="600px" />
+<img src="./banner.png" width="500px" />
 
 <a href="https://tryhackme.com/p/EntropyThot"><img src="https://tryhackme-badges.s3.amazonaws.com/EntropyThot.png" alt="TryHackMe Profile: @EntropyThot"></a>
 
@@ -32,5 +32,4 @@
 These are code snippets that I wrote to complete certain rooms:
 
 * [Dawkins.java](./code/Dawkins.java): this is a script that makes use of an evolutionary algorithm to crack a simple XOR cipher \(see [Aleksey 2022](https://medium.com/ai-in-plain-english/a-n-application-of-dawkins-weasel-to-cracking-a-simple-xor-cipher-5459f61dda39) for more info\).
-* [js-sort.htm](./code/js-sort.htm): this is a simple javascript driven array sorter for the room "[JavaScript Basics](https://tryhackme.com/room/javascriptbasics)." I have published an implementation of it on CodePen \([here](https://codepen.io/EpsilonCalculus/full/ZEXMxYr)\).
-* [PostView.cs](./code/PostView.cs): this is an exploit that I modified to launch a reverse Meterpreter shell via Microsoft's HTA as opposed to a generic reverse shell \(see [Aleksey 2022](https://medium.com/bugbountywriteup/tryhackme-writeup-hackpark-bd9c075c5262) for more info\).
+
