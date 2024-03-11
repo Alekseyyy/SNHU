@@ -1,5 +1,5 @@
 
-<img href="./banner.png" width="600px" />
+<img src="./banner.png" width="600px" />
 
 <a href="https://tryhackme.com/p/EntropyThot"><img src="https://tryhackme-badges.s3.amazonaws.com/EntropyThot.png" alt="TryHackMe Profile: @EntropyThot"></a>
 
