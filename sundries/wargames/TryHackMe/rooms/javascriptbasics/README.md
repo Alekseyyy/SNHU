@@ -18,7 +18,7 @@ This is a room that, like its title suggests, introduces JavaScript to the user.
 * [js-sort.htm](./materials/js-sort.htm): implementation of an inefficient sorting algorithm.
 * __CodePen Submission:__ https://codepen.io/EpsilonCalculus/full/ZEXMxYr
 
-## Discussion of the ``bad_sort``
+## ``bad_sort``
 
 The last task of the room challenges its users to write an JavaScript program to sort an array of numbers from least to greatest. I wrote a function called ``bad_sort`` that attempts to solve this problem:
 
@@ -38,8 +38,8 @@ const bad_sort = (x) => {
 	} while (x.length > 0);
 	return y;
 };
-
-input = [1,10,5,15,2,7,28,900,45,18,27]; // the solution is: [1,2,5,7,10,15,18,27,28,45,900]
-document.write("<p>Given an array of [" + input + "] ... <br><br> ... it is sorted from smallest to biggest as [" + bad_sort(input) + "].</p>");
 ```
+
+My sorting algorithm looks lite it can be refactored into something more readable, and the algorithm itself appears to be inefficient compared to more standard algorithms like QuickSort.
+
 

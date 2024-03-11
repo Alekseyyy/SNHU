@@ -5,14 +5,14 @@
 
 This room challenges its mock attackers to exploit vulnerabilities in a web application. It mainly involves brute forcing an admin login panel and exploiting a path traversial bug in the CMS. Post-exploitation has the attacker use [winPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS) to work out privesc vulnerabilities to get SYSTEM-level privileges on the target system.
 
-writeups:
+### Writeups
 
 * https://infosecwriteups.com/tryhackme-writeup-hackpark-bd9c075c5262
 * https://0x00sec.org/t/modified-cve-2019-6714-poc-to-execute-payload-via-mshta-exe/32728
 
 ### Materials
 
-* [PostView.cs](./materials/PostViews.cs): this is a custom payload that I wrote when exploiting a directory traversial vulnerability in a .NET content management system.
+* [PostView.cs](./materials/PostView.cs): this is a custom payload that I wrote when exploiting a directory traversial vulnerability in a .NET content management system.
 
 ## Takeaways
 

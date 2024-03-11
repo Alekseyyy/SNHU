@@ -5,14 +5,16 @@
 
 This room is an introduction to hacking into computer and information systems using Microsoft's [Active Directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview).
 
-* writeup: https://infosecwriteups.com/tryhackme-writeup-attacktive-directory-23d0705e46cb
+### Writeups
 
-### Files
+"Aleksey" (Mar. 14, 2023). _TryHackMe writeup: Attacktive Directory_. InfoSec Write-ups. https://infosecwriteups.com/tryhackme-writeup-attacktive-directory-23d0705e46cb
+
+### Materials
 
 * [userlist.txt](./materials/userlist.txt): a list of usernames to use in brute force.
 * [passwordlist.txt](./materials/passwordlist.txt): a list of passwords to use in brute force.
 * [hash.txt](./materials/hash.txt): a hash that I was able to dump from the target system.
-* [backup_credentials.txt](./materials/backup_credentials.txt)
+* [backup_credentials.txt](./materials/backup_credentials.txt): credentials that I obtained via a backup system.
 
 ## Takeaways
 
