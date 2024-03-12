@@ -1,0 +1,53 @@
+﻿// GENERAL INTERVIEW TIPS
+- Research company & culture
+- Dress well, look professional
+- Punctuality is key
+- Bring extra resumes
+- Prepare for behavior Q's
+- Show problem-solving skills
+- Ask thoughtful Q's about company/role
+- Send thank-you email post-interview
+
+
+// SOFTWARE ENGINEER TECH CONCEPTS
+- Languages: Python, Java, C++, etc.
+- Data structures/algorithms
+- Big O notation/complexity
+- ML frameworks: TensorFlow, PyTorch
+- Learning types: Deep, Reinforcement, Unsupervised
+- NLP (Natural Language Processing)
+- CV (Computer Vision)
+- Cloud platforms: AWS, Azure, Google Cloud
+
+
+// FINANCIAL ANALYST TECH CONCEPTS
+- Stat modeling/hypothesis testing
+- Time series analysis/forecasting
+- ML in finance: regression, classification, clustering
+- Algo trading/quantitative finance
+- Risk management/portfolio optimization
+- AI use cases: fraud detection, credit scoring
+- Data viz tools: Tableau, Power BI
+- Financial software/languages: R, MATLAB, Excel
+
+
+// PROBLEM-SOLVING STRATEGIES
+- Understand prob before solving
+- Break down complex probs
+- Use appropriate data structures/algorithms
+- Optimize for time/space complexity
+- Explain thought process/reasoning
+
+
+// SHOWCASING PROJECTS & EXPERIENCE
+- Discuss personal projects/open-source contribs
+- Highlight AI/ML experience in internships/jobs
+- Explain work impact on business/org
+- Show teamwork/collab skills
+- Discuss challenges & how you overcame them
+
+
+// CONCLUSION
+- Tailor prep for specific role
+- Emphasize tech knowledge, problem-solving, experience
+- Stand out, good luck!

@@ -1,0 +1,44 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: B4DM755
+Evidence Number: 001
+Unique description: William S. McClean's USB Flash Drive
+Examiner: Aleksey
+Notes: Case #B4DM755 - McClean Disk Image
+
+--------------------------------------------------------------
+
+Information for C:\Users\analyst\Desktop\artefacts\b4dm755:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 130
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 2,097,152
+[Physical Drive Information]
+ Drive Model: Microsoft Virtual Disk
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 1024 MB
+ Sector count:    2097152
+[Computed Hashes]
+ MD5 checksum:    54d203d4c3fcac0694fd9b4c0d6fab16
+ SHA1 checksum:   d82f393a67c6fc87a023b50c785a7247ab1ac395
+
+Image Information:
+ Acquisition started:   Tue Mar 12 02:06:28 2024
+ Acquisition finished:  Tue Mar 12 02:06:44 2024
+ Segment list:
+  C:\Users\analyst\Desktop\artefacts\b4dm755.001
+
+Image Verification Results:
+ Verification started:  Tue Mar 12 02:06:44 2024
+ Verification finished: Tue Mar 12 02:06:49 2024
+ MD5 checksum:    54d203d4c3fcac0694fd9b4c0d6fab16 : verified
+ SHA1 checksum:   d82f393a67c6fc87a023b50c785a7247ab1ac395 : verified
