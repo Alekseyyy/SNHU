@@ -5,5 +5,5 @@
 
 ### Materials
 
-## Takeaway
+## Takeaways
 
