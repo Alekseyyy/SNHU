@@ -1,19 +1,17 @@
 
-## TShark
+<a href="https://tryhackme.com/room/tshark" target="_blank"><img src="./banner.png" width="700px" /></a>
 
-* Link: https://tryhackme.com/room/tshark
-
-### Background
+## Background
 
 [tshark](https://www.wireshark.org/docs/man-pages/tshark.html) is a command-line utility that comes with the _Wireshark toolkit._ It can be installed into a Debian Linux-based system with the command: ``sudo apt install tshark``
 
-### Files & Materials
+### Materials
 
 * [dns.cap](./pcaps/dns.cap) and [dnsexfil.pcap](./pcaps/dnsexfil.pcap): the pcap files given to analyse.
 * [dump.txt](./dump.txt): relevant DNS response data for exfiltration.
 * [decode.py](./decode.py): Python script which will read ``dump.txt`` and extract the exfiltration data.
 
-### Basic Usage
+## Basic Usage
 
 | __``tshark`` usage__ | __Description__ |
 |----------------------|-----------------|
@@ -21,7 +19,7 @@
 | ``tshark -r [cap file] -Y [filter]`` | Dumps contents of ``[cap file]`` filtered out by wireshark ``[filter]`` after command argument (``-Y``). |
 | ``tshark -r [cap file] -Y [filter] -T fields -e [field name]`` | Dump the contents of the cap file and ``[filter]`` out the unnecessary stuff, and just output the column ``-T fields -e [field name]``. |
 
-### Example: Basic Usage on Packet Sniff
+## Example: Basic Usage on Packet Sniff
 
 I won't spend too much time here, but just list out some examples for examining a basic DNS packet sniff:
 
@@ -30,7 +28,7 @@ I won't spend too much time here, but just list out some examples for examining 
     * List the number of DNS ``A`` records in a .pcap file: ``tshark -r dns.cap -Y "dns.qry.type == 1" | wc -l``
     * Work out the DNS ``A`` record that is the most frequent: ``tshark -r dns.cap -Y "dns.qry.type == 1" -T fields -e dns.qry.name``
 
-### Example: DNS Exfiltration
+## Example: DNS Exfiltration
 
 Task 3 from the _tshark_ room makes for an excellent case study for how to use ``tshark``. ``dnsexfil.pcap`` contains packet data from a situation that uses the DNS protocol to exfiltrate data. I will start by using ``tshark`` to ask basic questions about the packet file
 

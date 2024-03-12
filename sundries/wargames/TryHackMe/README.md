@@ -89,3 +89,19 @@ These are a list of TryHackMe rooms\* that I finished, find interesting and inte
 * __Managing Incidents:__ Understand how security engineers help their organisations during an incident to reduce the impact of the incident.
 </details>
 
+### Case Studies
+
+### Utilities and Toolkits
+
+<details>
+<summary>Penetration Testing & Red Teaming</summary>
+
+</details>
+
+<details>
+<summary>DFIR and Reverse Engineering</summary>
+
+* [iOS Forensics](./rooms/iosforensics): Learn about the data acquisition techniques and tools used in iOS device digital forensics!
+
+</details>
+
