@@ -26,11 +26,31 @@
 
 ## Rooms
 
-These are a list of TryHackMe rooms\* that I finished, find interesting and intend to do later, or both. The embedded links in the name of the room point to a "resource folder" of notes that I took while doing the room, and the respective room's materials.
+These are a list of TryHackMe rooms (or labs) that I finished, find interesting and intend to do later, or both. The embedded links in the name of the room point to a "resource folder" of notes that I took while doing the room, and the respective room's materials.
 
-\* room = infosec lab.
+<details>
+<summary>Table of rooms that I have worked on</summary>
 
-### Learning Pathways
+| __Room__ | __Categories/Tags__ | __THM Description__ |
+|----------|---------------------|---------------------|
+| [Digital Forensics Case B4DM755](./rooms/caseb4dm755) | Case Study, DFIR | Acquire the critical skills of evidence preservation, disk imaging, and artefact analysis for use in court. |
+| [iOS Forensics](./rooms/iosforensics) | Methodology, Toolkits, DFIR | Learn about the data acquisition techniques and tools used in iOS device digital forensics! |
+| [Linux File System Analysis](./rooms/linuxfilesystemanalysis) | Methodology, Toolkits, DFIR | Perform real-time file system analysis on a Linux system to identify an attacker's artefacts. |
+| [Attacktive Directory](./rooms/attacktivedirectory) | Red Teaming, Active Directory, boot2root | 99% of Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller? |
+| [HackPark](./rooms/hackpark) | boot2root, Exploitation, Case Study | Bruteforce a websites login with Hydra, identify and use a public exploit then escalate your privileges on this Windows machine! |
+| [Identification & Scoping] | Help Desk, Blue Teaming, DFIR | A look into the second phase of the Incident Response Framework, Identification & Scoping. |
+| [JavaScript Basics](./rooms/javascriptbasics) | Programming | Learn JavaScript, the high-level, multi-paradigm language of the web. |
+| [JVM Reverse Engineering](./rooms/jvmreverseengineering) | Java, Reverse Engineering, Case Study | Learn JavaScript, the high-level, multi-paradigm language of the web. |
+| [Phishing: HiddenEye](./rooms/phishinghiddeneye) | Toolkit, Red Teaming | This tool helps you create a phishing page for sites such as Gmail, Snapchat, et cetera. Discussion of the difference between legit and fake site. |
+| [Servidae: Log Analysis in ELK](./rooms/servidae) | Log Analysis, DFIR, Blue Teaming, Toolkit | Analyze the logs of an affected workstation to determine the attacker's indicators of compromise. |
+| [Snort Challenge - The Basics](./rooms/snortchallenges1) | Blue Teaming, Detection Engineering, Network Analysis, Case Study | Put your snort skills into practice and write snort rules to analyse live capture network traffic. |
+| [TShark](./rooms/tshark) | Network Analysis, Utility | Learn how to use TShark to accelerate your pcap analysis! |
+
+</details>
+
+## Learning Pathways
+
+These are special collections of rooms that I did which led to a certificate:
 
 <details>
 <summary>Red Teaming</summary>
@@ -87,25 +107,5 @@ These are a list of TryHackMe rooms\* that I finished, find interesting and inte
 * __Network and System Security:__ Explore principles of network & system security, including secure protocols, hardening OS, cloud, and network devices using latest techniques.
 * __Software Security:__ Understand how security integrates into the development process of an application, and learn how to mitigate common vulnerabilities in web applications.
 * __Managing Incidents:__ Understand how security engineers help their organisations during an incident to reduce the impact of the incident.
-</details>
-
-### Case Studies
-
-* [Digital Forensics Case B4DM755](./rooms/caseb4dm755): Acquire the critical skills of evidence preservation, disk imaging, and artefact analysis for use in court.
-
-### Utilities and Toolkits
-
-<details>
-<summary>Penetration Testing & Red Teaming</summary>
-
-* [Attacktive Directory](./rooms/attacktivedirectory)
-
-</details>
-
-<details>
-<summary>DFIR and Reverse Engineering</summary>
-
-* [iOS Forensics](./rooms/iosforensics): Learn about the data acquisition techniques and tools used in iOS device digital forensics!
-
 </details>
 
