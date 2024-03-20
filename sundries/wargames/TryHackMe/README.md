@@ -91,10 +91,14 @@ These are a list of TryHackMe rooms\* that I finished, find interesting and inte
 
 ### Case Studies
 
+* [Digital Forensics Case B4DM755](./rooms/caseb4dm755): Acquire the critical skills of evidence preservation, disk imaging, and artefact analysis for use in court.
+
 ### Utilities and Toolkits
 
 <details>
 <summary>Penetration Testing & Red Teaming</summary>
+
+* [Attacktive Directory](./rooms/attacktivedirectory)
 
 </details>
 

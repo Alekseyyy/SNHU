@@ -33,9 +33,9 @@ I have not done a writeup for this room, but I can recommend one written by \([A
     * ``reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "[bad registry run value]" /t REG_SZ /d "[full path to bad executable or script]" /f``
 * Follow up resources include:
     * [Alan (2023)](https://medium.com/@josephalan17201972/servidae-log-analysis-in-elk-tryhackme-write-up-52a7902c7892)'s writeup for this room.
-    * A _Computer Security Incident Handling Guide_ \([Cichonski et al. (2012)](https://doi.org/10.6028/nist.sp.800-61r2)\) by the NIST discussing their standard for good and high-quality incident response.
+    * A _Computer Security Incident Handling Guide_ \([Cichonski et al. 2012](https://doi.org/10.6028/nist.sp.800-61r2)\) by the NIST discussing their standard for good and high-quality incident response.
     * The [MITRE ATT&CK Framework](https://attack.mitre.org/) to get a "peep into the mind" of an attacker.
-    * [Elastic, n.d.-b](https://www.elastic.co/elastic-stack/)'s article introducing their ELK stack.
+    * [Elastic (n.d.-b)](https://www.elastic.co/elastic-stack/)'s article introducing their ELK stack.
 
 ## References
 
