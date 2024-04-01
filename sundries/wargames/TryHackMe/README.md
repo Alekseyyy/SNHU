@@ -92,30 +92,416 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 <details>
 <summary>Table of rooms that I have worked on</summary>
 
-| __Room__ | __Categories/Tags__ | __THM Description__ | __Time Credits (in minutes)__ | __Status__ |
-|----------|---------------------|---------------------|-------------------------------|------------|
-| [Attacktive Directory](./rooms/attacktivedirectory) | Red Teaming, Active Directory, boot2root | 99% of Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller? | 0 | Completed |
-| Blue | Windows, Eternal Blue, MS17-010, boot2root, Exploitation | Deploy & hack into a Windows machine, leveraging common misconfigurations issues. | 30 | Completed | 
-| [Custom Alert Rules in Wazuh](./rooms/customalertrulesinwazuh) | DFIR, EDR, Logging | Learn how to create rules in Wazuh for your environment. | 60 | Completed | 120 | Completed |
-| [Digital Forensics Case B4DM755](./rooms/caseb4dm755) | Case Study, DFIR | Acquire the critical skills of evidence preservation, disk imaging, and artefact analysis for use in court. | 
-| [Dumping Router Firmware](./rooms/rfirmware) | Case Study, Software Forensics, Reverse Engineering | Have you ever been curious about how your router works? What OS it runs? What makes it tick? | 0 | Completed |
-| [Eradication & Remediation](./rooms/eradicationandremediation) | DFIR, Methodology | A look into the fourth phase of the Incident Response framework: Eradication, Remediation, and Recovery. | 60 | Completed | 
-| [HackPark](./rooms/hackpark) | boot2root, Exploitation, Case Study | Bruteforce a websites login with Hydra, identify and use a public exploit then escalate your privileges on this Windows machine! | 0 | Completed |
-| HeartBleed | CTF, Metasploit, Exploitation, Crypto | SSL issues are still lurking in the wild! Can you exploit this web servers OpenSSL? | 60 | Completed | 
-| [Identification & Scoping](./rooms/identificationandscoping) | Help Desk, Blue Teaming, DFIR | A look into the second phase of the Incident Response Framework, Identification & Scoping. | 60 | Completed | 
-| Investigating Windows | DFIR, Case Study, Windows, RDP | A windows machine has been hacked, its your job to go investigate this windows machine and find clues to what the hacker might have done. | 0 | Completed |
-| [iOS Forensics](./rooms/iosforensics) | Methodology, Toolkits, DFIR | Learn about the data acquisition techniques and tools used in iOS device digital forensics! | 0 | Completed |
-| [JavaScript Basics](./rooms/javascriptbasics) | Programming | Learn JavaScript, the high-level, multi-paradigm language of the web. | 0 | Completed |
-| [JVM Reverse Engineering](./rooms/jvmreverseengineering) | Java, Reverse Engineering, Case Study | Learn JavaScript, the high-level, multi-paradigm language of the web. | 0 | In Progress |
-| Kali Machine | Basics | Access your own Kali Machine | 30 | Completed |
-| [Linux File System Analysis](./rooms/linuxfilesystemanalysis) | Methodology, Toolkits, DFIR | Perform real-time file system analysis on a Linux system to identify an attacker's artefacts. | 60 | Completed | 
-| [Phishing: HiddenEye](./rooms/phishinghiddeneye) | Toolkit, Red Teaming | This tool helps you create a phishing page for sites such as Gmail, Snapchat, et cetera. Discussion of the difference between legit and fake site. | 0 | Completed |
-| Pickle Rick | CTF, Case Study, boot2root, dirbuster, Linux | A Rick and Morty CTF. Help turn Rick back into a human! | 0 | In Progress |
-| [Servidae: Log Analysis in ELK](./rooms/servidae) | Log Analysis, DFIR, Blue Teaming, Toolkit | Analyze the logs of an affected workstation to determine the attacker's indicators of compromise. | 60 | Completed | 
-| [Snort Challenge - The Basics](./rooms/snortchallenges1) | Blue Teaming, Detection Engineering, Network Analysis, Case Study | Put your snort skills into practice and write snort rules to analyse live capture network traffic. | 90 | In Progress |
-| [TShark](./rooms/tshark) | Network Analysis, Utility | Learn how to use TShark to accelerate your pcap analysis! | 60 | Completed |
-| [Wazuh](./rooms/wazuhct) | Sysadmin, EDR, Logging | Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring. | 160 | Completed |
+| __Room__ | __Categories/Tags__ | __THM Description__ | __Level__ | __Time Credits (in minutes)__ | __Status__ |
+|----------|---------------------|---------------------|-----------|-------------------------------|------------|
+| [Attacktive Directory](./rooms/attacktivedirectory) | Red Teaming, Active Directory, boot2root | 99% of Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller? | [todo] | 0 | Completed |
+| Blue | Windows, Eternal Blue, MS17-010, boot2root, Exploitation | Deploy & hack into a Windows machine, leveraging common misconfigurations issues. | [todo] | 30 | Completed | 
+| [Custom Alert Rules in Wazuh](./rooms/customalertrulesinwazuh) | DFIR, EDR, Logging | Learn how to create rules in Wazuh for your environment. | [todo] | 60 | Completed | 120 | Completed |
+| [Digital Forensics Case B4DM755](./rooms/caseb4dm755) | Case Study, DFIR | Acquire the critical skills of evidence preservation, disk imaging, and artefact analysis for use in court. | [todo] | 120 | Completed | 
+| [Dumping Router Firmware](./rooms/rfirmware) | Case Study, Software Forensics, Reverse Engineering | Have you ever been curious about how your router works? What OS it runs? What makes it tick? | [todo] | 0 | Completed |
+| [Eradication & Remediation](./rooms/eradicationandremediation) | DFIR, Methodology | A look into the fourth phase of the Incident Response framework: Eradication, Remediation, and Recovery. | [todo] | 60 | Completed | 
+| [HackPark](./rooms/hackpark) | boot2root, Exploitation, Case Study | Bruteforce a websites login with Hydra, identify and use a public exploit then escalate your privileges on this Windows machine! | [todo] | 0 | Completed |
+| HeartBleed | CTF, Metasploit, Exploitation, Crypto | SSL issues are still lurking in the wild! Can you exploit this web servers OpenSSL? | [todo] | 60 | Completed | 
+| [Identification & Scoping](./rooms/identificationandscoping) | Help Desk, Blue Teaming, DFIR | A look into the second phase of the Incident Response Framework, Identification & Scoping. | [todo] | 60 | Completed | 
+| Investigating Windows | DFIR, Case Study, Windows, RDP | A windows machine has been hacked, its your job to go investigate this windows machine and find clues to what the hacker might have done. | [todo] | 0 | Completed |
+| [iOS Forensics](./rooms/iosforensics) | Methodology, Toolkits, DFIR | Learn about the data acquisition techniques and tools used in iOS device digital forensics! | [todo] | 0 | Completed |
+| [JavaScript Basics](./rooms/javascriptbasics) | Programming | Learn JavaScript, the high-level, multi-paradigm language of the web. | [todo] | 0 | Completed |
+| [JVM Reverse Engineering](./rooms/jvmreverseengineering) | Java, Reverse Engineering, Case Study | Learn JavaScript, the high-level, multi-paradigm language of the web. | [todo] | 0 | In Progress |
+| Kali Machine | Basics | Access your own Kali Machine | [todo] | 30 | Completed |
+| [Linux File System Analysis](./rooms/linuxfilesystemanalysis) | Methodology, Toolkits, DFIR | Perform real-time file system analysis on a Linux system to identify an attacker's artefacts. | [todo] | 60 | Completed | 
+| OhShint | [todo] | [todo] | [todo] | [todo] | [todo] |
+| [Phishing: HiddenEye](./rooms/phishinghiddeneye) | Toolkit, Red Teaming | This tool helps you create a phishing page for sites such as Gmail, Snapchat, et cetera. Discussion of the difference between legit and fake site. | [todo] | 0 | Completed |
+| Pickle Rick | CTF, Case Study, boot2root, dirbuster, Linux | A Rick and Morty CTF. Help turn Rick back into a human! | [todo] | 0 | In Progress |
+| [Servidae: Log Analysis in ELK](./rooms/servidae) | Log Analysis, DFIR, Blue Teaming, Toolkit | Analyze the logs of an affected workstation to determine the attacker's indicators of compromise. | [todo] | 60 | Completed | 
+| [Snort Challenge - The Basics](./rooms/snortchallenges1) | Blue Teaming, Detection Engineering, Network Analysis, Case Study | Put your snort skills into practice and write snort rules to analyse live capture network traffic. | [todo] | 90 | In Progress |
+| ToolsRUs | Dirbuster, nikto, Metasploit, hydra, boot2root | Practise using tools such as dirbuster, hydra, nmap, nikto and metasploit | [todo] | 0 | Completed | 
+| [TShark](./rooms/tshark) | Network Analysis, Utility | Learn how to use TShark to accelerate your pcap analysis! | [todo] | 60 | Completed |
+| [Wazuh](./rooms/wazuhct) | Sysadmin, EDR, Logging | Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring. | [todo] | 160 | Completed |
+| Intro to x86-64 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Web Scanning | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Networking | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Basic Pentesting | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Vulnversity | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Empire | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Simple CTF | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Game Zone | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Kenobi | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Skynet | [todo] | [todo] | [todo] | [todo] | [todo] |
+| tmux | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Steel Mountain | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Hacking with PowerShell | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Bebop | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Metasploit | [todo] | [todo] | [todo] | [todo] | [todo] |
+| DVWA | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Alfred | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Android Hacking 101 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Agent Sudo | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Ice | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Advent of Cyber 1 [2019] | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Basic Malware RE | [todo] | [todo] | [todo] | [todo] | [todo] |
+| LazyAdmin | [todo] | [todo] | [todo] | [todo] | [todo] |
+| CC: Pen Testing | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Wifi Hacking 101 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Dumping Router Firmware | [todo] | [todo] | [todo] | [todo] | [todo] |
+| CC: Ghidra | [todo] | [todo] | [todo] | [todo] | [todo] |
+| LFI Basics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| The find command | [todo] | [todo] | [todo] | [todo] | [todo] |
+| CTF collection Vol. 1 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Anthem | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Burp Suite | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Daily Bugle | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Sublist3r | [todo] | [todo] | [todo] | [todo] | [todo] |
+| OpenVPN | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Tor | [todo] | [todo] | [todo] | [todo] | [todo] |
+| LFI | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Shodan.io | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Geolocating Images | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Jupyter 101 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Sudo Security Bypass | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Sudo Buffer Overflow | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Introductory Networking | [todo] | [todo] | [todo] | [todo] | [todo] |
+| MAL: Malware Introductory | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Hydra | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Volatility | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Web Fundamentals | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Common Linux Privesc | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows Base | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Google Dorking | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Network Services | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Introductory Researching | [todo] | [todo] | [todo] | [todo] | [todo] |
+| What the Shell? | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Introduction to OWASP ZAP | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Introduction to Django | [todo] | [todo] | [todo] | [todo] | [todo] |
+| MAL: Strings | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Authenticate | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows PrivEsc Arena | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Blaster | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Hashing – Crypto 101 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux PrivEsc | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Upload Vulnerabilities | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Attacking Kerberos | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Injection | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Encryption – Crypto 101 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| DLL HIJACKING | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Content Security Policy | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Active Directory Basics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| AttackerKB | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows PrivEsc | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Bounty Hacker | [todo] | [todo] | [todo] | [todo] | [todo] |
+| MAL: Researching | [todo] | [todo] | [todo] | [todo] | [todo] |
+| OWASP Juice Shop | [todo] | [todo] | [todo] | [todo] | [todo] |
+| NIS – Linux Part I | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Regular expressions | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to IoT Pentesting | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux PrivEsc Arena | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Overpass | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Printer Hacking 101 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| OWASP Top 10 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Remux The Tmux | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Network Services 2 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Yara | [todo] | [todo] | [todo] | [todo] | [todo] |
+| History of Malware | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Bolt | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Python Basics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux: Local Enumeration | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Rootme | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Learn Rust | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Welcome | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Physical Security Intro | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro PoC Scripting | [todo] | [todo] | [todo] | [todo] | [todo] |
+| The Hacker Methodology | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Zero Logon | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Wireshark 101 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux Strength Training | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Tutorial | [todo] | [todo] | [todo] | [todo] | [todo] |
+| RustScan | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Hardening Basics Part 1 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Hardening Basics Part 2 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Getting Started | [todo] | [todo] | [todo] | [todo] | [todo] |
+| MAL: REMnux – The Redux | [todo] | [todo] | [todo] | [todo] | [todo] |
+| MITRE | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Mobile Malware Analysis | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Starting Out in Cyber Sec | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Nmap | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Introduction to Flask | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Nessus | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to ISAC | [todo] | [todo] | [todo] | [todo] | [todo] |
+| John The Ripper | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Advent of Cyber 2 [2020] | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows Event Logs | [todo] | [todo] | [todo] | [todo] | [todo] |
+| DNS Manipulation | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Badbyte | [todo] | [todo] | [todo] | [todo] | [todo] |
+| SQL Injection Lab | [todo] | [todo] | [todo] | [todo] | [todo] |
+| OpenVAS | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Sysmon | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Web Enumeration | [todo] | [todo] | [todo] | [todo] | [todo] |
+| WebOSINT | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Bash Scripting | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Windows | [todo] | [todo] | [todo] | [todo] | [todo] |
+| KaffeeSec – SoMeSINT | [todo] | [todo] | [todo] | [todo] | [todo] |
+| 25 Days of Cyber Security | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Core Windows Processes | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux Agency | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Sakura Room | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Sysinternals | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Cryptography for Dummies | [todo] | [todo] | [todo] | [todo] | [todo] |
+| ISO27001 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Investigating Windows 2.0 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Baron Samedit | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux Backdoors | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Splunk 101 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Cyber Scotland 2021 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| How to use TryHackMe | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux Server Forensics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Volatility | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux Fundamentals Part 1 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux Fundamentals Part 2 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| How websites work | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux Fundamentals Part 3 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Putting it all together | [todo] | [todo] | [todo] | [todo] | [todo] |
+| DNS in detail | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Autopsy | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows Fundamentals 1 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| OverlayFS – CVE-2021-3493 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Splunk 2 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Python for Pentesters | [todo] | [todo] | [todo] | [todo] | [todo] |
+| ffuf | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows Fundamentals 2 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| PowerShell for Pentesters | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Learn and win prizes | [todo] | [todo] | [todo] | [todo] | [todo] |
+| SQLMAP | [todo] | [todo] | [todo] | [todo] | [todo] |
+| What is Networking? | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to LAN | [todo] | [todo] | [todo] | [todo] | [todo] |
+| OSI Model | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Packet & Frames | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Extending Your Network | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Learning Cyber Security | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux Function Hooking | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows Fundamentals 3 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro To Pwntools | [todo] | [todo] | [todo] | [todo] | [todo] |
+| IDE | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Polkit: CVE-2021-3560 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux Privilege Escalation | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Phishing Analysis Fundamentals | [todo] | [todo] | [todo] | [todo] | [todo] |
+| NoSQL injection Basics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Bypass Disable Functions | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Walking An Application | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Phishing Analysis Tools | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows x64 Assembly | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Pentesting Fundamentals | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Principles of Security | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Burp Suite: The Basics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Burp Suite: Intruder | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Burp Suite: Other Modules | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Burp Suite: Extender | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Metasploit: Exploitation | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Content Discovery | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Phishing Emails in Action | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Redline | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Subdomain Enumeration | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Authentication Bypass | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Junior Security Analyst Intro | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Passive Reconnaissance | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Active Reconnaissance | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Nmap Live Host Discovery | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Nmap Basic Port Scans | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Nmap Advanced Port Scans | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Metasploit: Introduction | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Phishing Prevention | [todo] | [todo] | [todo] | [todo] | [todo] |
+| IDOR | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Vulnerabilities 101 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Metasploit: Meterpreter | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to SSRF | [todo] | [todo] | [todo] | [todo] | [todo] |
+| REvil Corp | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Pyramid of Pain | [todo] | [todo] | [todo] | [todo] | [todo] |
+| The Greenholt Phish | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Cross-site Scripting | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Nmap Post Port Scans | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Cyber Kill Chain | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Dunkle Materie | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Diamond Model | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows Reversing Intro | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Security Awareness | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Atlas | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Vulnerability Capstone | [todo] | [todo] | [todo] | [todo] | [todo] |
+| KAPE | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Exploit Vulnerabilities | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Protocols and Servers | [todo] | [todo] | [todo] | [todo] | [todo] |
+| SQL Injection | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Command Injection | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Net Sec Challenge | [todo] | [todo] | [todo] | [todo] | [todo] |
+| File Inclusion | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Protocols and Servers 2 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Red Team Engagements | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Phishing | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Android Malware Analysis | [todo] | [todo] | [todo] | [todo] | [todo] |
+| CVE-2021-41773/24013 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Common Attacks | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Learn and win prizes #2 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Red Team Threat Intel | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Weaponization | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Red Team OPSEC | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows Forensics 1 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Advent of Cyber 3 (2021) | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Red Team Recon | [todo] | [todo] | [todo] | [todo] | [todo] |
+| TheHive Project | [todo] | [todo] | [todo] | [todo] | [todo] |
+| The Lay of the Land | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Runtime Detection Evasion | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows Forensics 2 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Incident handling with Splunk | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Solar, exploiting log4j | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows Internals | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Network Security Solutions | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Abusing Windows Internals | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Living Off the Land | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Firewalls | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Snort | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intrusion Detection | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to C2 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Sandbox Evasion | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Red Team Fundamentals | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Pwnkit: CVE-2021-4034 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Malware Analysis | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Threat Intelligence Tools | [todo] | [todo] | [todo] | [todo] | [todo] |
+| OpenCTI | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Bypassing UAC | [todo] | [todo] | [todo] | [todo] | [todo] |
+| NetworkMiner | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Evading Logging and Monitoring | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Digital Forensics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Introduction to DevSecOps | [todo] | [todo] | [todo] | [todo] | [todo] |
+| MISP | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Operating System Security | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Offensive Security | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Introduction to Antivirus | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Dirty Pipe: CVE-2022-0847 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| SDLC  | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Network Security | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Web Application Security | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Investigating with ELK 101 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Unified Kill Chain | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux Forensics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| PrintNightmare | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Obfuscation Principles | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Velociraptor | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Signature Evasion | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Spring4Shell: CVE-2022-22965 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Data Exfiltration | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Defensive Security | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Tardigrade | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Brim | [todo] | [todo] | [todo] | [todo] | [todo] |
+| SSDLC | [todo] | [todo] | [todo] | [todo] | [todo] |
+| b3dr0ck | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Security Operations | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Careers in Cyber | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows Privilege Escalation | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Zeek | [todo] | [todo] | [todo] | [todo] | [todo] |
+| DFIR: An Introduction | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Wireshark: The Basics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| CVE-2022-26923 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Windows Local Persistence | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Cyber Threat Intel | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Wireshark: Packet Operations | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Enumeration | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Introduction to SIEM | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Pipeline Automation | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Dissecting PE Headers | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Containerisation | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Sigma | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Active Directory Basics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Follina MSDT | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Microsoft Windows Hardening | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Security Principles | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Wireshark: Traffic Analysis | [todo] | [todo] | [todo] | [todo] | [todo] |
+| x86 Assembly Crash Course | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Secure Network Architecture | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Active Directory Hardening | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Traffic Analysis Essentials | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Detection Engineering | [todo] | [todo] | [todo] | [todo] | [todo] |
+| AV Evasion: Shellcode | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Introduction to Cryptography | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Endpoint Security | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Dependency Management | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Introduction to Windows API | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Aurora EDR | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Network Security Protocols | [todo] | [todo] | [todo] | [todo] | [todo] |
+| OWASP API Security Top 10 - 2 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| OWASP API Security Top 10 - 1 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Basic Static Analysis | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Learn & win prizes - Fall 2022 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| OWASP Top 10 - 2021 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| SOAR | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Docker | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Splunk: Basics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Registry Persistence Detection | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Cloud Security | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Osquery: The Basics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux System Hardening | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Advent of Cyber 2022 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Basic Dynamic Analysis | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Atomic Red Team | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Virtulization and Containers | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Vulnerability Management | [todo] | [todo] | [todo] | [todo] | [todo] |
+| DAST | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Threat Emulation | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Anti-Reverse Engineering | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Dynamic Analysis: Debugging | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Crylo | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Weaponizing Vulnerabilities | [todo] | [todo] | [todo] | [todo] | [todo] |
+| LocalPotato | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Advanced Static Analysis | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Identity and Access Management | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Network Device Hardening | [todo] | [todo] | [todo] | [todo] | [todo] |
+| MalDoc: Static Analysis | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Threat Modelling | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Container Hardening | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Trooper | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Logs | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Governance & Regulation | [todo] | [todo] | [todo] | [todo] | [todo] |
+| ParrotPost: Phishing Analysis | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Mother's Secret | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Preparation | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Security Engineer Intro | [todo] | [todo] | [todo] | [todo] | [todo] |
+| SAST | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Risk Management | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Threat Intel & Containment | [todo] | [todo] | [todo] | [todo] | [todo] |
+| OWASP Broken Access Control | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Logging for Accountability | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Traverse | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Threat Hunting: Foothold | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Custom Alert Rules in Wazuh | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Threat Hunting: Introduction | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Auditing and Monitoring | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to IR and IM | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Becoming a First Responder | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Cyber Crisis Management | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Burp Suite: The Basics | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Burp Suite: Repeater | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Burp Suite: Intruder | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Burp Suite: Other Modules | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Burp Suite: Extensions | [todo] | [todo] | [todo] | [todo] | [todo] |
+| CI/CD and Build Security | [todo] | [todo] | [todo] | [todo] | [todo] |
+| CVE-2023-38408 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Log Analysis | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Eviction | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Identification & Scoping | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Lessons Learned | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Log Operations | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Win Prizes and Learn - 2023! | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Bulletproof Penguin | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Log Universe | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Hunt Me I: Payment Collectors | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Cloud-based IaC | [todo] | [todo] | [todo] | [todo] | [todo] |
+| HTTP Request Smuggling | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Advent of Cyber 2023 | [todo] | [todo] | [todo] | [todo] | [todo] |
+| SSRF | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to IaC | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Become a Hacker | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Fire Inclusion, Path Traversal | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Advent of Cyber '23 Side Quest | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Intro to Kubernetes | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Container Vulnerabilities | [todo] | [todo] | [todo] | [todo] | [todo] |
+| On-Premises IaC | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Linux File System Analysis | [todo] | [todo] | [todo] | [todo] | [todo] |
 
 </details>
-
 
