@@ -15,6 +15,13 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 ## Coursework
 
 <details>
+<summary>SNHU BSc in Computer Science Pathway</summary>
+
+<a href="./coursework/CS_Pathway.pdf"><img src="./coursework/CS_Pathway.png" width="600px" /></a>
+
+</details>
+
+<details>
 <summary>Accredited In-University Coursework</summary>
 
 | __Course name__ | __Course number__ |

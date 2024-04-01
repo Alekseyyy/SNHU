@@ -24,30 +24,6 @@
 
 </details>
 
-## Rooms
-
-These are a list of TryHackMe rooms (or labs) that I finished, find interesting and intend to do later, or both. The embedded links in the name of the room point to a "resource folder" of notes that I took while doing the room, and the respective room's materials.
-
-<details>
-<summary>Table of rooms that I have worked on</summary>
-
-| __Room__ | __Categories/Tags__ | __THM Description__ |
-|----------|---------------------|---------------------|
-| [Digital Forensics Case B4DM755](./rooms/caseb4dm755) | Case Study, DFIR | Acquire the critical skills of evidence preservation, disk imaging, and artefact analysis for use in court. |
-| [iOS Forensics](./rooms/iosforensics) | Methodology, Toolkits, DFIR | Learn about the data acquisition techniques and tools used in iOS device digital forensics! |
-| [Linux File System Analysis](./rooms/linuxfilesystemanalysis) | Methodology, Toolkits, DFIR | Perform real-time file system analysis on a Linux system to identify an attacker's artefacts. |
-| [Attacktive Directory](./rooms/attacktivedirectory) | Red Teaming, Active Directory, boot2root | 99% of Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller? |
-| [HackPark](./rooms/hackpark) | boot2root, Exploitation, Case Study | Bruteforce a websites login with Hydra, identify and use a public exploit then escalate your privileges on this Windows machine! |
-| [Identification & Scoping] | Help Desk, Blue Teaming, DFIR | A look into the second phase of the Incident Response Framework, Identification & Scoping. |
-| [JavaScript Basics](./rooms/javascriptbasics) | Programming | Learn JavaScript, the high-level, multi-paradigm language of the web. |
-| [JVM Reverse Engineering](./rooms/jvmreverseengineering) | Java, Reverse Engineering, Case Study | Learn JavaScript, the high-level, multi-paradigm language of the web. |
-| [Phishing: HiddenEye](./rooms/phishinghiddeneye) | Toolkit, Red Teaming | This tool helps you create a phishing page for sites such as Gmail, Snapchat, et cetera. Discussion of the difference between legit and fake site. |
-| [Servidae: Log Analysis in ELK](./rooms/servidae) | Log Analysis, DFIR, Blue Teaming, Toolkit | Analyze the logs of an affected workstation to determine the attacker's indicators of compromise. |
-| [Snort Challenge - The Basics](./rooms/snortchallenges1) | Blue Teaming, Detection Engineering, Network Analysis, Case Study | Put your snort skills into practice and write snort rules to analyse live capture network traffic. |
-| [TShark](./rooms/tshark) | Network Analysis, Utility | Learn how to use TShark to accelerate your pcap analysis! |
-
-</details>
-
 ## Learning Pathways
 
 These are special collections of rooms that I did which led to a certificate:
@@ -108,4 +84,35 @@ These are special collections of rooms that I did which led to a certificate:
 * __Software Security:__ Understand how security integrates into the development process of an application, and learn how to mitigate common vulnerabilities in web applications.
 * __Managing Incidents:__ Understand how security engineers help their organisations during an incident to reduce the impact of the incident.
 </details>
+
+## Full List of Rooms
+
+These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, find interesting and intend to do later, are in progress, or some combination of the other aforementioned states. The embedded links in the name of the room point to a "resource folder" of notes that I took while doing the room, and the respective room's materials.
+
+<details>
+<summary>Table of rooms that I have worked on</summary>
+
+| __Room__ | __Categories/Tags__ | __THM Description__ | __Time Credits (in minutes)__ | __Status__ |
+|----------|---------------------|---------------------|-------------------------------|------------|
+| [Attacktive Directory](./rooms/attacktivedirectory) | Red Teaming, Active Directory, boot2root | 99% of Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller? | 0 | Completed |
+| [Custom Alert Rules in Wazuh](./rooms/customalertrulesinwazuh) | DFIR, EDR, Logging | Learn how to create rules in Wazuh for your environment. |
+| [Digital Forensics Case B4DM755](./rooms/caseb4dm755) | Case Study, DFIR | Acquire the critical skills of evidence preservation, disk imaging, and artefact analysis for use in court. | 60 | Completed |
+| [Dumping Router Firmware](./rooms/rfirmware) | Case Study, Software Forensics, Reverse Engineering | Have you ever been curious about how your router works? What OS it runs? What makes it tick? | 0 | Completed |
+| [Eradication & Remediation](./rooms/eradicationandremediation) | DFIR, Methodology | A look into the fourth phase of the Incident Response framework: Eradication, Remediation, and Recovery. | 60 | Completed | 
+| [HackPark](./rooms/hackpark) | boot2root, Exploitation, Case Study | Bruteforce a websites login with Hydra, identify and use a public exploit then escalate your privileges on this Windows machine! | 0 | Completed |
+| HeartBleed | CTF, Metasploit, Exploitation, Crypto | SSL issues are still lurking in the wild! Can you exploit this web servers OpenSSL? | 60 | Completed | 
+| [Identification & Scoping](./rooms/identificationandscoping) | Help Desk, Blue Teaming, DFIR | A look into the second phase of the Incident Response Framework, Identification & Scoping. | 60 | Completed | 
+| [iOS Forensics](./rooms/iosforensics) | Methodology, Toolkits, DFIR | Learn about the data acquisition techniques and tools used in iOS device digital forensics! | 0 | Completed |
+| [JavaScript Basics](./rooms/javascriptbasics) | Programming | Learn JavaScript, the high-level, multi-paradigm language of the web. | 0 | Completed |
+| [JVM Reverse Engineering](./rooms/jvmreverseengineering) | Java, Reverse Engineering, Case Study | Learn JavaScript, the high-level, multi-paradigm language of the web. | 0 | In Progress |
+| Kali Machine | Basics | Access your own Kali Machine | 30 | Completed |
+| [Linux File System Analysis](./rooms/linuxfilesystemanalysis) | Methodology, Toolkits, DFIR | Perform real-time file system analysis on a Linux system to identify an attacker's artefacts. | 60 | Completed | 
+| [Phishing: HiddenEye](./rooms/phishinghiddeneye) | Toolkit, Red Teaming | This tool helps you create a phishing page for sites such as Gmail, Snapchat, et cetera. Discussion of the difference between legit and fake site. | 0 | Completed |
+| [Servidae: Log Analysis in ELK](./rooms/servidae) | Log Analysis, DFIR, Blue Teaming, Toolkit | Analyze the logs of an affected workstation to determine the attacker's indicators of compromise. | 60 | Completed | 
+| [Snort Challenge - The Basics](./rooms/snortchallenges1) | Blue Teaming, Detection Engineering, Network Analysis, Case Study | Put your snort skills into practice and write snort rules to analyse live capture network traffic. | 90 | In Progress |
+| [TShark](./rooms/tshark) | Network Analysis, Utility | Learn how to use TShark to accelerate your pcap analysis! | 60 | Completed |
+| [Wazuh](./rooms/wazuhct) | Sysadmin, EDR, Logging | Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring. | 160 | Completed |
+
+</details>
+
 
