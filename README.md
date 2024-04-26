@@ -21,18 +21,19 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 
 | __Course name__ | __Course number__ |
 |-----------------|-------------------|
-|__Core CS coursework__| |
-|[Programming Languages](./coursework/CS210/)|CS210|
-|[Secure Coding](./coursework/CS305/)|CS305|
-|[Introduction to Structured Database Environments](./coursework/DAD220/)|DAD220|
-|__General STEM coursework__| |
-|[Precalculus]((./coursework/MAT140/))|MAT140|
-|[Introduction to Physics](./coursework/PHY150/)|PHY150|
-|__Other prerequisite coursework__ | |
-|[Perspectives in History](./coursework/HIS100/)|HIS100|
-|[Applied History](./coursework/HIS200/)|HIS200|
-|[Perspectives in Social Science](./coursework/SCS100/)|SCS100|
-|[Applied Social Science](./coursework/SCS200/)|SCS200|
+| __Core CS coursework__ | |
+| [Programming Languages](./coursework/CS210/) | CS210 |
+| [Secure Coding](./coursework/CS305/) |CS305 |
+| [Software Testing Automation & QA](./coursework/CS320/) | CS320 |
+| [Introduction to Structured Database Environments](./coursework/DAD220/) | DAD220 |
+| __General STEM coursework__ | |
+| [Precalculus]((./coursework/MAT140/)) | MAT140 |
+| [Introduction to Physics](./coursework/PHY150/) | PHY150 |
+| __Other prerequisite coursework__ | |
+| [Perspectives in History](./coursework/HIS100/) | HIS100 |
+| [Applied History](./coursework/HIS200/) | HIS200 |
+| [Perspectives in Social Science](./coursework/SCS100/) | SCS100 |
+| [Applied Social Science](./coursework/SCS200/) | SCS200 |
 
 </details>
 
