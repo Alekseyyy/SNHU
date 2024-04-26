@@ -15,14 +15,9 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 ## Coursework
 
 <details>
-<summary>SNHU BSc in Computer Science Pathway</summary>
+<summary>Accredited In-University Coursework</summary>
 
 <a href="./coursework/CS_Pathway.pdf"><img src="./coursework/CS_Pathway.png" width="600px" /></a>
-
-</details>
-
-<details>
-<summary>Accredited In-University Coursework</summary>
 
 | __Course name__ | __Course number__ |
 |-----------------|-------------------|
@@ -43,8 +38,6 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 
 <details>
 <summary>Non-accredited coursework and MOOCs</summary>
-
-### Articulated to college credit
 
 Some online courses that I took were able to be articulated to college credit at SNHU. Here is a full list of them:
 
@@ -70,18 +63,18 @@ Outside of school, I like to "stay sharp" by doing computer science practice wit
 
 ### Introduction to programming
 
-* [ \[T\] Starting Out with C++: From Control Structures through Objects (ISBN-13: 978-0-13-403732-5)](./sundries/Books/ISBN-13_978-0-13-403732-5)
-* [ \[T\] Objects First with Java (ISBN-13: 978-0-13-700562-8)](./sundries/ISBN-13_978-0-13-700562-8)
+* [(T) Starting Out with C++: From Control Structures through Objects (ISBN-13: 978-0-13-403732-5)](./sundries/Books/ISBN-13_978-0-13-403732-5)
+* [(T) Objects First with Java (ISBN-13: 978-0-13-700562-8)](./sundries/ISBN-13_978-0-13-700562-8)
 
 ### Maths, natural sciences and engineering
 
-* [ \[L\] Bayesian Statistics the Fun Way (ISBN-13: 978-1-59327-956-1)](./sundries/Books/ISBN-13_978-1-59327-956-1)
-* [ \[L\] Matter and Interactions: Fourth Edition (ISBN-13: 978-1-59327-640-9)](./sundries/Books/ISBN-13_978-1-11887-586-5/)
+* [(L) Bayesian Statistics the Fun Way (ISBN-13: 978-1-59327-956-1)](./sundries/Books/ISBN-13_978-1-59327-956-1)
+* [(L) Matter and Interactions: Fourth Edition (ISBN-13: 978-1-59327-640-9)](./sundries/Books/ISBN-13_978-1-11887-586-5/)
 
 ### Computer science
 
-* [ \[L\] Dive Into Algorithms (ISBN-13: 978-1-7185-0068-6)](./sundries/Books/ISBN-13_978-1-7185-0068-6)
-* [ \[L\] Doing Math with Python (ISBN-13: 978-1-59327-640-9)](./sundries/Books/ISBN-13_978-1-59327-640-9/)
+* [(L) Dive Into Algorithms (ISBN-13: 978-1-7185-0068-6)](./sundries/Books/ISBN-13_978-1-7185-0068-6)
+* [(L) Doing Math with Python (ISBN-13: 978-1-59327-640-9)](./sundries/Books/ISBN-13_978-1-59327-640-9/)
 
 _Note to self: T = todo and L = later_
 

@@ -1,10 +1,14 @@
 * NOTE TO SELF: Work on the following rooms' resource folders:
     * [adtiermodel](./adtiermodel)
+    * [axss](./axss)
+    * [bppenguin](./bppenguin)
     * [btredlinejoxr3d](./btredlinejoxr3d)
+    * [dfirprocesslegalconsiderations](./dfirprocesslegalconsiderations)
     * [eradicationandremediation](./eradicationandremediation)
     * [iOS Forensics](./iosforensics)
     * [JVM Reverse Engineering](./jvmreverseengineering)
+    * [powershell](./powershell)
     * [revilcorp](./revilcorp)
     * [snortchallenges1](./snortchallenges1)
     * [wazuhct](./wazuhct)
-
+    * [windowsuseraccountforensics](./windowsuseraccountforensics)
