@@ -23,6 +23,7 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 |-----------------|-------------------|
 | __Core CS coursework__ | |
 | [Programming Languages](./coursework/CS210/) | CS210 |
+| [Operating Platforms](./coursework/CS230/) | CS230 |
 | [Secure Coding](./coursework/CS305/) |CS305 |
 | [Software Testing Automation & QA](./coursework/CS320/) | CS320 |
 | [Introduction to Structured Database Environments](./coursework/DAD220/) | DAD220 |
@@ -61,19 +62,9 @@ Outside of school, I like to "stay sharp" by doing computer science practice wit
 
 <details>
 <summary>Textbook problems</summary>
-
-### Introduction to programming
-
 * [(T) Starting Out with C++: From Control Structures through Objects (ISBN-13: 978-0-13-403732-5)](./sundries/Books/ISBN-13_978-0-13-403732-5)
-* [(T) Objects First with Java (ISBN-13: 978-0-13-700562-8)](./sundries/ISBN-13_978-0-13-700562-8)
-
-### Maths, natural sciences and engineering
-
 * [(L) Bayesian Statistics the Fun Way (ISBN-13: 978-1-59327-956-1)](./sundries/Books/ISBN-13_978-1-59327-956-1)
 * [(L) Matter and Interactions: Fourth Edition (ISBN-13: 978-1-59327-640-9)](./sundries/Books/ISBN-13_978-1-11887-586-5/)
-
-### Computer science
-
 * [(L) Dive Into Algorithms (ISBN-13: 978-1-7185-0068-6)](./sundries/Books/ISBN-13_978-1-7185-0068-6)
 * [(L) Doing Math with Python (ISBN-13: 978-1-59327-640-9)](./sundries/Books/ISBN-13_978-1-59327-640-9/)
 

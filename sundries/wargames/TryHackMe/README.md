@@ -275,6 +275,7 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | [iOS Forensics](./rooms/iosforensics) | Methodology, Toolkits, DFIR | Learn about the data acquisition techniques and tools used in iOS device digital forensics! | Easy | 0 | Completed |
 | IR Difficulties and Challenges | [todo] | [todo] | Easy | 60 | Completed |
 | IR Philosophy and Ethics | [todo] | [todo] | Easy | 40 | Completed |
+| IR Timeline Analysis | [todo] | [todo] | Medium | 60 | In Progress |
 | ISO27001 | [todo] | [todo] | Easy | 0 | Completed |
 | [JavaScript Basics](./rooms/javascriptbasics) | Programming | Learn JavaScript, the high-level, multi-paradigm language of the web. | Easy | 0 | Completed |
 | John The Ripper | [todo] | [todo] | Easy | 60 | Completed |
@@ -457,7 +458,8 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | Traverse | [todo] | [todo] | Easy | 120 | Completed |
 | Trooper | [todo] | [todo] | Easy | 60 | Completed |
 | [TShark](./rooms/tshark) | Network Analysis, Utility | Learn how to use TShark to accelerate your pcap analysis! | Medium | 60 | Completed |
-| [TShark: The Basics](./rooms/tsharkthebasics) | [todo] | [todo] | Easy | 120 | In Progress |
+| [TShark: The Basics](./rooms/tsharkthebasics) | [todo] | [todo] | Easy | 120 | Completed |
+| [TShark: CLI Wireshark Features] | [todo] | [todo] | Medium | 120 | Completed |
 | Tutorial | [todo] | [todo] | Easy | 50 | Completed |
 | Unified Kill Chain | [todo] | [todo] | Easy | 40 | Completed |
 | Upload Vulnerabilities | [todo] | [todo] | Easy | 0 | In Progress |
