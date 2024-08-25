@@ -62,6 +62,7 @@ Outside of school, I like to "stay sharp" by doing computer science practice wit
 
 <details>
 <summary>Textbook problems</summary>
+
 * [(T) Starting Out with C++: From Control Structures through Objects (ISBN-13: 978-0-13-403732-5)](./sundries/Books/ISBN-13_978-0-13-403732-5)
 * [(L) Bayesian Statistics the Fun Way (ISBN-13: 978-1-59327-956-1)](./sundries/Books/ISBN-13_978-1-59327-956-1)
 * [(L) Matter and Interactions: Fourth Edition (ISBN-13: 978-1-59327-640-9)](./sundries/Books/ISBN-13_978-1-11887-586-5/)

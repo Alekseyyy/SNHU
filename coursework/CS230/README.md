@@ -13,7 +13,7 @@ To demonstrate my working knowledge of operating platforms, I was tasked with de
 
 ### Course Capstone
 
-The following is the culmination of my work for this course
+The following is the culmination of my work for this course:
 
 * [Draw It or Lose It: Software Design Document](./final.pdf): this is a technical writeup where I introduce, describe and discuss the _Draw It or Lose It_ game. I discuss how to go about designing the software with a UML diagram, selecting the optimal operating platforms for its server and client computer systems, and also discussing what tools developers can use to implement the game.
 
