@@ -24,6 +24,7 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 | __Core CS coursework__ | |
 | [Programming Languages](./coursework/CS210/) | CS210 |
 | [Operating Platforms](./coursework/CS230/) | CS230 |
+| [Software Development Life Cycle](./coursework/CS250/) | CS250 |
 | [Secure Coding](./coursework/CS305/) |CS305 |
 | [Software Testing Automation & QA](./coursework/CS320/) | CS320 |
 | [Introduction to Structured Database Environments](./coursework/DAD220/) | DAD220 |
