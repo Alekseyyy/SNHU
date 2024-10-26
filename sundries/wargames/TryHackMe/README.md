@@ -101,6 +101,7 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | Active Directory Basics | [todo] | [todo] | Easy | 30 | Completed |
 | Active Directory Hardening | [todo] | [todo] | Medium | 120 | Completed |
 | Active Reconnaissance | [todo] | [todo] | Easy | 60 | Completed |
+| Advanced SQL Injection | [todo] | [todo] | Medium | 60 | Completed |
 | Advanced Static Analysis | [todo] | [todo] | Medium | 200 | Completed |
 | Advent of Cyber '23 Side Quest | [todo] | [todo] | Info | 60 | In Progress |
 | Advent of Cyber 1 [2019] | [todo] | [todo] | Easy | 0 | In Progress |
@@ -160,6 +161,7 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | CC: Pen Testing | [todo] | [todo] | [todo] | [todo] | [todo] |
 | CI/CD and Build Security | [todo] | [todo] | Medium | 120 | In Progress |
 | Cloud-based IaC | [todo] | [todo] | Easy | 180 | Completed |
+| Cluster Hardening | [todo] | [todo] | Medium | 30 | In Progress |
 | Command Injection | [todo] | [todo] | Easy | 20 | Completed |
 | Common Attacks | [todo] | [todo] | Info | 40 | Completed |
 | Common Linux Privesc | [todo] | [todo] | Easy | 0 | Completed |
@@ -201,6 +203,7 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | [Eradication & Remediation](./rooms/eradicationandremediation) | DFIR, Methodology | A look into the fourth phase of the Incident Response framework: Eradication, Remediation, and Recovery. | Easy | 60 | Completed | 
 | Evading Logging and Monitoring | [todo] | [todo] | Medium | 60 | In Progress |
 | Eviction | [todo] | [todo] | Easy | 45 | Completed |
+| Expediting Registry Analysis | [todo] | [todo] | Medium | 120 | Completed |
 | Exploit Vulnerabilities | [todo] | [todo] | Easy | 20 | Completed |
 | Extending Your Network | [todo] | [todo] | Info | 20 | Completed |
 | ffuf | [todo] | [todo] | Easy | 0 | Completed |
@@ -221,6 +224,7 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | Hashing – Crypto 101 | [todo] | [todo] | Medium | 30 | Completed |
 | HeartBleed | CTF, Metasploit, Exploitation, Crypto | SSL issues are still lurking in the wild! Can you exploit this web servers OpenSSL? | Easy | 60 | Completed |
 | History of Malware | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Hosted Hypervisors | [todo] | [todo] | Easy | 60 | Completed |
 | How to use TryHackMe | [todo] | [todo] | [todo] | [todo] | [todo] |
 | How websites work | [todo] | [todo] | [todo] | [todo] | [todo] |
 | HTTP Request Smuggling | [todo] | [todo] | [todo] | [todo] | [todo] |
@@ -280,6 +284,7 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | [iOS Forensics](./rooms/iosforensics) | Methodology, Toolkits, DFIR | Learn about the data acquisition techniques and tools used in iOS device digital forensics! | Easy | 0 | Completed |
 | IR Difficulties and Challenges | [todo] | [todo] | Easy | 60 | Completed |
 | IR Philosophy and Ethics | [todo] | [todo] | Easy | 40 | Completed |
+| IR Playbooks | [todo] | [todo] | Easy | 60 | Completed |
 | IR Timeline Analysis | [todo] | [todo] | Medium | 60 | In Progress |
 | ISO27001 | [todo] | [todo] | Easy | 0 | Completed |
 | [JavaScript Basics](./rooms/javascriptbasics) | Programming | Learn JavaScript, the high-level, multi-paradigm language of the web. | Easy | 0 | Completed |
@@ -288,6 +293,8 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | Junior Security Analyst Intro | [todo] | [todo] | Easy | 15 | Completed |
 | Jupyter 101 | [todo] | [todo] | Easy | 0 | Completed |
 | [JVM Reverse Engineering](./rooms/jvmreverseengineering) | Java, Reverse Engineering, Case Study | Learn JavaScript, the high-level, multi-paradigm language of the web. | Medium | 0 | In Progress |
+| [JWT Security] | [todo] | [todo] | Easy | 60 | In Progress |
+| K8s Best Security Practices | [todo] | [todo] | Medium | 60 | In Progress |
 | KaffeeSec – SoMeSINT | [todo] | [todo] | Medium | 0 | Completed |
 | Kali Machine | Basics | Access your own Kali Machine | Easy | 30 | Completed |
 | KAPE | [todo] | [todo] | Medium | 90 | In Progress |
@@ -311,6 +318,7 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | Linux Fundamentals Part 1 | [todo] | [todo] | Info | 10 | Completed |
 | Linux Fundamentals Part 2 | [todo] | [todo] | Info | 20 | Completed |
 | Linux Fundamentals Part 3 | [todo] | [todo] | Info | 18 | Completed |
+| Linux Incident Surface | [todo] | [todo] | Easy | 80 | Completed |
 | Linux Live Analysis | [todo] | [todo] | Medium | 100 | Completed |
 | Linux Logs Investigations | [todo] | [todo] | Medium | 60 | Completed |
 | Linux PrivEsc | [todo] | [todo] | Medium | 0 | Completed |
@@ -341,6 +349,7 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | MITRE | [todo] | [todo] | [todo] | [todo] | [todo] |
 | Mobile Malware Analysis | [todo] | [todo] | Easy | 60 | Completed |
 | Mother's Secret | [todo] | [todo] | [todo] | [todo] | [todo] |
+| Multi-Factor Authentication | [todo] | [todo] | Easy | 60 | Completed |
 | Nessus | [todo] | [todo] | Easy | 0 | Completed |
 | Net Sec Challenge | [todo] | [todo] | Medium | 60 | Completed |
 | Network Device Hardening | [todo] | [todo] | Medium | 180 | Completed |
@@ -357,8 +366,9 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | Nmap Basic Port Scans | [todo] | [todo] | Easy | 120 | Completed |
 | Nmap Live Host Discovery | [todo] | [todo] | Medium | 120 | Completed |
 | Nmap Post Port Scans | [todo] | [todo] | Medium | 60 | Completed |
-| NoSQL Injection | [todo] | [todo] | Easy | 30 | In Progress |
+| NoSQL Injection | [todo] | [todo] | Easy | 30 | Completed |
 | NoSQL injection Basics | [todo] | [todo] | Easy | 30 | Completed |
+| OAuth Vulnerabilities | [todo] | [todo] | Medium | 120 | In Progress |
 | Obfuscation Principles | [todo] | [todo] | Medium | 60 | Completed |
 | OhShint | [todo] | [todo] | Easy | 60 | Completed |
 | On-Premises IaC | [todo] | [todo] | Medium | 60 | In Progress |
@@ -420,6 +430,7 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | Sandbox Evasion | [todo] | [todo] | Hard | 180 | In Progress |
 | SAST | [todo] | [todo] | Medium | 30 | Completed |
 | SDLC | [todo] | [todo] | Easy | 120 | Completed |
+| Secure GitOps | [todo] | [todo] | Easy | 60 | Completed |
 | Secure Network Architecture | [todo] | [todo] | Medium | 60 | Completed |
 | Security Awareness | [todo] | [todo] | Info | 30 | Completed |
 | Security Engineer Intro | [todo] | [todo] | Info | 60 | Completed |
@@ -444,6 +455,7 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | Splunk 2 | [todo] | [todo] | Medium | 45 | In Progress |
 | Splunk: Basics | [todo] | [todo] | Easy | 30 | Completed |
 | Spring4Shell: CVE-2022-22965 | [todo] | [todo] | Info | 20 | Completed |
+| SQL Fundamentals | [todo] | [todo] | Easy | 120 | In Progress |
 | SQL Injection | [todo] | [todo] | Medium | 30 | Completed |
 | SQL Injection Lab | [todo] | [todo] | Easy | 0 | In Progress |
 | SQLMAP | [todo] | [todo] | Easy | 30 | Completed |
@@ -535,4 +547,3 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | Zero Logon | [todo] | [todo] | Hard | 30 | In Progress |
 
 </details>
-
