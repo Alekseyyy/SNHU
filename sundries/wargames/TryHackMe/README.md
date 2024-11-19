@@ -87,7 +87,7 @@ These are a curation of rooms that I completed (or intend to complete) that meet
 * __Managing Incidents:__ Understand how security engineers help their organisations during an incident to reduce the impact of the incident.
 </details>
 
-## Full List of Rooms
+## Appendix: Comprehensive list of labs done
 
 These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, find interesting and intend to do later, are in progress, or some combination of the other aforementioned states. The embedded links in the name of the room point to a "resource folder" of notes that I took while doing the room, and the respective room's materials.
 
@@ -504,6 +504,7 @@ These are (hopefully) a full list of TryHackMe rooms (or labs) that I finished, 
 | Traffic Analysis Essentials | [todo] | [todo] | Easy | 30 | Completed |
 | Traverse | [todo] | [todo] | Easy | 120 | Completed |
 | Trooper | [todo] | [todo] | Easy | 60 | Completed |
+| TryHack3M: Sch3Ma D3Mon | [todo] | [todo] | Medium | 90 | Completed |
 | [TShark](./rooms/tshark) | Network Analysis, Utility | Learn how to use TShark to accelerate your pcap analysis! | Medium | 60 | Completed |
 | [TShark: The Basics](./rooms/tsharkthebasics) | [todo] | [todo] | Easy | 120 | Completed |
 | [TShark: CLI Wireshark Features] | [todo] | [todo] | Medium | 120 | Completed |
