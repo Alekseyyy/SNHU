@@ -6,3 +6,7 @@
 
 The other stuff in this subdirectory are project files that were produced when doing solving this crackme.
 
+### Alternative Solution: "Hindsight" Fuzzing
+
+[todo]
+
