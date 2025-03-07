@@ -15,7 +15,7 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 ## Coursework
 
 <details>
-<summary>Accredited In-University Coursework</summary>
+<summary>SNHU Coursework</summary>
 
 <a href="./coursework/CS_Pathway.pdf"><img src="./coursework/CS_Pathway.png" width="600px" /></a>
 
@@ -30,7 +30,7 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 | [Software Testing Automation & QA](./coursework/CS320/) | CS320 |
 | [Introduction to Structured Database Environments](./coursework/DAD220/) | DAD220 |
 | __General STEM coursework__ | |
-| [Precalculus]((./coursework/MAT140/)) | MAT140 |
+| [Precalculus](./coursework/MAT140/) | MAT140 |
 | [Introduction to Physics](./coursework/PHY150/) | PHY150 |
 | __Other prerequisite coursework__ | |
 | [Perspectives in History](./coursework/HIS100/) | HIS100 |
@@ -41,26 +41,28 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 </details>
 
 <details>
-<summary>Non-accredited coursework and MOOCs</summary>
+<summary>Test-out Courses</summary>
 
-Some online courses that I took were able to be articulated to college credit at SNHU. Here is a full list of them:
+A partial list of courses offered by third-party providers that I took, and then articulated to college credit at SNHU:
 
-|__Online course__|__Provider__|__SNHU course name__|__SNHU course number__|
-|-----------------|------------|--------------------|----------------------|
-| [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/ba83ef4d67d94dca87154ed312181845) | edX | Introduction to Scripting | ~~todo~~ |
-| [Introduction to Java Programming](./coursework/IT145) | Sophia Learning | Foundations of Application Development | IT145 |
-
-### Open Source Society University (OSSU)
-
-A significant educational project that I am working on is a (unaccredited, but cheap) set of STEM "majors" from the [Open Source Society University](https://github.com/ossu) --- or simply just the "OSSU." This GitHub repository also includes all of my other non-accredited coursework that is not directly associated with the curriculum proposed by the OSSU project. It is basically a semi-formal way to validate my skills in computing and its relationship to other fields.
-
-This project is so big that it deserves its own github repo and I recommend that you check it out if you're interested in some of my extracuricullar activities: [https://github.com/Alekseyyy/ossu](https://github.com/Alekseyyy/ossu)
+|__Third-party course__|__Provider__|__SNHU equivalent__|
+|----------------------|------------|-------------------|
+| [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/ba83ef4d67d94dca87154ed312181845) | edX | Introduction to Scripting (IT140) |
+| [Introduction to Java Programming](./sundries/ossu/test-outs/Sophia/IT145) | Sophia Learning | Foundations of Application Development (IT145) |
+| [Computer Science 201](./sundries/ossu/test-outs/Study.com/CS201) | Study.com | ~~todo~~ |
 
 </details>
 
-## Sundries
+## Extracurricular Activities
 
-Outside of school, I like to "stay sharp" by doing computer science practice with sundry textbook problems, and practice systems/other programming, practice information security and other kinds of computer-based practice. I also like to dabble in other STEM and humanities related fields.
+Outside of school, I like to "stay sharp" by doing computer science practice with sundry textbook problems, and work on (semi-)arbitrary computing problems. I also like to dabble in other STEM and humanities related fields. These are some of the results from my extracurricular activities:
+
+<details>
+<summary>Open Source Society University (OSSU)</summary>
+
+A significant educational project that I am working on is a (unaccredited, but cheap) set of STEM "majors" from the [Open Source Society University](https://github.com/ossu) - abbreviated to _OSSU_. This includes all of my other non-accredited coursework that may or may not be in the OSSU curriculum.
+
+</details>
 
 <details>
 <summary>Textbook problems</summary>
@@ -78,9 +80,11 @@ _Note to self: T = todo and L = later_
 <details>
 <summary>Online code judges</summary>
 
-* [HackerRank](./sundries/OLCodeJudge/HackerRank): general programming
+* [CodeSignal](./sundries/OLCodeJudge/CodeSignal): general programming
 * [DM::OJ](./sundries/OLCodeJudge/DMOJ): general programming
-* [Project Euler](./sundries/OLCodeJudge/ProjectEuler): with special focus on number theory and maths
+* [HackerRank](./sundries/OLCodeJudge/HackerRank): general programming
+* [Project Euler](./sundries/OLCodeJudge/ProjectEuler): with a special focus on number theory and maths
+* [Rosalind](./sundries/OLCodeJudge/Rosalind): with a special focus on bioinformatics
 
 </details>
 
@@ -89,7 +93,7 @@ _Note to self: T = todo and L = later_
 
 * [picoCTF 2023](./sundries/ctf/2023/picoCTF): general beginner-level ctf challenges.
 * [BrixelCTF 2020](./sundries/ctf/2020/brixelctf): general beginner-level ctf challenges.
-* [Decompetition 2020](./sundries/ctf/2020/decompetition): intresting reverse engineering puzzles--- rather than trying to work out a "flag," participants are challenged to reengineer compiled executables in a programming language.
+* [Decompetition 2020](./sundries/ctf/2020/decompetition): reverse engineering puzzles. Rather than trying to work out a "flag," participants are challenged to reengineer compiled binaries to best match the output of the original compiled executable.
 * [FlareON 5](./sundries/ctf/2018/flareon5): ctf focused on reverse engineering.
 
 </details>
