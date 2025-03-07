@@ -11,15 +11,15 @@ An ``assignment1.jar`` file is located in the ``Assignment1`` folder (filenames/
 
 The following is a video footage demonstrating the binary search tree - ``assignment1.jar`` - in action:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/we6UDeys28s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![YouTube: CS-201 (Study.com) Assignment 1: Demonstration of the Binary Search Tree](https://img.youtube.com/vi/we6UDeys28s/0.jpg)](https://www.youtube.com/watch?v=we6UDeys28s)
 
 #### Codebase
 
-* The ``Assignment1`` folder contains the Eclipse IDE project files that I used to create ``assignment1.jar``. The following are the two key ``.java`` source code files that I wrote 
+* The ``Assignment1`` folder contains the _Eclipse IDE_ project files that I used to create ``assignment1.jar``. The following are the two key ``.java`` source code files that I wrote:
 
-* ``MyBinaryTree.java`` ( [here](./Assignment1/src/assignment/MyBinaryTree.java) ) contains ``MyBinaryTree`` - which is the ``public class`` that makes up the more abstract data type that is my custom binary search tree.
-    * Note that when implementing the binary search tree, I cited several "Study.com" ([n.d.](https://study.com/academy/lesson/binary-trees-applications-implementation.html), [n.d.-b](https://study.com/academy/lesson/practical-application-for-data-structures-search-trees.html), [n.d.-c](https://study.com/academy/lesson/data-structures-algorithms-assignment-array-sorting-and-hashmaps.html) lessons and "Geeks4Geeks" ([c.a. Oct. 21, 2024](https://www.geeksforgeeks.org/inorder-traversal-of-binary-tree/), [c.a. Oct. 30, 2024](https://www.geeksforgeeks.org/preorder-traversal-of-binary-tree/), [c.a. Oct. 21, 2024b](https://www.geeksforgeeks.org/postorder-traversal-of-binary-tree/), [c.a. Dec. 5, 2024](https://www.geeksforgeeks.org/deletion-in-binary-search-tree/) ) tutorials, and integrated their code into my project.
-* ``Program.java`` ( [here](./Assignment1/src/assignment/Program.java) ) is the driver that calls the ``MyBinaryTree`` abstract data type to demonstrate its features.
+* ``MyBinaryTree.java`` ([here](./Assignment1/src/assignment/MyBinaryTree.java)) contains ``MyBinaryTree`` - which is the ``public class`` that makes up the more abstract data type that is my custom binary search tree.
+    * Note that when implementing the binary search tree, I cited several "Study.com" ([n.d.](https://study.com/academy/lesson/binary-trees-applications-implementation.html), [n.d.-b](https://study.com/academy/lesson/practical-application-for-data-structures-search-trees.html), [n.d.-c](https://study.com/academy/lesson/data-structures-algorithms-assignment-array-sorting-and-hashmaps.html)) lessons and "Geeks4Geeks" ([c.a. Oct. 21, 2024](https://www.geeksforgeeks.org/inorder-traversal-of-binary-tree/), [c.a. Oct. 30, 2024](https://www.geeksforgeeks.org/preorder-traversal-of-binary-tree/), [c.a. Oct. 21, 2024b](https://www.geeksforgeeks.org/postorder-traversal-of-binary-tree/), [c.a. Dec. 5, 2024](https://www.geeksforgeeks.org/deletion-in-binary-search-tree/)) tutorials, and integrated their code into my project.
+* ``Program.java`` ([here](./Assignment1/src/assignment/Program.java)) is the driver that calls the ``MyBinaryTree`` abstract data type to demonstrate its features.
 
 ### Assignment 2:
 
