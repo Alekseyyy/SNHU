@@ -15,7 +15,7 @@ The following is a video footage demonstrating the binary search tree - ``assign
 
 #### Codebase
 
-* The ``Assignment1`` folder contains the _Eclipse IDE_ project files that I used to create ``assignment1.jar``. The following are the two key ``.java`` source code files that I wrote:
+The ``Assignment1`` folder contains the _Eclipse IDE_ project files that I used to create ``assignment1.jar``. The following are the two key ``.java`` source code files that I wrote:
 
 * ``MyBinaryTree.java`` ([here](./Assignment1/src/assignment/MyBinaryTree.java)) contains ``MyBinaryTree`` - which is the ``public class`` that makes up the more abstract data type that is my custom binary search tree.
     * Note that when implementing the binary search tree, I cited several "Study.com" ([n.d.](https://study.com/academy/lesson/binary-trees-applications-implementation.html), [n.d.-b](https://study.com/academy/lesson/practical-application-for-data-structures-search-trees.html), [n.d.-c](https://study.com/academy/lesson/data-structures-algorithms-assignment-array-sorting-and-hashmaps.html)) lessons and "Geeks4Geeks" ([c.a. Oct. 21, 2024](https://www.geeksforgeeks.org/inorder-traversal-of-binary-tree/), [c.a. Oct. 30, 2024](https://www.geeksforgeeks.org/preorder-traversal-of-binary-tree/), [c.a. Oct. 21, 2024b](https://www.geeksforgeeks.org/postorder-traversal-of-binary-tree/), [c.a. Dec. 5, 2024](https://www.geeksforgeeks.org/deletion-in-binary-search-tree/)) tutorials, and integrated their code into my project.
