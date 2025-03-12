@@ -13,7 +13,7 @@ import java.util.*;
  */
 public class Program {
 	
-	static MyBinaryTree.Tree bstInstance;
+	static MyBST bstInstance;
 
 	/* entry point of the "Driver" to demonstrate 
 	 * MyBinaryTree.java no arguments needed to be  
@@ -32,7 +32,6 @@ public class Program {
 		printMenu();
 		
 		// Main Logic ...
-		
 		boolean done = false;
 		while (!done) {
 		/* 
@@ -72,9 +71,8 @@ public class Program {
 				case 1: /* Create a binary search tree
 					Specifically, create a binary search tree with
 					  the initial node values: 1, 2, 3, 4, 5, 6, 7 */
-					bstInstance = new MyBinaryTree.Tree();
-					for (int key = 1; key <= 7; key++)
-						bstInstance.insert(key);
+					int[] testArray = {4, 7, 5, 1, 3, 2, 6};
+					bstInstance = new MyBST(testArray);
 					System.out.println("Successfully initialised a new Binary Search Tree with default values 1,2,3,4,5,6,7!");
 					break;
 				case 2: //Add a node
@@ -140,3 +138,22 @@ public class Program {
 		System.out.println("7) Exit program");
 	}
 }
+
+/*
+ * References
+ * 1. "Study.com" (n.d.). Binary Trees: Applications & Implementation. Retrieved on
+ *   Mar. 6, 2025 from: https://study.com/academy/lesson/binary-trees-applications-implementation.html
+ * 2. "Study.com" (n.d.-b). Practical Application for Data Structures: Search Trees. Retrieved on
+ *   Mar. 6, 2025 from: https://study.com/academy/lesson/practical-application-for-data-structures-search-trees.html
+ * 3. "Study.com" (n.d.-c). Computer Science 201 - Assignment 1: Creating a Binary Search Tree. 
+ *   Retrieved on Mar. 7, 2025 from: 
+ *   https://study.com/academy/lesson/data-structures-algorithms-assignment-array-sorting-and-hashmaps.html
+ * 3. "Geeks4Geeks" (c.a. Oct. 21, 2024). Inorder Traversal of Binary Tree. Retrieved on 
+ *   Mar. 6, 2025 from: https://www.geeksforgeeks.org/inorder-traversal-of-binary-tree/
+ * 4. "Geeks4Geeks" (c.a. Oct. 30, 2024). Preorder Traversal of Binary Tree. Retrieved
+ *   on Mar. 6, 2025 from: https://www.geeksforgeeks.org/preorder-traversal-of-binary-tree/
+ * 5. "Geeks4Geeks" (c.a. Oct. 21, 2024b). Postorder Traversal of Binary Tree. Retrieved 
+ * on Mar. 6, 2025 from: https://www.geeksforgeeks.org/postorder-traversal-of-binary-tree/
+ * 6. "Geeks4Geeks" (c.a. Dec. 5, 2024). Deletion in Binary Search Tree (BST). Retrieved on
+ *   Mar. 7, 2025 from: https://www.geeksforgeeks.org/deletion-in-binary-search-tree/
+ */
