@@ -71,7 +71,7 @@ public class Program {
 				case 1: /* Create a binary search tree
 					Specifically, create a binary search tree with
 					  the initial node values: 1, 2, 3, 4, 5, 6, 7 */
-					int[] testArray = {4, 7, 5, 1, 3, 2, 6};
+					int[] testArray = {5,3,9,8,10,0,2,1,4,7,6};
 					bstInstance = new MyBST(testArray);
 					System.out.println("Successfully initialised a new Binary Search Tree with default values 1,2,3,4,5,6,7!");
 					break;

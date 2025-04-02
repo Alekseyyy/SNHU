@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
+	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-15"/>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item key="group_libraries" value="true"/>
+		<item key="layout" value="2"/>
+		<item key="rootMode" value="1"/>
+		<item key="linkWithEditor" value="false"/>
+		<item key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1740903926869&quot;&gt;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0A;&lt;xmlDefinedFilters&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0A;&lt;/customFilters&gt;&#x0A;&lt;/packageExplorer&gt;"/>
+	</section>
+	<section name="JavaProjectWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="154"/>
+		<item key="DIALOG_Y_ORIGIN" value="-31"/>
+		<item key="DIALOG_WIDTH" value="717"/>
+		<item key="DIALOG_HEIGHT" value="905"/>
+		<item key="DIALOG_FONT_NAME" value="1|Fira Sans|10.0|0|GTK|1|"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="NewClassCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="266"/>
+		<item key="DIALOG_Y_ORIGIN" value="94"/>
+		<item key="DIALOG_WIDTH" value="629"/>
+		<item key="DIALOG_HEIGHT" value="751"/>
+		<item key="DIALOG_FONT_NAME" value="1|Fira Sans|10.0|0|GTK|1|"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="create_constructor" value="false"/>
+		<item key="create_unimplemented" value="true"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item key="renameSubpackages" value="false"/>
+		<item key="updateTextualMatches" value="false"/>
+		<item key="updateQualifiedNames" value="false"/>
+		<item key="patterns" value="*"/>
+		<item key="updateSimilarElements" value="false"/>
+		<item key="updateSimilarElementsMatchStrategy" value="1"/>
+	</section>
+	<section name="JarPackageWizard">
+		<item key="JarPackageWizardPage.EXPORT_CLASS_FILES" value="true"/>
+		<item key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER" value="false"/>
+		<item key="JarPackageWizardPage.EXPORT_JAVA_FILES" value="false"/>
+		<item key="JarPackageWizardPage.REFACTORINGS" value="false"/>
+		<item key="JarPackageWizardPage.COMPRESS" value="true"/>
+		<item key="JarPackageWizardPage.INCLUDE_DIRECTORY_ENTRIES" value="false"/>
+		<item key="JarPackageWizardPage.OVERWRITE" value="false"/>
+		<item key="jarOptionsWizardPage.EXPORT_WARNINGS" value="true"/>
+		<item key="jarOptionsWizardPage.EXPORT_ERRORS" value="true"/>
+		<item key="jarOptionsWizardPage.STORE_USE_SRC_FOLDERS" value="false"/>
+		<item key="jarOptionsWizardPage.BUILD_IF_NEEDED" value="true"/>
+		<item key="jarOptionsWizardPage.SAVE_DESCRIPTION" value="false"/>
+		<item key="jarOptionsWizardPage.DESCRIPTION_LOCATION" value=""/>
+		<item key="JarManifestWizardPage.GENERATE_MANIFEST" value="true"/>
+		<item key="JarManifestWizardPage.SAVE_MANIFEST" value="false"/>
+		<item key="JarManifestWizardPage.REUSE_MANIFEST" value="false"/>
+		<item key="JarManifestWizardPage.MANIFEST_LOCATION" value=""/>
+		<item key="JarManifestWizardPage.SEAL_JAR" value="false"/>
+		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="Assignment1/assignment1.jar"/>
+		</list>
+		<section name="JarPackageWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="456"/>
+			<item key="DIALOG_Y_ORIGIN" value="89"/>
+			<item key="DIALOG_WIDTH" value="527"/>
+			<item key="DIALOG_HEIGHT" value="705"/>
+			<item key="DIALOG_FONT_NAME" value="1|Fira Sans|10.0|0|GTK|1|"/>
+		</section>
+	</section>
+	<section name="FatJarPackageWizard">
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="/home/aleksey/Documents/work-stuff/Eclipse-Workspace/Study.com"/>
+		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="Program - Assignment1"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="Assignment1/assignment1.jar"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="Assignment1/assignment1.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="/home/aleksey/Documents/work-stuff/Eclipse-Workspace/Study.com"/>
+			<item value=".xml"/>
+		</list>
+		<section name="FatJarPackageWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="456"/>
+			<item key="DIALOG_Y_ORIGIN" value="89"/>
+			<item key="DIALOG_WIDTH" value="525"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|Fira Sans|10.0|0|GTK|1|"/>
+		</section>
+	</section>
+	<section name="NewPackageCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="347"/>
+		<item key="DIALOG_Y_ORIGIN" value="136"/>
+		<item key="DIALOG_WIDTH" value="544"/>
+		<item key="DIALOG_HEIGHT" value="500"/>
+		<item key="DIALOG_FONT_NAME" value="1|Fira Sans|10.0|0|GTK|1|"/>
+	</section>
+	<section name="NewPackageWizardPage">
+		<item key="create_package_info_java" value="false"/>
+	</section>
+</section>
