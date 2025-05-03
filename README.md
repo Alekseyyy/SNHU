@@ -43,13 +43,15 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 <details>
 <summary>Test-out Courses</summary>
 
+<br />
+
 A partial list of courses offered by third-party providers that I took, and then articulated to college credit at SNHU:
 
 |__Third-party course__|__Provider__|__SNHU equivalent__|
 |----------------------|------------|-------------------|
-| [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/ba83ef4d67d94dca87154ed312181845) | edX | Introduction to Scripting (IT140) |
-| [Introduction to Java Programming](./sundries/ossu/test-outs/Sophia/IT145) | Sophia Learning | Foundations of Application Development (IT145) |
-| [Computer Science 201](./sundries/ossu/test-outs/Study.com/CS201) | Study.com | ~~todo~~ |
+| [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/ba83ef4d67d94dca87154ed312181845) | edX | IT-140: Introduction to Scripting |
+| [Introduction to Java Programming](./sundries/ossu/coursework/Sophia_IT-145) | Sophia Learning | IT-145: Foundations of Application Development |
+| [CS-201: Data Structures & Algorithms](./sundries/ossu/coursework/Study.com_CS-201) | Study.com | CS-300: DSA: Analysis and Design |
 
 </details>
 
@@ -91,6 +93,7 @@ _Note to self: T = todo and L = later_
 <details>
 <summary>Capture The Flags (CTFs)</summary>
 
+* picoCTF 2025: general beginner-level ctf challenges.
 * [picoCTF 2023](./sundries/ctf/2023/picoCTF): general beginner-level ctf challenges.
 * [BrixelCTF 2020](./sundries/ctf/2020/brixelctf): general beginner-level ctf challenges.
 * [Decompetition 2020](./sundries/ctf/2020/decompetition): reverse engineering puzzles. Rather than trying to work out a "flag," participants are challenged to reengineer compiled binaries to best match the output of the original compiled executable.

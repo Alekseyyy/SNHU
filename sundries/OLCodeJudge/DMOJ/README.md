@@ -14,11 +14,11 @@ profile: [https://dmoj.ca/user/a_ahmann](https://dmoj.ca/user/a_ahmann)
 |----------------|--------------|---------------|---------|
 | Not a Wall of Text | [dmopc15c7p2](https://dmoj.ca/problem/dmopc15c7p2) | [java](./solutions/dmopc15c7p2/solution.java) | [p. 5](#bib) |
 | Core Drill | [dmopc14c5p1](https://dmoj.ca/problem/dmopc14c5p1) | [java](./solutions/dmopc14c5p1/solution.java) |  [p. 18](#bib) |
-| A Spooky Season | [wc16c1j1](https://dmoj.ca/problem/wc16c1j1) | [c++](./solutions/wc16c1j1/solution.cpp), [java](./solutions/wc16c1j1/solution.java) | [p. 24](#bib) |
+| A Spooky Season | [wc16c1j1](https://dmoj.ca/problem/wc16c1j1) | [c++](./solutions/wc16c1j1/solution.cpp) | [p. 24](#bib) |
 | A New Hope | [wc15c2j1](https://dmoj.ca/problem/wc15c2j1) | [java](./solutions/wc15c2j1/solution.java) | [p. 24](#bib) |
-| Next in line |[ccc13j1](https://dmoj.ca/problem/ccc13j1)| [c++](./solutions/ccc13j1/solution.cpp), [java](./solutions/ccc13j1/solution.java) | [p. 24](#bib) |
-| How's the Weather? | [wc17c1j2](https://dmoj.ca/problem/wc17c1j2) | [c++](./solutions/wc17c1j2/solution.cpp), [java](./solutions/wc17c1j2/solution.java) | [p. 24](#bib) |
-| An Honest Day's Work | [wc18c3j1](https://dmoj.ca/problem/wc18c3j1) | [c++](./solutions/wc18c3j1/solution.cpp), [java](./solutions/wc18c3j1/solution.java) | [p. 24](#bib) |
+| Next in line |[ccc13j1](https://dmoj.ca/problem/ccc13j1)| [c++](./solutions/ccc13j1/solution.cpp) | [p. 24](#bib) |
+| How's the Weather? | [wc17c1j2](https://dmoj.ca/problem/wc17c1j2) | [c++](./solutions/wc17c1j2/solution.cpp) | [p. 24](#bib) |
+| An Honest Day's Work | [wc18c3j1](https://dmoj.ca/problem/wc18c3j1) | [c++](./solutions/wc18c3j1/solution.cpp) | [p. 24](#bib) |
 
 ### Chapter 2: Making decisions
 
