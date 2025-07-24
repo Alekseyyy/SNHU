@@ -11,6 +11,8 @@ This is the obligatory "intro to physics" class that I took. It covered the usua
 * [Lab 4-2: Newton's Second Law](./labs/4-2/)
 * [Lab 7-1: Momentum](./labs/7-1/)
 
+__Update: 15 Jul., 2025:__ I found a resource from the _University of Vermont_ that hosts their own version of the manuals from the producers of the Physics lab kit: https://www.uvm.edu/~ldonfort/P21S20/
+
 ### Projects
 
 * [Project 3-2: A hypothetical supply drop mission](./papers/3-1/)
