@@ -41,6 +41,13 @@ This is a curation of resources created by others and notes that I have taken re
 
 ### Research Methods
 
+* _Applied Statistics:_ (Donatello & Roualdes): [https://norcalbiostat.github.io/AppliedStatistics_notes/](https://norcalbiostat.github.io/AppliedStatistics_notes/) __\[free book about applied statistics\]__
+* _Relationship Extraction in NLP_ (Geeks4Geeks, Last Retrieved on Jul. 31, 2025): [https://www.geeksforgeeks.org/nlp/relationship-extraction-in-nlp/](https://www.geeksforgeeks.org/nlp/relationship-extraction-in-nlp/)
+    * Archived Here: [https://web.archive.org/web/20250726002632/https://www.geeksforgeeks.org/nlp/relationship-extraction-in-nlp/](https://web.archive.org/web/20250726002632/https://www.geeksforgeeks.org/nlp/relationship-extraction-in-nlp/)
+* D. Makowski, "The psycho Package: an Efficient and Publishing-Oriented Workflow for Psychological Science," _The Journal of Open Source Software_, vol. 3, no. 22, pp. 470–470, Feb. 2018, doi: [https://doi.org/10.21105/joss.00470](https://doi.org/10.21105/joss.00470)
+    * "Psycho" R Package author's website: [https://dominiquemakowski.github.io/](https://dominiquemakowski.github.io/)
+    * "Psycho" Project Website: [https://neuropsychology.github.io/psycho.R/](https://neuropsychology.github.io/psycho.R/)
+
 #### Tutorial Papers
 
 * Inna Kouper and S. Stone, “Data Sharing and Use in Cybersecurity Research,” _Data Science Journal_, vol. 23, pp. 3–3, Jan. 2024, doi: [https://doi.org/10.5334/dsj-2024-003](https://doi.org/10.5334/dsj-2024-003)
@@ -122,9 +129,14 @@ This is a curation of resources created by others and notes that I have taken re
 * P. Godefroid, "Fuzzing: Hack, Art, and Science," _Communications of the ACM_, [https://cacm.acm.org/research/fuzzing/](https://cacm.acm.org/research/fuzzing/) \(accessed Jul. 23, 2025\)
 * _A comparison of FFUF and Wfuzz for fuzz testing web applications_ \([Mattsson 2021](https://web.archive.org/web/20230411090144/https://www.doria.fi/bitstream/handle/10024/181265/mattsson_matheos.pdf)\) __\[masters thesis\]__
 
+## Wireless hacking
+
+* "Wh1t3Rh1n0," _Introducing WoNDeR-List: Wordlist of Netgear default WPA keys. Download link is at the bottom_, Jun 2014, [https://web.archive.org/web/20250408142521/https://mikeallen.org/blog/2014-06-16-introducing-wonder-list/](https://web.archive.org/web/20250408142521/https://mikeallen.org/blog/2014-06-16-introducing-wonder-list/)
+
 ## Persistent Implants & Malware Development
 
 * T. Holz, and F. Raynal, "Detecting Honeypots and other suspicious environments," _Proceedings of the 2005 IEEE_, [https://web.archive.org/web/20150905113200/http://old.honeynet.org/papers/individual/DefeatingHPs-IAW05.pdf](https://web.archive.org/web/20150905113200/http://old.honeynet.org/papers/individual/DefeatingHPs-IAW05.pdf)
+* J. Carlos, J. Jareño, José Miguel Aragón-Jurado, Sébastien Varrette, and Bernabé Dorronsoro, "Source code obfuscation with genetic algorithms using LLVM code optimizations," _Logic Journal of IGPL_, May 2024, doi: [https://doi.org/10.1093/jigpal/jzae069](https://doi.org/10.1093/jigpal/jzae069)
 
 ## Digital Forensics & Incident Response
 
@@ -160,6 +172,8 @@ This is a curation of resources created by others and notes that I have taken re
 * [Ghidra Basics: Manual Shellcode Analysis and C2 Extraction](https://embee-research.ghost.io/ghidra-basics-shellcode-analysis/)
 * [Reverse Engineering Malware Network Protocols with Angr](https://www.securityartwork.es/2018/04/09/reversing-of-malware-network-protocols-with-angr/)
 * [Reddit thread discussing sources of Benignware and their datasets](https://www.reddit.com/r/Malware/comments/bu2tvc/benignware_dataset/)
+* [\[Spiceworks\] What Is Reverse Engineering? Definition, Working, Examples, and Importance](https://www.spiceworks.com/tech/tech-general/articles/what-is-reverse-engineering/)
+* [\[OpenObserve.AI\] Tracing Python Code - Module and Function Call Execution](https://openobserve.ai/articles/python-m-trace-code-tracing/#detailed-list-of-event-types/)
 
 ### RE Literature
 
@@ -175,6 +189,7 @@ This is a curation of resources created by others and notes that I have taken re
 * J. P. Sullins, “A Case Study in Malware Research Ethics Education: When Teaching Bad is Good,” _2014 IEEE Security and Privacy Workshops,_ May 2014, doi: [https://doi.org/10.1109/spw.2014.46](https://doi.org/10.1109/spw.2014.46) __\[about ethics in malware research\]__
 * K. Macnish and J. van der Ham, “Ethics in cybersecurity research and practice,” _Technology in Society_, vol. 63, no. 101382, Nov. 2020, doi: [https://doi.org/10.1016/j.techsoc.2020.101382](https://doi.org/10.1016/j.techsoc.2020.101382) __\[about ethics in malware research\]__
 * M. K. Tennor, "Reverse Engineering Cognition", MITRE Corporation, 2015, [https://web.archive.org/web/20250613172342/https://www.mitre.org/sites/default/files/publications/pr-15-2630-reverse-engineering-cognition.pdf](https://web.archive.org/web/20250613172342/https://www.mitre.org/sites/default/files/publications/pr-15-2630-reverse-engineering-cognition.pdf)
+* N. Walkinshaw, "Reverse-Engineering Software Behavior," _Advances in computers_, pp. 1-58, Jan. 2013, doi: [https://doi.org/10.1016/b978-0-12-408089-8.00001-x](https://doi.org/10.1016/b978-0-12-408089-8.00001-x)
 * R. H. Lande and S. M. Sobin, "Reverse Engineering of Computer Software and U.S. Antitrust Law," _Harvard Journal of Law & Technology,_ vol. 9, no. 2, 1996, Available at: [https://web.archive.org/web/20250322064807/https://jolt.law.harvard.edu/articles/pdf/v09/09HarvJLTech237.pdf](https://web.archive.org/web/20250322064807/https://jolt.law.harvard.edu/articles/pdf/v09/09HarvJLTech237.pdf) __\[about U.S. laws on reverse engineering\]__
 * Reverse Engineering Applications in Manufacturing Industries: An Overview \(Rathore & Jain 2014): [https://web.archive.org/web/20240508112055/https://daaam.info/Downloads/Pdfs/science_books_pdfs/2014/Sc_Book_2014-045.pdf](https://web.archive.org/web/20240508112055/https://daaam.info/Downloads/Pdfs/science_books_pdfs/2014/Sc_Book_2014-045.pdf)
 * S. C. Daughtrey, “Reverse Engineering of Software for Interoperability and Analysis,” _Vanderbilt Law Review_, vol. 47, no. 1, 1994, Available: [https://scholarship.law.vanderbilt.edu/vlr/vol47/iss1/4/](https://scholarship.law.vanderbilt.edu/vlr/vol47/iss1/4/) \[archived pdf: [https://web.archive.org/web/20240729034701/https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=2267&context=vlr](https://web.archive.org/web/20240729034701/https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=2267&context=vlr)\]
@@ -251,7 +266,7 @@ This is a curation of resources created by others and notes that I have taken re
 
 #### Other Lists of Cybersecurity Papers/Journals
 
-* _Insights2TechInfo's_ top ten list of cybersecurity journals: [https://insights2techinfo.com/popular-journals-on-cyber-security/]
+* _Insights2TechInfo's_ top ten list of cybersecurity journals: [https://insights2techinfo.com/popular-journals-on-cyber-security/](https://insights2techinfo.com/popular-journals-on-cyber-security/)
 * _Paperguide\.ai_ index of cybersecurity research papers: [https://paperguide.ai/papers/top/research-papers-cyber-security/](https://paperguide.ai/papers/top/research-papers-cyber-security/)
 * _National Renewable Energy Lab's_ index of cybersecurity research: [https://research-hub.nrel.gov/en/organisations/cybersecurity-research/publications/](https://research-hub.nrel.gov/en/organisations/cybersecurity-research/publications/)
 * _Embry-Riddle Aeronautical University's_ list of cybersecurity journals: [https://guides.erau.edu/cybersecurity/journals](https://guides.erau.edu/cybersecurity/journals)
