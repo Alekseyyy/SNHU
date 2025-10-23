@@ -68,6 +68,7 @@ This is a curation of resources created by others and notes that I have taken re
     * Similar Reddit discussion on doing cybersecurity research: [https://www.reddit.com/r/cybersecurity/comments/1edmfky/anyone_publish_a_white_paper/](https://www.reddit.com/r/cybersecurity/comments/1edmfky/anyone_publish_a_white_paper/)
 * _ResearchGate_ discussion on "trending topics" in cybersecurity research: [https://www.researchgate.net/post/What_are_the_hot_trending_topics_for_research_in_Cybersecurity_field](https://www.researchgate.net/post/What_are_the_hot_trending_topics_for_research_in_Cybersecurity_field)
 * WordPress blog post discussing how to use search engine keywords to find publications to submit pieces to: [https://concerntechcom.wordpress.com/contact/](https://concerntechcom.wordpress.com/contact/)
+* _StackExchange_ discussion on "How to run GUI applications as root": [https://askubuntu.com/questions/754528/how-to-run-gui-applications-as-root](https://askubuntu.com/questions/754528/how-to-run-gui-applications-as-root)
 
 ## Reconnaissance
 
@@ -138,7 +139,7 @@ This is a curation of resources created by others and notes that I have taken re
 * T. Holz, and F. Raynal, "Detecting Honeypots and other suspicious environments," _Proceedings of the 2005 IEEE_, [https://web.archive.org/web/20150905113200/http://old.honeynet.org/papers/individual/DefeatingHPs-IAW05.pdf](https://web.archive.org/web/20150905113200/http://old.honeynet.org/papers/individual/DefeatingHPs-IAW05.pdf)
 * J. Carlos, J. Jareño, José Miguel Aragón-Jurado, Sébastien Varrette, and Bernabé Dorronsoro, "Source code obfuscation with genetic algorithms using LLVM code optimizations," _Logic Journal of IGPL_, May 2024, doi: [https://doi.org/10.1093/jigpal/jzae069](https://doi.org/10.1093/jigpal/jzae069)
 
-## Digital Forensics & Incident Response
+## DFIR/Software Forensics
 
 * [InfoSec Institute: Free & open source computer forensics tools](https://resources.infosecinstitute.com/topics/digital-forensics/free-open-source-computer-forensics-tools/)
 * [Dr. Memory: the memory debugger](https://github.com/DynamoRIO/drmemory)
@@ -161,8 +162,19 @@ This is a curation of resources created by others and notes that I have taken re
 * [r/datarecovery: Veracrypt encrypted hard disk can't be mounted](https://www.reddit.com/r/datarecovery/comments/spadqs/veracrypt_encrypted_hard_disk_cant_be_mounted/)
 * [StackExchange - SuperUser (Oct. 18, 2014): Create Virtual Machine from Encase image](https://superuser.com/questions/836891/create-virtual-machine-from-encase-image)
 * [StackExchange - SuperUser (Dec. 3, 2023): Data Recovery from Veracrypt-Encrypted External Drive After Power Fluctuation [duplicate]](https://superuser.com/questions/1819146/data-recovery-from-veracrypt-encrypted-external-drive-after-power-fluctuation)
+* [StackExchange - Ask Ubuntu (Jun. 8, 2011): Fix corrupt NTFS partition without Windows](https://askubuntu.com/questions/47700/fix-corrupt-ntfs-partition-without-windows)
 
-### DFIR Literature
+### Web Forensics
+
+* __PageFreezer__
+    * _Online Data Archiving Compliance Guide: Archiving Website, Social Media, and Team Collaboration Records for Compliance and eDiscovery_: [https://www.pagefreezer.com/the-complete-compliance-guide-to-archiving-of-online-data/](https://www.pagefreezer.com/the-complete-compliance-guide-to-archiving-of-online-data/)
+        * Archive 1: [https://web.archive.org/web/20250720045827/https://www.pagefreezer.com/the-complete-compliance-guide-to-archiving-of-online-data/](https://web.archive.org/web/20250720045827/https://www.pagefreezer.com/the-complete-compliance-guide-to-archiving-of-online-data/)
+        * Archive 2: [https://archive.ph/Kly5i](https://archive.ph/Kly5i)
+    * P. Callaghan, "7 Rules for Web & Social Media Recordkeeping Compliance", [https://blog.pagefreezer.com/seven-rules-web-social-media-recordkeeping-compliance](https://blog.pagefreezer.com/seven-rules-web-social-media-recordkeeping-compliance)
+        * Archive 1: [https://web.archive.org/web/20250613194833/https://blog.pagefreezer.com/seven-rules-web-social-media-recordkeeping-compliance](https://web.archive.org/web/20250613194833/https://blog.pagefreezer.com/seven-rules-web-social-media-recordkeeping-compliance)
+        * Archive 2: [https://archive.ph/EQWSI](https://archive.ph/EQWSI)
+
+### DFIR/Software Forensics Literature
 
 * [Digital Phenotyping and Mobile Sensing: New Developments in Psychoinformatics](https://link.springer.com/book/10.1007/978-3-030-31620-4)
 * [Data Analysis in Forensic Science: A Bayesian Decision Perspective](https://www.wiley.com/en-ca/Data+Analysis+in+Forensic+Science%3A+A+Bayesian+Decision+Perspective-p-9780470998359)
