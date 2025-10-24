@@ -1,15 +1,17 @@
 
 <center>
 
-![banner.png](./banner.png)
-
-<p>Note that some banner components are from: <a href="https://www.youtube.com/watch?v=VPVnFHBdWKM" target="_blank">Lidi (2020)</a>.</p>
+![banner](./banner.png)
 
 </center>
 
-This course is about developing client-side web applications that interact with various networked services. Specifically, this class concerns itself with the development of tools and web interfaces in the Python programming language to interact with the non-relational database management service called MongoDB. 
+<p><b>Note that some of the banner's components are from: <a href="https://www.youtube.com/watch?v=VPVnFHBdWKM" target="_blank">Lidi (2020)</b></a></p>
 
-This course covers working with developing MongoDB queries for CRUD operations, using the Python ``pymongo`` library to interface with MongoDB instances, and then using Python's Dash framework to visualise datasets stored in the form of key/value pairs that constitute a "document" in a MongoDB "collection" of many other documents of the same kind.
+> "\[In this course\], \[s\]tudents will learn how to apply database systems concepts and principles to develop client/server applications that interface client-side code with databases." ---[CS-340 Syllabus](./Syllabus.pdf)
+
+_Client/Server Development (CS-340)_ is about developing client-side web applications that interact with various networked services. Specifically, this class concerns itself with the development of tools and web interfaces in the Python programming language to interact with the non-relational database management service called MongoDB. 
+
+In this course, I have worked with with developing MongoDB queries for CRUD operations, using the Python ``pymongo`` library to interface with MongoDB instances, and then using Python's Dash framework to visualise datasets stored in the form of key/value pairs that constitute a "document" in a MongoDB "collection" of many other documents of the same kind.
 
 ## Project
 
@@ -34,13 +36,27 @@ Furthermore, this project's development and usage has been documented in the for
 
 I have also prepared a screencast which demonstrates a usage of the front-end web application component of _The Animal Tracker Database_, which [can be watched on YouTube](https://www.youtube.com/watch?v=73yvD0kBQGE):
 
-<a href="https://www.youtube.com/watch?v=73yvD0kBQGE" target="_blank"><img src="./project/ythumb-screencast.png" width="250px" /></a>
+<a href="https://www.youtube.com/watch?v=73yvD0kBQGE" target="_blank">
+  <img src="./project/ythumb-screencast.png" width="550px" />
+</a>
 
 ## Homework
 
-* [Assignment 1-3](./homework/1-3): \([writeup](./homework/1-3/writeup.pdf)\)
-* [Assignment 2-1](./homework/2-1): \([writeup](./homework/2-1/writeup.pdf)\)
-* [Assignment 3-1](./homework/3-1): \([writeup](./homework/3-1/writeup.pdf)\)
-* [Assignment 4-1](./homework/4-1): \([writeup](./homework/4-1/writeup.pdf)\)
-* [Assignment 5-2](./homework/5-2): \([writeup](./homework/5-2/writeup.pdf)\)
-* [Assignment 6-1](./homework/6-1): \([writeup](./homework/6-1/writeup.pdf)\)
+Each module came with an "journaling" assignment, which existed to demonstrate competence in a particular aspect of the course, and/or to slowly develop the resulting Projects 1 and 2. 
+
+* [Assignment 1-3](./homework/1-3) \([writeup](./homework/1-3/writeup.pdf)\): about data modelling with MongoDB.
+* [Assignment 2-1](./homework/2-1) \([writeup](./homework/2-1/writeup.pdf)\): about CRUD transactions with MongoDB.
+* [Assignment 3-1](./homework/3-1) \([writeup](./homework/3-1/writeup.pdf)\): about indexing and systems administration in MongoDB.
+* [Assignment 4-1](./homework/4-1) \([writeup](./homework/4-1/writeup.pdf)\): about interacting with MongoDB with Python and ``pymongo``.
+* [Assignment 5-2](./homework/5-2) \([writeup](./homework/5-2/writeup.pdf)\): introduction to the Python Dash framework for build web applications.
+* [Assignment 6-1](./homework/6-1) \([writeup](./homework/6-1/writeup.pdf)\): about adding basic interactive components in a Dash webapp. 
+
+### Course Textbook
+
+<a href="https://search.worldcat.org/title/1343909393" target="_blank"><img src="./resources/Textbook%Cover.jpg" width="400px" /></a>
+
+This textbook was the primary reference when learning the concepts discussed in this course.
+
+## Resources
+
+\[todo\]

@@ -28,9 +28,11 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 | [System Analysis and Design](./coursework/CS255/) | CS255 |
 | [Secure Coding](./coursework/CS305/) |CS305 |
 | [Software Testing Automation & QA](./coursework/CS320/) | CS320 |
+| [Client/Server Development](./coursework/CS340) | CS340 |
 | [Introduction to Structured Database Environments](./coursework/DAD220/) | DAD220 |
 | __General STEM coursework__ | |
 | [Precalculus](./coursework/MAT140/) | MAT140 |
+| [Discrete Mathematics](./coursework/MAT230) | MAT230 |
 | [Introduction to Physics](./coursework/PHY150/) | PHY150 |
 | __Other prerequisite coursework__ | |
 | [Perspectives in History](./coursework/HIS100/) | HIS100 |

@@ -114,16 +114,19 @@
 ### Mathematics
 
 * _Matrix and Index Notation_ (Roylance 2000): [https://web.archive.org/web/20040906072103/https://web.mit.edu/course/3/3.11/www/modules/index.pdf](https://web.archive.org/web/20040906072103/https://web.mit.edu/course/3/3.11/www/modules/index.pdf)
+* S. F. Hirshfeld and W. M. Bart, "Algebraic Systems: Applications in the Behavioral and Social Sciences," _U.S. Army Research Institute for the Behavioral and Social Science_, [https://web.archive.org/web/20250202101300/https://apps.dtic.mil/sti/tr/pdf/ADA070103.pdf](https://web.archive.org/web/20250202101300/https://apps.dtic.mil/sti/tr/pdf/ADA070103.pdf)
 
 ### Neuroscience, Psychology, & Behavioural Sciences
 
 * A. D. Wissner-Gross and C. E. Freer, "Causal Entropic Forces," _Physical Review Letters_, vol. 110, no. 16, Apr. 2013, doi: [https://doi.org/10.1103/physrevlett.110.168702](https://doi.org/10.1103/physrevlett.110.168702)
     * Read the paper free here: [https://web.archive.org/web/20250102001309/https://link.aps.org/accepted/10.1103/PhysRevLett.110.168702](https://web.archive.org/web/20250102001309/https://link.aps.org/accepted/10.1103/PhysRevLett.110.168702)
+* B. Huang, P. Cadwell, and R. Sasamoto, “Challenging ethical issues of online ethnography: reflections from researching in an online translator community,” _The Translator, vol. 29, no. 2, pp. 157–174_, Mar. 2023, doi: [10.1080/13556509.2023.2188700](https://doi.org/10.1080/13556509.2023.2188700)
 * _Behavior informatics_ [https://en.wikipedia.org/wiki/Behavior_informatics](https://en.wikipedia.org/wiki/Behavior_informatics)
 * D. Makowski, "The psycho Package: an Efficient and Publishing-Oriented Workflow for Psychological Science," _The Journal of Open Source Software_, vol. 3, no. 22, pp. 470–470, Feb. 2018, doi: [https://doi.org/10.21105/joss.00470](https://doi.org/10.21105/joss.00470)
     * "Psycho" R Package author's website: [https://dominiquemakowski.github.io/](https://dominiquemakowski.github.io/)
     * "Psycho" Project Website: [https://neuropsychology.github.io/psycho.R/](https://neuropsychology.github.io/psycho.R/)
 * K. Lerman, "Social Informatics: Using Big Data to Understand Social Behavior," _Handbook of Human Computation_, pp. 751–759, 2013, doi: [https://doi.org/10.1007/978-1-4614-8806-4_60](https://doi.org/10.1007/978-1-4614-8806-4_60)
+* S. F. Hirshfeld and W. M. Bart, "Algebraic Systems: Applications in the Behavioral and Social Sciences," _U.S. Army Research Institute for the Behavioral and Social Science_, [https://web.archive.org/web/20250202101300/https://apps.dtic.mil/sti/tr/pdf/ADA070103.pdf](https://web.archive.org/web/20250202101300/https://apps.dtic.mil/sti/tr/pdf/ADA070103.pdf)
 * W. M. Baum, "FROM MOLECULAR TO MOLAR: A PARADIGM SHIFT IN BEHAVIOR ANALYSIS," _Journal of the Experimental Analysis of Behavior_, vol. 78, no. 1, pp. 95–116, Jul. 2002, doi: [https://doi.org/10.1901/jeab.2002.78-95](https://doi.org/10.1901/jeab.2002.78-95)
 
 ### Quantitative & Statistical Analysis
@@ -148,6 +151,8 @@
 * Frederick H. Seares, "The Distribution Functions for Stellar Velocity \[preprint\]," _Astrophysics Journal_, 1924, [https://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1924CMWCI.272....1S&defaultprint=YES&page_ind=0&filetype=.pdf](https://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1924CMWCI.272....1S&defaultprint=YES&page_ind=0&filetype=.pdf)
 * _Gaussian Processes Website:_ [https://gaussianprocess.org](https://gaussianprocess.org/)
     * _Gaussian Processes for Machine Learning:_ [https://gaussianprocess.org/gpml/chapters/](https://gaussianprocess.org/gpml/chapters/) __\[free online book about the application of normal distribution to regression, classification, & other kinds of problems\]__
+* __Handbook on Constructing Composite Indicators__: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/08/handbook-on-constructing-composite-indicators-methodology-and-user-guide_g1gh9301/9789264043466-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/08/handbook-on-constructing-composite-indicators-methodology-and-user-guide_g1gh9301/9789264043466-en.pdf)
+    * Archived Version: [https://web.archive.org/web/20250515115535/https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/08/handbook-on-constructing-composite-indicators-methodology-and-user-guide_g1gh9301/9789264043466-en.pdf](https://web.archive.org/web/20250515115535/https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/08/handbook-on-constructing-composite-indicators-methodology-and-user-guide_g1gh9301/9789264043466-en.pdf)
 * Hansjörg Dirschmid and F. D. Fischer, "Generalized Gaussian error functions and their applications," _Acta Mechanica_, vol. 226, no. 9, pp. 2887–2897, Apr. 2015, doi: [https://doi.org/10.1007/s00707-015-1355-x](https://doi.org/10.1007/s00707-015-1355-x)
 * J. A. de Barros and F. Holik, "Indistinguishability and Negative Probabilities," _Entropy_, vol. 22, no. 8, p. 829, Jul. 2020, doi: [https://doi.org/10.3390/e22080829](https://doi.org/10.3390/e22080829)
 * J. W. Liang, G. E. Idos, C. Hong, S. B. Gruber, G. Parmigiani, and D. Braun, "Statistical methods for Mendelian models with multiple genes and cancers," _Genetic Epidemiology_, vol. 46, no. 7, pp. 395–414, May 2022, doi: [https://doi.org/10.1002/gepi.22460](https://doi.org/10.1002/gepi.22460)
@@ -161,7 +166,10 @@
 * R. Wetzels and E.-J. Wagenmakers, “A default Bayesian hypothesis test for correlations and partial correlations,” _Psychonomic Bulletin & Review_, vol. 19, no. 6, pp. 1057–1064, Jul. 2012, doi: [https://doi.org/10.3758/s13423-012-0295-x](https://doi.org/10.3758/s13423-012-0295-x)
 * R. J. Calin-Jageman and G. Cumming, "The New Statistics for Better Science: Ask How Much, How Uncertain, and What Else Is Known," _The American Statistician_, vol. 73, no. sup1, pp. 271–280, Mar. 2019, doi: [https://doi.org/10.1080/00031305.2018.1518266](https://doi.org/10.1080/00031305.2018.1518266)
 * S. A. Klugman and R. Parsa, "Fitting bivariate loss distributions with copulas," _Insurance: Mathematics and Economics_, vol. 24, no. 1–2, pp. 139–148, Mar. 1999, doi: [https://doi.org/10.1016/s0167-6687(98)00039-0](https://doi.org/10.1016/s0167-6687(98)00039-0)
+* S. F. Hirshfeld and W. M. Bart, "Algebraic Systems: Applications in the Behavioral and Social Sciences," _U.S. Army Research Institute for the Behavioral and Social Science_, [https://web.archive.org/web/20250202101300/https://apps.dtic.mil/sti/tr/pdf/ADA070103.pdf](https://web.archive.org/web/20250202101300/https://apps.dtic.mil/sti/tr/pdf/ADA070103.pdf)
 * Ş. K. Çorbacıoğlu and G. Aksel, "Receiver operating characteristic curve analysis in diagnostic accuracy studies: A guide to interpreting the area under the curve value," _Turkish Journal of Emergency Medicine_, vol. 23, no. 4, pp. 195–198, Oct. 2023, doi: [https://doi.org/10.4103/tjem.tjem_182_23](https://doi.org/10.4103/tjem.tjem_182_23)
+* "Student," "The Probable Error of a Mean," Biometrika, vol. 6, no. 1, Mar. 1908, pp. 1-25, [https://www.dcscience.net/Student-t-1908.pdf](https://www.dcscience.net/Student-t-1908.pdf)
+    * Archive: [https://web.archive.org/web/20201122074531/https://www.dcscience.net/Student-t-1908.pdf](https://web.archive.org/web/20201122074531/https://www.dcscience.net/Student-t-1908.pdf)
 * ``scribber.com`` primer on Probability Distributions, their formulae and types with examples: [https://www.scribbr.com/statistics/probability-distributions/](https://www.scribbr.com/statistics/probability-distributions/)
 * __Social Physics,__ The Decision Lab, [https://thedecisionlab.com/reference-guide/psychology/social-physics](https://thedecisionlab.com/reference-guide/psychology/social-physics)
 * V. H. Sridhar et al., "The geometry of decision-making in individuals and collectives," _Proceedings of the National Academy of Sciences_, vol. 118, no. 50, Dec. 2021, doi: [https://doi.org/10.1073/pnas.2102157118](https://doi.org/10.1073/pnas.2102157118)
@@ -184,14 +192,17 @@
 
 ### Computer Science
 
+* B. Huang, P. Cadwell, and R. Sasamoto, “Challenging ethical issues of online ethnography: reflections from researching in an online translator community,” _The Translator, vol. 29, no. 2, pp. 157–174_, Mar. 2023, doi: [10.1080/13556509.2023.2188700](https://doi.org/10.1080/13556509.2023.2188700)
 * H. Gunduz, "Malware detection framework based on graph variational autoencoder extracted embeddings from API-call graphs," _PeerJ Computer Science_, vol. 8, p. e988, May 2022, doi: [https://doi.org/10.7717/peerj-cs.988](https://doi.org/10.7717/peerj-cs.988)
 
 ### Psychobiology
 
 * A. D. Wissner-Gross and C. E. Freer, "Causal Entropic Forces," _Physical Review Letters_, vol. 110, no. 16, Apr. 2013, doi: [https://doi.org/10.1103/physrevlett.110.168702](https://doi.org/10.1103/physrevlett.110.168702)
     * Read the paper free here: [https://web.archive.org/web/20250102001309/https://link.aps.org/accepted/10.1103/PhysRevLett.110.168702](https://web.archive.org/web/20250102001309/https://link.aps.org/accepted/10.1103/PhysRevLett.110.168702)
+* B. Huang, P. Cadwell, and R. Sasamoto, “Challenging ethical issues of online ethnography: reflections from researching in an online translator community,” _The Translator, vol. 29, no. 2, pp. 157–174_, Mar. 2023, doi: [10.1080/13556509.2023.2188700](https://doi.org/10.1080/13556509.2023.2188700)
 
 ### Public Health
 
+* B. Huang, P. Cadwell, and R. Sasamoto, “Challenging ethical issues of online ethnography: reflections from researching in an online translator community,” _The Translator, vol. 29, no. 2, pp. 157–174_, Mar. 2023, doi: [10.1080/13556509.2023.2188700](https://doi.org/10.1080/13556509.2023.2188700)
 * J. Cruz, P. C. L. White, A. Bell, and P. A. Coventry, “Effect of Extreme Weather Events on Mental Health: A Narrative Synthesis and Meta-Analysis for the UK,” _International Journal of Environmental Research and Public Health_, vol. 17, no. 22, p. 8581, Nov. 2020, doi: [https://doi.org/10.3390/ijerph17228581](https://doi.org/10.3390/ijerph17228581)
 * J. Smith, “Comparison of COVID-19 case and death counts in the United States reported by four online trackers: January 22-May 31, 2020.” _Cold Spring Harbor Laboratory_, June 22, 2020. doi: [10.1101/2020.06.20.20135764](https://doi.org/10.1101/2020.06.20.20135764)
