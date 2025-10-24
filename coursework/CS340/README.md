@@ -7,7 +7,7 @@
 
 <p><b>Note that some of the banner's components are from: <a href="https://www.youtube.com/watch?v=VPVnFHBdWKM" target="_blank">Lidi (2020)</b></a></p>
 
-> "\[In this course\], \[s\]tudents will learn how to apply database systems concepts and principles to develop client/server applications that interface client-side code with databases." ---[CS-340 Syllabus](./Syllabus.pdf)
+> "\[In this course\], \[s\]tudents will learn how to apply database systems concepts and principles to develop client/server applications that interface client-side code with databases." ---[CS-340 Syllabus](./resources/Syllabus.pdf)
 
 _Client/Server Development (CS-340)_ is about developing client-side web applications that interact with various networked services. Specifically, this class concerns itself with the development of tools and web interfaces in the Python programming language to interact with the non-relational database management service called MongoDB. 
 
@@ -53,7 +53,7 @@ Each module came with an "journaling" assignment, which existed to demonstrate c
 
 ### Course Textbook
 
-<a href="https://search.worldcat.org/title/1343909393" target="_blank"><img src="./resources/Textbook%Cover.jpg" width="400px" /></a>
+<a href="https://search.worldcat.org/title/1343909393" target="_blank"><img src="./resources/Textbook%20Cover.jpg" width="400px" /></a>
 
 This textbook was the primary reference when learning the concepts discussed in this course.
 
