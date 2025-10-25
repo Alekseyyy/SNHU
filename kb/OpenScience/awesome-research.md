@@ -1,6 +1,7 @@
 
 ## General Resources
 
+* Nice _Amazon_ Alternative: [https://www.thriftbooks.com](https://www.thriftbooks.com)
 * Kevin Rooke's book recommendations: [https://www.kevinrooke.com/books](https://www.kevinrooke.com/books)
     * _Crime_ Genre: [https://www.kevinrooke.com/book-genres/crime](https://www.kevinrooke.com/book-genres/crime)
     * _Math_ Genre: [https://www.kevinrooke.com/book-genres/math](https://www.kevinrooke.com/book-genres/math)
@@ -18,34 +19,64 @@
 ## Basic STEM Educational Resources
 
 ### Biology & Zoology
+
 * A. McDonald, C. Murre, and J. W. Sedat, “Helical coiled nucleosome chromosome architectures during cell cycle progression,” _Proc. Natl. Acad. Sci. U.S.A., vol. 121, no. 43_, Oct. 2024, doi: [10.1073/pnas.2410584121](https://doi.org/10.1073/pnas.2410584121)
 * "Data-driven plant sciences," EMBL-EBI Training, doi: [https://doi.org/10.6019/tol.datadrivenplantsciences-t.2023.00001.1](https://doi.org/10.6019/tol.datadrivenplantsciences-t.2023.00001.1)
 * H. A. Orr, "Fitness and its role in evolutionary genetics," _Nature Reviews Genetics_, vol. 10, no. 8, pp. 531–539, Aug. 2009, doi: https://doi.org/10.1038/nrg2603
+* __iBiology: Free Biology Lectures and Online Courses for Students:__ [https://www.ibiology.org/](https://www.ibiology.org/)
+    * __iBiology Sessions__: [https://www.ibiology.org/sessions/](https://www.ibiology.org/sessions/)
+        * D. Gordon, M. Hale, and H. Hoekstra, "Session 1: Theory Behind Evolution I," _iBiology_, [https://www.ibiology.org/sessions/session-1-theory-behind-evolution/](https://www.ibiology.org/sessions/session-1-theory-behind-evolution/)
+        * E. Hadly, U. Ramakrishnan, S. Tishkoff, "Session 2: Theory Behind Evolution II," _iBiology_, [https://www.ibiology.org/sessions/session-2-theory-behind-evolution-ii/](https://www.ibiology.org/sessions/session-2-theory-behind-evolution-ii/)
+        * M. Hale, D. Haussler, D. Newman, S. Tishkoff, and Y. Science, "Session 4: How is Evolution Measured," _iBiology_, [https://www.ibiology.org/sessions/session-4-evolution-measured/](https://www.ibiology.org/sessions/session-4-evolution-measured/)
+    * __iBiology VODs:__ [https://www.ibiology.org/explore/](https://www.ibiology.org/explore/)
+    * __iBiology Courses:__ [https://www.ibiology.org/online-biology-courses/](https://www.ibiology.org/online-biology-courses/)
 * _In the Light of Evolution:_ Volume II: Biodiversity and Extinction. Homage to Linnaeus: How Many Parasites? How Many Hosts? [https://www.ncbi.nlm.nih.gov/books/NBK214895/](https://www.ncbi.nlm.nih.gov/books/NBK214895/)
 
 ### Computer Science
 
+B. Harvey and M. Wright, "Simply Scheme: Introducing Computer Science," _MIT Press_, Read Online: [https://people.eecs.berkeley.edu/~bh/ss-toc2.html](https://people.eecs.berkeley.edu/~bh/ss-toc2.html) (accessed Oct. 25, 2025)
 * _Introduction to Theoretical Computer Science:_ [https://introtcs.org/public/index.html](https://introtcs.org/public/index.html)
 * _Learn Computer Science: Explore the World of Computer Science:_ [https://www.learncomputerscienceonline.com/](https://www.learncomputerscienceonline.com/)
+* L. Downes, “Simple Python tools for modelling few-level atom-light interactions,” _J. Phys. B: At. Mol. Opt. Phys., vol. 56, no. 22, p. 223001_, Oct. 2023, doi: [10.1088/1361-6455/acee3a](https://doi.org10.1088/1361-6455/acee3a)
+* N. Chesser et al., "Anticipating Rare Events: Can Acts of Terror, Use of Weapons of Mass Destruction or Other High Profile Acts Be Anticipated?" _TOPICAL STRATEGIC MULTI-LAYER ASSESSMENT (SMA) MULTI-AGENCY/MULTI-DISCIPLINARY WHITE PAPERS IN SUPPORT OF COUNTER-TERRORISM AND COUNTER-WMD_, Nov. 2008, [https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+    * Archived here: [https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+* O. Dan, O. Plonsky, and Y. Loewenstein, “Behavior engineering using quantitative reinforcement learning models,” _Nat Commun, vol. 16, no. 1_, May 2025, doi: [10.1038/s41467-025-58888-y](https://doi.org/10.1038/s41467-025-58888-y)
+    * __News Report:__ D. Marx, "Modeling Human Behavior with Math," Neuroscience News, [https://neurosciencenews.com/human-behavior-math-28981/](https://neurosciencenews.com/human-behavior-math-28981/) (accessed Oct. 25, 2025)
 * _Open Source Society University_ computer science path: [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science)
 * _Teach Yourself Computer Science:_ [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
 * _The Turing Way:_ [https://book.the-turing-way.org/](https://book.the-turing-way.org/) __\[about CS research methods]__
 
 ### Mathematics
 
+* L. Downes, “Simple Python tools for modelling few-level atom-light interactions,” _J. Phys. B: At. Mol. Opt. Phys., vol. 56, no. 22, p. 223001_, Oct. 2023, doi: [10.1088/1361-6455/acee3a](https://doi.org10.1088/1361-6455/acee3a)
+* O. Dan, O. Plonsky, and Y. Loewenstein, “Behavior engineering using quantitative reinforcement learning models,” _Nat Commun, vol. 16, no. 1_, May 2025, doi: [10.1038/s41467-025-58888-y](https://doi.org/10.1038/s41467-025-58888-y)
+    * __News Report:__ D. Marx, "Modeling Human Behavior with Math," Neuroscience News, [https://neurosciencenews.com/human-behavior-math-28981/](https://neurosciencenews.com/human-behavior-math-28981/) (accessed Oct. 25, 2025)
+* R. Wilkinson, "Applied Multivariate Statistics," 2025, [https://rich-d-wilkinson.github.io/MATH3030/](https://rich-d-wilkinson.github.io/MATH3030/) (accessed Oct. 25, 2025)
+
+* __About Manifolds:__
+    * B. Keng, "Manifolds: A Gentle Introduction," _Bounded Rationality_, [https://bjlkeng.io/posts/manifolds/](https://bjlkeng.io/posts/manifolds/) (accessed Oct. 25, 2025).
+    * S. Lee, "A Comprehensive Guide to Practical Manifold Learning Strategies," _Number Analytics_, [https://www.numberanalytics.com/blog/comprehensive-guide-manifold-learning](https://www.numberanalytics.com/blog/comprehensive-guide-manifold-learning) (accessed Oct. 25, 2025).
 * [Mary P. Dolciani](https://en.wikipedia.org/wiki/Mary_P._Dolciani): maths teacher.
     * _Modern Algebra: Structure and Method - Book 1, Teacher's Edition_, [https://archive.org/details/modernalgebrastr01dolc_2](https://archive.org/details/modernalgebrastr01dolc_2)
     * _Modern algebra and trigonometry: structure and method, book 2_, [https://archive.org/details/modernalgebratri00dolc](https://archive.org/details/modernalgebratri00dolc)
     * _Algebra 1_, [https://archive.org/details/algebra100dolc](https://archive.org/details/algebra100dolc)
     * _Modern introductory analysis_, [https://archive.org/details/modernintroducto00dolc](https://archive.org/details/modernintroducto00dolc)
+* Prof. Gordan Žitković's __Lecture Notes on Probability Theory and Mathematical Statistics:__ [https://web.ma.utexas.edu/users/gordanz/notes/](https://web.ma.utexas.edu/users/gordanz/notes/)
+    * __Interesting: Lecture 4: Functions of Random Variable:__ [https://web.ma.utexas.edu/users/gordanz/notes/functions_color.pdf](https://web.ma.utexas.edu/users/gordanz/notes/functions_color.pdf)
 * Some of the __publications of R. A. Fisher__ (doi: 10.1111/j.2397-2327.1963.tb01058.x): [https://rss.onlinelibrary.wiley.com/doi/10.1111/j.2397-2327.1963.tb01058.x](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.2397-2327.1963.tb01058.x)
 
 ### Neurology, Psychology, & Behavioural Sciences
 
 * A project to apply theories in physics to learning: [https://physics-astronomy.jhu.edu/research-areas/physics-and-machine-learning/](https://physics-astronomy.jhu.edu/research-areas/physics-and-machine-learning/)
+* J. Mannesto and J. M. Trumbell, "Learning to Code Human Behavior," _University of New Hampshire: Inquiry Journal_, [https://www.unh.edu/inquiryjournal/blog/2021/03/learning-code-human-behavior](https://www.unh.edu/inquiryjournal/blog/2021/03/learning-code-human-behavior) (accessed Oct. 25, 2025).
+* R. C. Wilson and A. G. Collins, “Ten simple rules for the computational modeling of behavioral data,” _eLife, vol. 8_, Nov. 2019, doi: [10.7554/elife.49547](https://doi.org/10.7554/eLife.49547)
+* V. R. Simmering, J. Triesch, G. O. Deák, and J. P. Spencer, “A Dialogue on the Role of Computational Modeling in Developmental Science,” _Child Dev Perspectives, vol. 4, no. 2, pp. 152–158_, July 2010, doi: [10.1111/j.1750-8606.2010.00134.x](https://doi.org/10.1111/j.1750-8606.2010.00134.x)
+    * Read online free: [https://dynamicfieldtheory.org/upload/file/1553698428_07cba785806a1e41bb0c/SimmeringTrieschDeakSpencer2010_FinalPublished.pdf](https://dynamicfieldtheory.org/upload/file/1553698428_07cba785806a1e41bb0c/SimmeringTrieschDeakSpencer2010_FinalPublished.pdf)
+    * Archived here: [https://web.archive.org/web/20240414193935/https://dynamicfieldtheory.org/upload/file/1553698428_07cba785806a1e41bb0c/SimmeringTrieschDeakSpencer2010_FinalPublished.pdf](https://web.archive.org/web/20240414193935/https://dynamicfieldtheory.org/upload/file/1553698428_07cba785806a1e41bb0c/SimmeringTrieschDeakSpencer2010_FinalPublished.pdf)
 
 ### Physics
 
+* L. Downes, “Simple Python tools for modelling few-level atom-light interactions,” _J. Phys. B: At. Mol. Opt. Phys., vol. 56, no. 22, p. 223001_, Oct. 2023, doi: [10.1088/1361-6455/acee3a](https://doi.org10.1088/1361-6455/acee3a)
 * Sample Mechanical chart with a focus on thermodynamics: [https://web.archive.org/web/20230331211334/https://engineering.wayne.edu/mechanical/pdfs/thermodynamic-_tables-updated.pdf](https://web.archive.org/web/20230331211334/https://engineering.wayne.edu/mechanical/pdfs/thermodynamic-_tables-updated.pdf)
 * Article on "_Synthesizing Byzantine Mathematics with Quantum Algorithms for Error-Corrected Computing Architectures_": [https://atomfair.com/scibase2/article.php?id=3482](https://atomfair.com/scibase2/article.php?id=3482)
     * Archive Today: [https://archive.ph/Voe3E](https://archive.ph/Voe3E)
@@ -53,9 +84,21 @@
 ### Quantitative Analysis & Data Science
 
 * __Applied Statistics:__ (Donatello & Roualdes): [https://norcalbiostat.github.io/AppliedStatistics_notes/](https://norcalbiostat.github.io/AppliedStatistics_notes/)
+* C. F. Westbury, “Bayes’ Rule for Clinicians: An Introduction,” _Front. Psychology, vol. 1_, 2010, doi: [10.3389/fpsyg.2010.00192](https://doi.org/10.3389/fpsyg.2010.00192)
+    * NIH Article: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3153801/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3153801/)
+* __Congeneric reliability:__ [https://en.wikipedia.org/wiki/Congeneric_reliability](https://en.wikipedia.org/wiki/Congeneric_reliability)
+    * Related to the statistical notion of __Reliability:__ [https://en.wikipedia.org/wiki/Reliability_(statistics)](https://en.wikipedia.org/wiki/Reliability_(statistics))
 * _Gaussian Processes Website:_ [https://gaussianprocess.org](https://gaussianprocess.org/)
     * _Gaussian Processes for Machine Learning:_ [https://gaussianprocess.org/gpml/chapters/](https://gaussianprocess.org/gpml/chapters/) __\[free online book about the application of normal distribution to regression, classification, & other kinds of problems\]__
 * K. F. Wallis, “The Two-Piece Normal, Binormal, or Double Gaussian Distribution: Its Origin and Rediscoveries,” _Statist. Sci., vol. 29, no. 1_, Feb. 2014, doi: [10.1214/13-sts417](https://doi.org/10.1214/13-STS417)
+* L. Downes, “Simple Python tools for modelling few-level atom-light interactions,” _J. Phys. B: At. Mol. Opt. Phys., vol. 56, no. 22, p. 223001_, Oct. 2023, doi: [10.1088/1361-6455/acee3a](https://doi.org10.1088/1361-6455/acee3a)
+* R. C. Wilson and A. G. Collins, “Ten simple rules for the computational modeling of behavioral data,” _eLife, vol. 8_, Nov. 2019, doi: [10.7554/elife.49547](https://doi.org/10.7554/eLife.49547)
+* R. M. Dawes, D. Faust, and P. E. Meehl, “Clinical Versus Actuarial Judgment,” _Science, vol. 243, no. 4899_, pp. 1668–1674, Mar. 1989, doi: [10.1126/science.2648573](https://doi.org/10.1126/science.2648573)
+    * NIH Entry: [https://pubmed.ncbi.nlm.nih.gov/2648573/](https://pubmed.ncbi.nlm.nih.gov/2648573/)
+    * Read for free here: [https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf](https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf)
+    * Archived here: [https://web.archive.org/web/20250424144042/https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf](https://web.archive.org/web/20250424144042/https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf)
+* Y. Thambiah and N. Foscari, "New Normal Investing: Is the (Fat) Tail Wagging Your Portfolio?," Archived here: [https://web.archive.org/web/20140717181623/https://www.credit-suisse.com/asset_management/downloads/marketing/new_normal_investing_white_paper_042012.pdf](https://web.archive.org/web/20140717181623/https://www.credit-suisse.com/asset_management/downloads/marketing/new_normal_investing_white_paper_042012.pdf)
+* __The law of rare events or Poisson limit theorem:__ [https://en.wikipedia.org/wiki/Poisson_limit_theorem](https://en.wikipedia.org/wiki/Poisson_limit_theorem)
 
 ### Technical Writing
 
@@ -96,20 +139,31 @@
 
 ### Theory Construction
 
-* D. Borsboom, H. L. J. van der Maas, J. Dalege, R. A. Kievit, and B. D. Haig, "Theory Construction Methodology: A Practical Framework for Building Theories in Psychology," _Perspectives on Psychological Science: A Journal of the Association for Psychological Science_, vol. 16, no. 4, pp. 756–766, Feb. 2021, doi: [https://doi.org/10.1177/1745691620969647](https://doi.org/10.1177/1745691620969647)
+* D. Borsboom, H. L. J. van der Maas, J. Dalege, R. A. Kievit, and B. D. Haig, "Theory Construction Methodology: A Practical Framework for Building Theories in Psychology," _Perspectives on Psychological Science: A Journal of the Association for Psychological Science_, vol. 16, no. 4, pp. 756–766, Feb. 2021, doi: [10.1177/1745691620969647](https://doi.org/10.1177/1745691620969647)
+* J. Jaccard and J. Jacoby, "Theory Construction and Model Building Skills: A Practical Guide for Social Scientists \[Second Edition\]," _Guilford Press_. [https://search.worldcat.org/title/1132422889](https://search.worldcat.org/title/1132422889)
+    * Supplementary Website: [https://www.theory-construction.com/](https://www.theory-construction.com/)
+* N. Chesser et al., "Anticipating Rare Events: Can Acts of Terror, Use of Weapons of Mass Destruction or Other High Profile Acts Be Anticipated?" _TOPICAL STRATEGIC MULTI-LAYER ASSESSMENT (SMA) MULTI-AGENCY/MULTI-DISCIPLINARY WHITE PAPERS IN SUPPORT OF COUNTER-TERRORISM AND COUNTER-WMD_, Nov. 2008, [https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+    * Archived here: [https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
 * R. Lachman, "The model in theory construction.," _Psychological Review_, vol. 67, no. 2, pp. 113–129, Mar. 1960, doi: [https://doi.org/10.1037/h0046345](https://doi.org/10.1037/h0046345)
 
 ### Experimental Design
 
 * J. S. Torday and F. Baluška, "Why control an experiment?," _EMBO reports,_ vol. 20, no. 10, Sep. 2019, doi: [https://doi.org/10.15252/embr.201949110](https://doi.org/10.15252/embr.201949110)
+* N. Chesser et al., "Anticipating Rare Events: Can Acts of Terror, Use of Weapons of Mass Destruction or Other High Profile Acts Be Anticipated?" _TOPICAL STRATEGIC MULTI-LAYER ASSESSMENT (SMA) MULTI-AGENCY/MULTI-DISCIPLINARY WHITE PAPERS IN SUPPORT OF COUNTER-TERRORISM AND COUNTER-WMD_, Nov. 2008, [https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+    * Archived here: [https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+* R. C. Wilson and A. G. Collins, “Ten simple rules for the computational modeling of behavioral data,” _eLife, vol. 8_, Nov. 2019, doi: [10.7554/elife.49547](https://doi.org/10.7554/eLife.49547)
 
 ### Computer Science
 
+* N. Chesser et al., "Anticipating Rare Events: Can Acts of Terror, Use of Weapons of Mass Destruction or Other High Profile Acts Be Anticipated?" _TOPICAL STRATEGIC MULTI-LAYER ASSESSMENT (SMA) MULTI-AGENCY/MULTI-DISCIPLINARY WHITE PAPERS IN SUPPORT OF COUNTER-TERRORISM AND COUNTER-WMD_, Nov. 2008, [https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+    * Archived here: [https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
 * [OpenObserve.AI: Tracing Python Code - Module and Function Call Execution](https://openobserve.ai/articles/python-m-trace-code-tracing/#detailed-list-of-event-types/)
 * Oracle Help Center: _About Property Graph Data Formats:_ [https://web.archive.org/web/20250728085551/https://docs.oracle.com/en/database/oracle/property-graph/21.2/spgdg/property-graph-data-formats.html](https://web.archive.org/web/20250728085551/https://docs.oracle.com/en/database/oracle/property-graph/21.2/spgdg/property-graph-data-formats.html)
+* R. C. Wilson and A. G. Collins, “Ten simple rules for the computational modeling of behavioral data,” _eLife, vol. 8_, Nov. 2019, doi: [10.7554/elife.49547](https://doi.org/10.7554/eLife.49547)
 * R. Harrower, "Speech to Text - recognise the speaker's," _StackOverflow Post_, [https://stackoverflow.com/questions/75729807/speech-to-text-recognise-the-speakers](https://stackoverflow.com/questions/75729807/speech-to-text-recognise-the-speakers) (accessed Oct. 23, 2025)
 * T. Rocha-Silva, C. Nogueira, and L. Rodrigues, "Passive Data Collection on Reddit: A Practical Approach," _Research Ethics_, vol. 20, no. 3, Nov. 2023, doi: [https://doi.org/10.1177/17470161231210542](https://doi.org/10.1177/17470161231210542)
 * _The Turing Way:_ [https://book.the-turing-way.org/](https://book.the-turing-way.org/) __\[about CS research methods]__
+* X. Li, W. Tang, and R. Zhao, “Ranking Fuzzy Variables by Expected Value and Variance,” _2009 Sixth International Conference on Fuzzy Systems and Knowledge Discovery. IEEE_, pp. 373–377, 2009. doi: [10.1109/fskd.2009.680](https://doi.org/10.1109/fskd.2009.680)
 
 ### Mathematics
 
@@ -122,10 +176,17 @@
     * Read the paper free here: [https://web.archive.org/web/20250102001309/https://link.aps.org/accepted/10.1103/PhysRevLett.110.168702](https://web.archive.org/web/20250102001309/https://link.aps.org/accepted/10.1103/PhysRevLett.110.168702)
 * B. Huang, P. Cadwell, and R. Sasamoto, “Challenging ethical issues of online ethnography: reflections from researching in an online translator community,” _The Translator, vol. 29, no. 2, pp. 157–174_, Mar. 2023, doi: [10.1080/13556509.2023.2188700](https://doi.org/10.1080/13556509.2023.2188700)
 * _Behavior informatics_ [https://en.wikipedia.org/wiki/Behavior_informatics](https://en.wikipedia.org/wiki/Behavior_informatics)
+* D. Helbing, “Boltzmann-like and Boltzmann-Fokker-Planck equations as a foundation of behavioral models,” _Physica A: Statistical Mechanics and its Applications, vol. 196, no. 4, pp. 546–573_, July 1993, doi: [10.1016/0378-4371(93)90034-2](https://doi.org/10.1016/0378-4371(93)90034-2)
 * D. Makowski, "The psycho Package: an Efficient and Publishing-Oriented Workflow for Psychological Science," _The Journal of Open Source Software_, vol. 3, no. 22, pp. 470–470, Feb. 2018, doi: [https://doi.org/10.21105/joss.00470](https://doi.org/10.21105/joss.00470)
     * "Psycho" R Package author's website: [https://dominiquemakowski.github.io/](https://dominiquemakowski.github.io/)
     * "Psycho" Project Website: [https://neuropsychology.github.io/psycho.R/](https://neuropsychology.github.io/psycho.R/)
+* * G. Sella and A. E. Hirsh, “The application of statistical physics to evolutionary biology,” _Proc. Natl. Acad. Sci. U.S.A., vol. 102, no. 27, pp. 9541–9546_, June 2005, doi: [10.1073/pnas.0501865102](https://doi.org/10.1073/pnas.0501865102)
 * K. Lerman, "Social Informatics: Using Big Data to Understand Social Behavior," _Handbook of Human Computation_, pp. 751–759, 2013, doi: [https://doi.org/10.1007/978-1-4614-8806-4_60](https://doi.org/10.1007/978-1-4614-8806-4_60)
+* N. Chesser et al., "Anticipating Rare Events: Can Acts of Terror, Use of Weapons of Mass Destruction or Other High Profile Acts Be Anticipated?" _TOPICAL STRATEGIC MULTI-LAYER ASSESSMENT (SMA) MULTI-AGENCY/MULTI-DISCIPLINARY WHITE PAPERS IN SUPPORT OF COUNTER-TERRORISM AND COUNTER-WMD_, Nov. 2008, [https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+    * Archived here: [https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+* O. Dan, O. Plonsky, and Y. Loewenstein, “Behavior engineering using quantitative reinforcement learning models,” _Nat Commun, vol. 16, no. 1_, May 2025, doi: [10.1038/s41467-025-58888-y](https://doi.org/10.1038/s41467-025-58888-y)
+    * __News Report:__ D. Marx, "Modeling Human Behavior with Math," Neuroscience News, [https://neurosciencenews.com/human-behavior-math-28981/](https://neurosciencenews.com/human-behavior-math-28981/) (accessed Oct. 25, 2025)
+* R. C. Wilson and A. G. Collins, “Ten simple rules for the computational modeling of behavioral data,” _eLife, vol. 8_, Nov. 2019, doi: [10.7554/elife.49547](https://doi.org/10.7554/eLife.49547)
 * S. F. Hirshfeld and W. M. Bart, "Algebraic Systems: Applications in the Behavioral and Social Sciences," _U.S. Army Research Institute for the Behavioral and Social Science_, [https://web.archive.org/web/20250202101300/https://apps.dtic.mil/sti/tr/pdf/ADA070103.pdf](https://web.archive.org/web/20250202101300/https://apps.dtic.mil/sti/tr/pdf/ADA070103.pdf)
 * W. M. Baum, "FROM MOLECULAR TO MOLAR: A PARADIGM SHIFT IN BEHAVIOR ANALYSIS," _Journal of the Experimental Analysis of Behavior_, vol. 78, no. 1, pp. 95–116, Jul. 2002, doi: [https://doi.org/10.1901/jeab.2002.78-95](https://doi.org/10.1901/jeab.2002.78-95)
 
@@ -163,6 +224,10 @@
     * B. Pandit, "What Is Mixture of Experts (MoE)? How It Works, Use Cases & More," DataCamp Blog, Jul. 2024, [https://www.datacamp.com/blog/mixture-of-experts-moe](https://www.datacamp.com/blog/mixture-of-experts-moe)
 * N. Chernov, "Circular and linear regression: Fitting circles and lines by least squares," _Monographs on Statistics and Applied Probability_, vol. 117, Chapman & Hall/CRC
     * Web page discussing the book: [https://people.cas.uab.edu/~mosya/cl/](https://people.cas.uab.edu/~mosya/cl/)
+* N. Chesser et al., "Anticipating Rare Events: Can Acts of Terror, Use of Weapons of Mass Destruction or Other High Profile Acts Be Anticipated?" _TOPICAL STRATEGIC MULTI-LAYER ASSESSMENT (SMA) MULTI-AGENCY/MULTI-DISCIPLINARY WHITE PAPERS IN SUPPORT OF COUNTER-TERRORISM AND COUNTER-WMD_, Nov. 2008, [https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+    * Archived here: [https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+* N. N. Taleb, "Silent Risk \[Unfinished Manuscript\]," circa 2018, Archived here: [https://web.archive.org/web/20181205193448/http://www.fooledbyrandomness.com/SilentRisk.pdf](https://web.archive.org/web/20181205193448/http://www.fooledbyrandomness.com/SilentRisk.pdf)
+* R. C. Wilson and A. G. Collins, “Ten simple rules for the computational modeling of behavioral data,” _eLife, vol. 8_, Nov. 2019, doi: [10.7554/elife.49547](https://doi.org/10.7554/eLife.49547)
 * R. Wetzels and E.-J. Wagenmakers, “A default Bayesian hypothesis test for correlations and partial correlations,” _Psychonomic Bulletin & Review_, vol. 19, no. 6, pp. 1057–1064, Jul. 2012, doi: [https://doi.org/10.3758/s13423-012-0295-x](https://doi.org/10.3758/s13423-012-0295-x)
 * R. J. Calin-Jageman and G. Cumming, "The New Statistics for Better Science: Ask How Much, How Uncertain, and What Else Is Known," _The American Statistician_, vol. 73, no. sup1, pp. 271–280, Mar. 2019, doi: [https://doi.org/10.1080/00031305.2018.1518266](https://doi.org/10.1080/00031305.2018.1518266)
 * S. A. Klugman and R. Parsa, "Fitting bivariate loss distributions with copulas," _Insurance: Mathematics and Economics_, vol. 24, no. 1–2, pp. 139–148, Mar. 1999, doi: [https://doi.org/10.1016/s0167-6687(98)00039-0](https://doi.org/10.1016/s0167-6687(98)00039-0)
@@ -177,15 +242,16 @@
 
 ## Case Studies
 
-* Professor Richard Fitzpatrick's [Modern Almmagest](https://farside.ph.utexas.edu/books/Syntaxis/Syntaxis.html)
-
 ### Quantitative & Statistical Analysis
 
 * C. Castellano, S. Fortunato, and V. Loreto, "Statistical physics of social dynamics," _Reviews of Modern Physics_, vol. 81, no. 2, pp. 591–646, May 2009, doi: [https://doi.org/10.1103/revmodphys.81.591](https://doi.org/10.1103/revmodphys.81.591)
 * D. Oda and Akio Onogi, "Assessing the predictability of racing performance of Thoroughbreds using mixed‐effects model," _Journal of Animal Breeding and Genetics_, vol. 141, no. 1, pp. 24–32, Aug. 2023, doi: [https://doi.org/10.1111/jbg.12822](https://doi.org/10.1111/jbg.12822)
+* D. Helbing, “Boltzmann-like and Boltzmann-Fokker-Planck equations as a foundation of behavioral models,” _Physica A: Statistical Mechanics and its Applications, vol. 196, no. 4, pp. 546–573_, July 1993, doi: [10.1016/0378-4371(93)90034-2](https://doi.org/10.1016/0378-4371(93)90034-2)
 * H.-R. Wang, "How to write a good Data in Brief article," 2024, [https://researcheracademy.elsevier.com/uploads/2024-07/Quick_guide_Data_in_brief.pdf](https://researcheracademy.elsevier.com/uploads/2024-07/Quick_guide_Data_in_brief.pdf) \[accessed Jul. 23, 2025\]
 * M. GRAMM and R. MARKSTEINER, "The Effect of Age on Thoroughbred Racing Performance," _Journal of Equine Science_, vol. 21, no. 4, pp. 73–78, 2010, doi: [https://doi.org/10.1294/jes.21.73](https://doi.org/10.1294/jes.21.73)
 * M. M. Ali, "Probability models on horse-race outcomes," _Journal of Applied Statistics_, vol 25, no 2, 1998, pp. 221-229, [https://web.archive.org/web/20170810125846/https://www.stat.berkeley.edu/~aldous/157/Papers/ali.pdf](https://web.archive.org/web/20170810125846/https://www.stat.berkeley.edu/~aldous/157/Papers/ali.pdf)
+* O. Dan, O. Plonsky, and Y. Loewenstein, “Behavior engineering using quantitative reinforcement learning models,” _Nat Commun, vol. 16, no. 1_, May 2025, doi: [10.1038/s41467-025-58888-y](https://doi.org/10.1038/s41467-025-58888-y)
+    * __News Report:__ D. Marx, "Modeling Human Behavior with Math," Neuroscience News, [https://neurosciencenews.com/human-behavior-math-28981/](https://neurosciencenews.com/human-behavior-math-28981/) (accessed Oct. 25, 2025)
 * R. Alfaro-Diaz, J. A. Kintner, and J. D. Carmichael, “Seismic Event Identification: Context to Confidence,” _The Seismic Record_, vol. 5, no. 2, pp. 155–164, Apr. 2025, doi: [https://doi.org/10.1785/0320250005](https://doi.org/10.1785/0320250005)
 * S. N. Durlauf, "How can statistical mechanics contribute to social science?," _Proceedings of the National Academy of Sciences_, vol. 96, no. 19, pp. 10582–10584, Sep. 1999, doi: [https://doi.org/10.1073/pnas.96.19.10582](https://doi.org/10.1073/pnas.96.19.10582)
 * _Short Text Topic Modeling: Article Titles & Taglines_ (Hardaway, May 2022): [https://rpubs.com/jmhardaw/eci588-final-project](https://rpubs.com/jmhardaw/eci588-final-project)
@@ -193,16 +259,52 @@
 ### Computer Science
 
 * B. Huang, P. Cadwell, and R. Sasamoto, “Challenging ethical issues of online ethnography: reflections from researching in an online translator community,” _The Translator, vol. 29, no. 2, pp. 157–174_, Mar. 2023, doi: [10.1080/13556509.2023.2188700](https://doi.org/10.1080/13556509.2023.2188700)
+* G. Jackson, P. Keleher, and A. Sussman, “A Ping Too Far: Real World Network Latency Measurement,” _2015 IEEE 11th International Conference on e-Science. IEEE, pp. 580–588,_ Aug. 2015. doi: [10.1109/escience.2015.74](https://doi.org/10.1109/eScience.2015.74)
 * H. Gunduz, "Malware detection framework based on graph variational autoencoder extracted embeddings from API-call graphs," _PeerJ Computer Science_, vol. 8, p. e988, May 2022, doi: [https://doi.org/10.7717/peerj-cs.988](https://doi.org/10.7717/peerj-cs.988)
+* L. Balduf et al., “Looking AT the Blue Skies of Bluesky,” Proceedings of the 2024 ACM on Internet Measurement Conference. _ACM, pp. 76–91_, Nov. 04, 2024. doi: [10.1145/3646547.3688407](https://doi.org/10.1145/3646547.3688407)
+     * Direct Link: [https://dl.acm.org/doi/pdf/10.1145/3646547.3688407](https://dl.acm.org/doi/pdf/10.1145/3646547.3688407)
+     * Archived At: [https://web.archive.org/web/20250128200417/https://dl.acm.org/doi/pdf/10.1145/3646547.3688407](https://web.archive.org/web/20250128200417/https://dl.acm.org/doi/pdf/10.1145/3646547.3688407)
+* S. M. Tabish, M. Z. Shafiq, and M. Farooq, “Malware detection using statistical analysis of byte-level file content,” _Proceedings of the ACM SIGKDD Workshop on CyberSecurity and Intelligence Informatics. ACM, pp. 23–31_, June 28, 2009. doi: [10.1145/1599272.1599278](https://doi.org/10.1145/1599272.1599278)
+    * Read for free here: [https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf](https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf)
+    * Archived here: [https://web.archive.org/web/20240503161836/https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf](https://web.archive.org/web/20240503161836/https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf)
+* X. Li, W. Tang, and R. Zhao, “Ranking Fuzzy Variables by Expected Value and Variance,” _2009 Sixth International Conference on Fuzzy Systems and Knowledge Discovery. IEEE_, pp. 373–377, 2009. doi: [10.1109/fskd.2009.680](https://doi.org/10.1109/fskd.2009.680)
 
 ### Psychobiology
 
 * A. D. Wissner-Gross and C. E. Freer, "Causal Entropic Forces," _Physical Review Letters_, vol. 110, no. 16, Apr. 2013, doi: [https://doi.org/10.1103/physrevlett.110.168702](https://doi.org/10.1103/physrevlett.110.168702)
     * Read the paper free here: [https://web.archive.org/web/20250102001309/https://link.aps.org/accepted/10.1103/PhysRevLett.110.168702](https://web.archive.org/web/20250102001309/https://link.aps.org/accepted/10.1103/PhysRevLett.110.168702)
 * B. Huang, P. Cadwell, and R. Sasamoto, “Challenging ethical issues of online ethnography: reflections from researching in an online translator community,” _The Translator, vol. 29, no. 2, pp. 157–174_, Mar. 2023, doi: [10.1080/13556509.2023.2188700](https://doi.org/10.1080/13556509.2023.2188700)
+* D. Helbing, “Boltzmann-like and Boltzmann-Fokker-Planck equations as a foundation of behavioral models,” _Physica A: Statistical Mechanics and its Applications, vol. 196, no. 4, pp. 546–573_, July 1993, doi: [10.1016/0378-4371(93)90034-2](https://doi.org/10.1016/0378-4371(93)90034-2)
+* G. Sella and A. E. Hirsh, “The application of statistical physics to evolutionary biology,” _Proc. Natl. Acad. Sci. U.S.A., vol. 102, no. 27, pp. 9541–9546_, June 2005, doi: [10.1073/pnas.0501865102](https://doi.org/10.1073/pnas.0501865102)
+* N. Chesser et al., "Anticipating Rare Events: Can Acts of Terror, Use of Weapons of Mass Destruction or Other High Profile Acts Be Anticipated?" _TOPICAL STRATEGIC MULTI-LAYER ASSESSMENT (SMA) MULTI-AGENCY/MULTI-DISCIPLINARY WHITE PAPERS IN SUPPORT OF COUNTER-TERRORISM AND COUNTER-WMD_, Nov. 2008, [https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+    * Archived here: [https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+* N. H. Anderson, “Cognitive Algebra: Integration Theory Applied to Social Attribution,” _Advances in Experimental Social Psychology. Elsevier, pp. 1–101_, 1974. doi: [10.1016/s0065-2601(08)60035-0](https://doi.org/10.1016/S0065-2601(08)60035-0)
+* O. Dan, O. Plonsky, and Y. Loewenstein, “Behavior engineering using quantitative reinforcement learning models,” _Nat Commun, vol. 16, no. 1_, May 2025, doi: [10.1038/s41467-025-58888-y](https://doi.org/10.1038/s41467-025-58888-y)
+    * __News Report:__ D. Marx, "Modeling Human Behavior with Math," Neuroscience News, [https://neurosciencenews.com/human-behavior-math-28981/](https://neurosciencenews.com/human-behavior-math-28981/) (accessed Oct. 25, 2025)
+* R. M. Dawes, D. Faust, and P. E. Meehl, “Clinical Versus Actuarial Judgment,” _Science, vol. 243, no. 4899_, pp. 1668–1674, Mar. 1989, doi: [10.1126/science.2648573](https://doi.org/10.1126/science.2648573)
+    * NIH Entry: [https://pubmed.ncbi.nlm.nih.gov/2648573/](https://pubmed.ncbi.nlm.nih.gov/2648573/)
+    * Read for free here: [https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf](https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf)
+    * Archived here: [https://web.archive.org/web/20250424144042/https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf](https://web.archive.org/web/20250424144042/https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf)
+
+### Physics
+
+* D. Helbing, “Boltzmann-like and Boltzmann-Fokker-Planck equations as a foundation of behavioral models,” _Physica A: Statistical Mechanics and its Applications, vol. 196, no. 4, pp. 546–573_, July 1993, doi: [10.1016/0378-4371(93)90034-2](https://doi.org/10.1016/0378-4371(93)90034-2)
+* G. Sella and A. E. Hirsh, “The application of statistical physics to evolutionary biology,” _Proc. Natl. Acad. Sci. U.S.A., vol. 102, no. 27, pp. 9541–9546_, June 2005, doi: [10.1073/pnas.0501865102](https://doi.org/10.1073/pnas.0501865102)
+* * L. Downes, “Simple Python tools for modelling few-level atom-light interactions,” _J. Phys. B: At. Mol. Opt. Phys., vol. 56, no. 22, p. 223001_, Oct. 2023, doi: [10.1088/1361-6455/acee3a](https://doi.org10.1088/1361-6455/acee3a)
+* Prof. Richard Fitzpatrick's __Modern Almagest__: [https://farside.ph.utexas.edu/books/Syntaxis/Syntaxis.html](https://farside.ph.utexas.edu/books/Syntaxis/Syntaxis.html)
+* "Road Race and Finish Line Management," Road Running Technical Council, [https://www.rrtc.net/finishline/contents.html](https://www.rrtc.net/finishline/contents.html) (accessed Oct. 25, 2025)
+
+### Public Choice Theory
+
+* H. Duijf, “Should one trust experts?,” _Synthese, vol. 199, no. 3–4, pp. 9289–9312_, May 2021, doi: [10.1007/s11229-021-03203-7](https://doi.org/10.1007/s11229-021-03203-7)
 
 ### Public Health
 
 * B. Huang, P. Cadwell, and R. Sasamoto, “Challenging ethical issues of online ethnography: reflections from researching in an online translator community,” _The Translator, vol. 29, no. 2, pp. 157–174_, Mar. 2023, doi: [10.1080/13556509.2023.2188700](https://doi.org/10.1080/13556509.2023.2188700)
+* H. Duijf, “Should one trust experts?,” _Synthese, vol. 199, no. 3–4, pp. 9289–9312_, May 2021, doi: [10.1007/s11229-021-03203-7](https://doi.org/10.1007/s11229-021-03203-7)
 * J. Cruz, P. C. L. White, A. Bell, and P. A. Coventry, “Effect of Extreme Weather Events on Mental Health: A Narrative Synthesis and Meta-Analysis for the UK,” _International Journal of Environmental Research and Public Health_, vol. 17, no. 22, p. 8581, Nov. 2020, doi: [https://doi.org/10.3390/ijerph17228581](https://doi.org/10.3390/ijerph17228581)
 * J. Smith, “Comparison of COVID-19 case and death counts in the United States reported by four online trackers: January 22-May 31, 2020.” _Cold Spring Harbor Laboratory_, June 22, 2020. doi: [10.1101/2020.06.20.20135764](https://doi.org/10.1101/2020.06.20.20135764)
+* N. Chesser et al., "Anticipating Rare Events: Can Acts of Terror, Use of Weapons of Mass Destruction or Other High Profile Acts Be Anticipated?" _TOPICAL STRATEGIC MULTI-LAYER ASSESSMENT (SMA) MULTI-AGENCY/MULTI-DISCIPLINARY WHITE PAPERS IN SUPPORT OF COUNTER-TERRORISM AND COUNTER-WMD_, Nov. 2008, [https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+    * Archived here: [https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+* O. Dan, O. Plonsky, and Y. Loewenstein, “Behavior engineering using quantitative reinforcement learning models,” _Nat Commun, vol. 16, no. 1_, May 2025, doi: [10.1038/s41467-025-58888-y](https://doi.org/10.1038/s41467-025-58888-y)
+    * __News Report:__ D. Marx, "Modeling Human Behavior with Math," Neuroscience News, [https://neurosciencenews.com/human-behavior-math-28981/](https://neurosciencenews.com/human-behavior-math-28981/) (accessed Oct. 25, 2025)

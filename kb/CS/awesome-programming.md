@@ -13,4 +13,5 @@
 * V. Gite, "List the contents of a tar or tar.gz file," nixCraft, [https://www.cyberciti.biz/faq/list-the-contents-of-a-tar-or-targz-file/](https://www.cyberciti.biz/faq/list-the-contents-of-a-tar-or-targz-file/) (accessed Oct. 23, 2025)
 * StackOverflow Question: "Ascii/Hex convert in bash," ("gdb" 2011): [https://stackoverflow.com/questions/5724761/ascii-hex-convert-in-bash](https://stackoverflow.com/questions/5724761/ascii-hex-convert-in-bash)
 * R. Harrower, "Speech to Text - recognise the speaker's," _StackOverflow Post_, [https://stackoverflow.com/questions/75729807/speech-to-text-recognise-the-speakers](https://stackoverflow.com/questions/75729807/speech-to-text-recognise-the-speakers) (accessed Oct. 23, 2025)
+* StackOverflow Question: _Looping through files with spaces in the names? [duplicate]_ [https://unix.stackexchange.com/questions/9496/looping-through-files-with-spaces-in-the-names](https://unix.stackexchange.com/questions/9496/looping-through-files-with-spaces-in-the-names)
 

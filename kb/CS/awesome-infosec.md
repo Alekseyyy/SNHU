@@ -47,6 +47,16 @@ This is a curation of resources created by others and notes that I have taken re
 * D. Makowski, "The psycho Package: an Efficient and Publishing-Oriented Workflow for Psychological Science," _The Journal of Open Source Software_, vol. 3, no. 22, pp. 470–470, Feb. 2018, doi: [https://doi.org/10.21105/joss.00470](https://doi.org/10.21105/joss.00470)
     * "Psycho" R Package author's website: [https://dominiquemakowski.github.io/](https://dominiquemakowski.github.io/)
     * "Psycho" Project Website: [https://neuropsychology.github.io/psycho.R/](https://neuropsychology.github.io/psycho.R/)
+* G. Jackson, P. Keleher, and A. Sussman, “A Ping Too Far: Real World Network Latency Measurement,” _2015 IEEE 11th International Conference on e-Science. IEEE, pp. 580–588,_ Aug. 2015. doi: [10.1109/escience.2015.74](https://doi.org/10.1109/eScience.2015.74)
+* J. Jaccard and J. Jacoby, "Theory Construction and Model Building Skills: A Practical Guide for Social Scientists \[Second Edition\]," _Guilford Press_. [https://search.worldcat.org/title/1132422889](https://search.worldcat.org/title/1132422889)
+    * Supplementary Website: [https://www.theory-construction.com/](https://www.theory-construction.com/)
+* N. Chesser et al., "Anticipating Rare Events: Can Acts of Terror, Use of Weapons of Mass Destruction or Other High Profile Acts Be Anticipated?" _TOPICAL STRATEGIC MULTI-LAYER ASSESSMENT (SMA) MULTI-AGENCY/MULTI-DISCIPLINARY WHITE PAPERS IN SUPPORT OF COUNTER-TERRORISM AND COUNTER-WMD_, Nov. 2008, [https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+    * Archived here: [https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://web.archive.org/web/20181121210204/https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
+* N. N. Taleb, "Silent Risk \[Unfinished Manuscript\]," circa 2018, Archived here: [https://web.archive.org/web/20181205193448/http://www.fooledbyrandomness.com/SilentRisk.pdf](https://web.archive.org/web/20181205193448/http://www.fooledbyrandomness.com/SilentRisk.pdf)
+* R. M. Dawes, D. Faust, and P. E. Meehl, “Clinical Versus Actuarial Judgment,” _Science, vol. 243, no. 4899_, pp. 1668–1674, Mar. 1989, doi: [10.1126/science.2648573](https://doi.org/10.1126/science.2648573)
+    * NIH Entry: [https://pubmed.ncbi.nlm.nih.gov/2648573/](https://pubmed.ncbi.nlm.nih.gov/2648573/)
+    * Read for free here: [https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf](https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf)
+    * Archived here: [https://web.archive.org/web/20250424144042/https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf](https://web.archive.org/web/20250424144042/https://meehl.umn.edu/sites/meehl.umn.edu/files/files/138cstixdawesfaustmeehl.pdf)
 
 #### Tutorial Papers
 
@@ -78,6 +88,10 @@ This is a curation of resources created by others and notes that I have taken re
 * [Nmap Host Discovery: The Ultimate Guide](https://www.device42.com/blog/2023/03/29/nmap-host-discovery-the-ultimate-guide/)
 * ``gau``: Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl: [https://github.com/lc/gau](https://github.com/lc/gau)
     * [Gauing+Nuclei for Instant Bounties (Ravaan 2022)](https://infosecwriteups.com/gauing-nuclei-for-instant-bounties-7a8a07979fff)
+* [Reddit thread discussing PullPush Alternatives](https://www.reddit.com/r/help/comments/1k4mkr1/pullpush_alternative/)
+    * In particular: "There is also arctic shift which is similar to pullpush:"
+    * ``https://arctic-shift.photon-reddit.com/`` or
+    * ``https://ihsoyct.github.io/``
 
 ### OSINT Literature
 
@@ -85,6 +99,8 @@ This is a curation of resources created by others and notes that I have taken re
 
 ## Software Exploitation
 
+* HackerOne's _Code-of-Conduct_ [https://www.hackerone.com/policies/code-of-conduct](https://www.hackerone.com/policies/code-of-conduct) __\[really good stuff for ethical conduct in security research!\]__
+    * Archived version (on Oct. 25, 2025): [https://archive.ph/p4cSh](https://archive.ph/p4cSh)
 * [Rhino CVE Proof-of-Concept Exploits](https://github.com/RhinoSecurityLabs/CVEs)
 * [WAF community bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses)
 * [FOFA Search Engine Library](https://github.com/FofaInfo/Awesome-FOFA)
@@ -130,14 +146,18 @@ This is a curation of resources created by others and notes that I have taken re
 * P. Godefroid, "Fuzzing: Hack, Art, and Science," _Communications of the ACM_, [https://cacm.acm.org/research/fuzzing/](https://cacm.acm.org/research/fuzzing/) \(accessed Jul. 23, 2025\)
 * _A comparison of FFUF and Wfuzz for fuzz testing web applications_ \([Mattsson 2021](https://web.archive.org/web/20230411090144/https://www.doria.fi/bitstream/handle/10024/181265/mattsson_matheos.pdf)\) __\[masters thesis\]__
 
-## Wireless hacking
+## Network & Wireless hacking
 
+* * G. Jackson, P. Keleher, and A. Sussman, “A Ping Too Far: Real World Network Latency Measurement,” _2015 IEEE 11th International Conference on e-Science. IEEE, pp. 580–588,_ Aug. 2015. doi: [10.1109/escience.2015.74](https://doi.org/10.1109/eScience.2015.74)
 * "Wh1t3Rh1n0," _Introducing WoNDeR-List: Wordlist of Netgear default WPA keys. Download link is at the bottom_, Jun 2014, [https://web.archive.org/web/20250408142521/https://mikeallen.org/blog/2014-06-16-introducing-wonder-list/](https://web.archive.org/web/20250408142521/https://mikeallen.org/blog/2014-06-16-introducing-wonder-list/)
 
 ## Persistent Implants & Malware Development
 
 * T. Holz, and F. Raynal, "Detecting Honeypots and other suspicious environments," _Proceedings of the 2005 IEEE_, [https://web.archive.org/web/20150905113200/http://old.honeynet.org/papers/individual/DefeatingHPs-IAW05.pdf](https://web.archive.org/web/20150905113200/http://old.honeynet.org/papers/individual/DefeatingHPs-IAW05.pdf)
 * J. Carlos, J. Jareño, José Miguel Aragón-Jurado, Sébastien Varrette, and Bernabé Dorronsoro, "Source code obfuscation with genetic algorithms using LLVM code optimizations," _Logic Journal of IGPL_, May 2024, doi: [https://doi.org/10.1093/jigpal/jzae069](https://doi.org/10.1093/jigpal/jzae069)
+* S. M. Tabish, M. Z. Shafiq, and M. Farooq, “Malware detection using statistical analysis of byte-level file content,” _Proceedings of the ACM SIGKDD Workshop on CyberSecurity and Intelligence Informatics. ACM, pp. 23–31_, June 28, 2009. doi: [10.1145/1599272.1599278](https://doi.org/10.1145/1599272.1599278)
+    * Read for free here: [https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf](https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf)
+    * Archived here: [https://web.archive.org/web/20240503161836/https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf](https://web.archive.org/web/20240503161836/https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf)
 
 ## DFIR/Software Forensics
 
@@ -150,6 +170,10 @@ This is a curation of resources created by others and notes that I have taken re
 * Software Forensics: Everything You Need to Know: [https://www.upcounsel.com/software-forensics](https://www.upcounsel.com/software-forensics)
 * Abby Whitmarsh's Blog on Graduate Web Science: [https://everlastingstudent.wordpress.com/](https://everlastingstudent.wordpress.com/)
     * Some of her articles on quantitative research of "revenge pornography:" https://everlastingstudent.wordpress.com/2015/04/
+* [Reddit thread discussing PullPush Alternatives](https://www.reddit.com/r/help/comments/1k4mkr1/pullpush_alternative/)
+    * In particular: "There is also arctic shift which is similar to pullpush:"
+    * ``https://arctic-shift.photon-reddit.com/`` or
+    * ``https://ihsoyct.github.io/``
 
 ### Data Recovery
 
@@ -178,6 +202,9 @@ This is a curation of resources created by others and notes that I have taken re
 
 * [Digital Phenotyping and Mobile Sensing: New Developments in Psychoinformatics](https://link.springer.com/book/10.1007/978-3-030-31620-4)
 * [Data Analysis in Forensic Science: A Bayesian Decision Perspective](https://www.wiley.com/en-ca/Data+Analysis+in+Forensic+Science%3A+A+Bayesian+Decision+Perspective-p-9780470998359)
+* S. M. Tabish, M. Z. Shafiq, and M. Farooq, “Malware detection using statistical analysis of byte-level file content,” _Proceedings of the ACM SIGKDD Workshop on CyberSecurity and Intelligence Informatics. ACM, pp. 23–31_, June 28, 2009. doi: [10.1145/1599272.1599278](https://doi.org/10.1145/1599272.1599278)
+    * Read for free here: [https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf](https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf)
+    * Archived here: [https://web.archive.org/web/20240503161836/https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf](https://web.archive.org/web/20240503161836/https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf)
 
 ## Reverse Engineering (RE)
 
@@ -192,6 +219,9 @@ This is a curation of resources created by others and notes that I have taken re
 * A. A., “Reverse Engineering Research,” doi: [https://doi.org/10.13140/RG.2.2.28030.51520](https://doi.org/10.13140/RG.2.2.28030.51520)
 * A. J. Brown, “Specifications and reverse-engineering,” _Journal of Software Maintenance: Research and Practice,_ vol. 5, no. 3, pp. 147–153, 1993, doi: [https://doi.org/10.1002/smr.4360050303](https://doi.org/10.1002/smr.4360050303)
 * A. van Deursen and E. Burd, “Software reverse engineering,” _Journal of Systems and Software_, vol. 77, no. 3, pp. 209–211, Sep. 2005, doi: [https://doi.org/10.1016/j.jss.2004.03.031](https://doi.org/10.1016/j.jss.2004.03.031)
+* D. C. Marinescu and L. Bölöni, “Biological metaphors in the design of complex software systems,” _Future Generation Computer Systems, vol. 17, no. 4, pp. 345–360_, Jan. 2001, doi: [10.1016/s0167-739x(99)00116-8](https://doi.org/10.1016/S0167-739X(99)00116-8)
+    * Read for free here: [https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2448&context=cstech](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2448&context=cstech)
+    * Archived Version: [https://web.archive.org/web/20250329235749/https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2448&context=cstech](https://web.archive.org/web/20250329235749/https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2448&context=cstech)
 * G. Canfora and M. Di Penta, “New Frontiers of Reverse Engineering,” _IEEE Xplore_, May 01, 2007. [https://ieeexplore.ieee.org/abstract/document/4221630/](https://ieeexplore.ieee.org/abstract/document/4221630/)
     * Paper on ResearchGate: [https://www.researchgate.net/publication/4250839_New_Frontiers_of_Reverse_Engineering](https://www.researchgate.net/publication/4250839_New_Frontiers_of_Reverse_Engineering)
 * G. Canfora, A. Cimitile, and M. Munro, “RE2: Reverse-engineering and reuse re-engineering,” _Journal of Software Maintenance: Research and Practice_, vol. 6, no. 2, pp. 53–72, Mar. 1994, doi: [https://doi.org/10.1002/smr.4360060202](https://doi.org/10.1002/smr.4360060202)
@@ -205,6 +235,9 @@ This is a curation of resources created by others and notes that I have taken re
 * R. H. Lande and S. M. Sobin, "Reverse Engineering of Computer Software and U.S. Antitrust Law," _Harvard Journal of Law & Technology,_ vol. 9, no. 2, 1996, Available at: [https://web.archive.org/web/20250322064807/https://jolt.law.harvard.edu/articles/pdf/v09/09HarvJLTech237.pdf](https://web.archive.org/web/20250322064807/https://jolt.law.harvard.edu/articles/pdf/v09/09HarvJLTech237.pdf) __\[about U.S. laws on reverse engineering\]__
 * Reverse Engineering Applications in Manufacturing Industries: An Overview \(Rathore & Jain 2014): [https://web.archive.org/web/20240508112055/https://daaam.info/Downloads/Pdfs/science_books_pdfs/2014/Sc_Book_2014-045.pdf](https://web.archive.org/web/20240508112055/https://daaam.info/Downloads/Pdfs/science_books_pdfs/2014/Sc_Book_2014-045.pdf)
 * S. C. Daughtrey, “Reverse Engineering of Software for Interoperability and Analysis,” _Vanderbilt Law Review_, vol. 47, no. 1, 1994, Available: [https://scholarship.law.vanderbilt.edu/vlr/vol47/iss1/4/](https://scholarship.law.vanderbilt.edu/vlr/vol47/iss1/4/) \[archived pdf: [https://web.archive.org/web/20240729034701/https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=2267&context=vlr](https://web.archive.org/web/20240729034701/https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=2267&context=vlr)\]
+* S. M. Tabish, M. Z. Shafiq, and M. Farooq, “Malware detection using statistical analysis of byte-level file content,” _Proceedings of the ACM SIGKDD Workshop on CyberSecurity and Intelligence Informatics. ACM, pp. 23–31_, June 28, 2009. doi: [10.1145/1599272.1599278](https://doi.org/10.1145/1599272.1599278)
+    * Read for free here: [https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf](https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf)
+    * Archived here: [https://web.archive.org/web/20240503161836/https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf](https://web.archive.org/web/20240503161836/https://web.cs.ucdavis.edu/~zubair/files/kdd09-momina.pdf)
 * S. R. TILLEY, K. WONG, M.-A. D. STOREY, and H. A. MÜLLER, “PROGRAMMABLE REVERSE ENGINEERING,” _International Journal of Software Engineering and Knowledge Engineering_, vol. 04, no. 04, pp. 501–520, Dec. 1994, doi: [https://doi.org/10.1142/s0218194094000246](https://doi.org/10.1142/s0218194094000246)
 * T. Cipresso and M. Stamp, “Software Reverse Engineering,” _Handbook of Information and Communication Security_, pp. 659–696, 2010, doi: [https://doi.org/10.1007/978-3-642-04117-4_31](https://doi.org/10.1007/978-3-642-04117-4_31)
 * T. (Tianyi) Zhang, C. Taylor, B. Coppens, W. Mebane, C. Collberg, and B. De Sutter, “reAnalyst: Scalable annotation of reverse engineering activities,” _Journal of Systems and Software_, vol. 229, p. 112492, Nov. 2025, doi: [https://doi.org/10.1016/j.jss.2025.112492](https://doi.org/10.1016/j.jss.2025.112492)
@@ -301,6 +334,8 @@ This is a curation of resources created by others and notes that I have taken re
      * Not to be confused with [Cobalt Strike](https://www.cobaltstrike.com/) ;-)
 * HBGary (now defunct): http://web.archive.org/web/20120504003249/http://www.hbgary.com/
 * Mandiant: https://www.mandiant.com/
+* Psynapse Technologies (now defunct): [https://www.datanyze.com/companies/psynapse-technologies/31588630](https://www.datanyze.com/companies/psynapse-technologies/31588630)
+    * Old Website: [https://web.archive.org/web/20050724075555/https://www.psynapsetech.com/](https://web.archive.org/web/20050724075555/https://www.psynapsetech.com/)
 * MAGNET Forensics: https://www.magnetforensics.com/
 * CrowdStrike: https://www.crowdstrike.com/en-us/
      * This firm is a bit sus (see [this article](https://www.upi.com/Top_News/World-News/2024/07/19/IT-failure-hits-causes-chaos-around-world/2531721376791))

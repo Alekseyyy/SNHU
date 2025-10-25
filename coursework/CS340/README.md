@@ -15,9 +15,17 @@ In this course, I have worked with with developing MongoDB queries for CRUD oper
 
 ## Project
 
-The work done in this course culminated into a full-stack web application that I have called _The Animal Tracker Database_. It consists of a MongoDB database management system, a custom "Python CRUD Module," and a front-end web application written in the Python programming language, and invoking the Dash framework with its respective supporting third-party modules.
+The work done in this course culminated into a full-stack web application that I have called _The Animal Tracker Database_. It consists of a MongoDB database management system, a custom "Python CRUD Module," and a front-end web application written in the Python programming language, and invoking the Dash framework with its respective supporting third-party modules. 
 
-The __codebase__ consists of the following key programme files:
+The [Dashboard Specifications Document](./project/Dashboard%20Specifications%20Document.pdf) describes and defines the software engineering problem, and discusses its constraints.
+
+### Acknowledgements
+
+I don't think that I could have developed _The Animal Tracker Database_ without the (in)direct help of other people. I must thank former SNHU students Victor Udeh and Joseph Dengler, as I referenced their versions of the project when I "got stuck" on certain subtasks. I must also thank Professor Jeff H. Sanford for his guidance and helpful feedback - which formed the basis for good progress.
+
+### Codebase
+
+This project's codebase consists of the following key programme files:
 
 * [``CRUD_Python_Module.py``](./project/code/CRUD_Python_Module.py): the core library that consists of the _create, read update, and delete_ (CRUD) functionality to make transactions with a MongoDB server. 
     * [``CRUD_Test_Harness.py``](./project/code/CRUD_Test_Harness.py): a custom test harness that I used to test the ``CRUD_Python_Module.py`` functionality. __PLEASE NOTE THAT:__ these tests only demonstrate the Python CRUD Module's functionality as a proof-of-concept, __not as a mature product that can be deployed "into the wild."__
@@ -29,7 +37,7 @@ Furthermore, this project's development and usage has been documented in the for
 
 * Project 1 _README_: \([pdf](./project/CRUD%20Module%20README%20(Project%201).pdf), [docx](./project/CRUD%20Module%20README%20(Project%201).docx)\).
     * Project 1 _Technical Writeup_: \([pdf](./project/Project%201_Writeup.pdf)\).
-* Project 2 _README_: \([pdf](./project/Python%20Dash%20WebApp%20README%20), [docx]()\).
+* Project 2 _README_: \([pdf](./project/Python%20Dash%20WebApp%20README%20(Project%202).pdf), [docx](./project/Python%20Dash%20WebApp%20README%20(Project%202).docx)\).
     * Project 2 _Technical Writeup_: \([pdf](./project/Project%202_Writeup.pdf)\).
 
 ### Screencast
@@ -49,14 +57,16 @@ Each module came with an "journaling" assignment, which existed to demonstrate c
 * [Assignment 3-1](./homework/3-1) \([writeup](./homework/3-1/writeup.pdf)\): about indexing and systems administration in MongoDB.
 * [Assignment 4-1](./homework/4-1) \([writeup](./homework/4-1/writeup.pdf)\): about interacting with MongoDB with Python and ``pymongo``.
 * [Assignment 5-2](./homework/5-2) \([writeup](./homework/5-2/writeup.pdf)\): introduction to the Python Dash framework for build web applications.
-* [Assignment 6-1](./homework/6-1) \([writeup](./homework/6-1/writeup.pdf)\): about adding basic interactive components in a Dash webapp. 
-
-### Course Textbook
-
-<a href="https://search.worldcat.org/title/1343909393" target="_blank"><img src="./resources/Textbook%20Cover.jpg" width="400px" /></a>
-
-This textbook was the primary reference when learning the concepts discussed in this course.
+* [Assignment 6-1](./homework/6-1) \([writeup](./homework/6-1/writeup.pdf)\): adding basic interactive components in a Dash webapp. 
 
 ## Resources
 
-\[todo\]
+### Course Textbook
+
+The following textbook was used as the primary reference when learning and implementing the material that is the concern of this course:
+
+<a href="https://search.worldcat.org/title/1343909393" target="_blank"><img src="./resources/Textbook%20Cover.jpg" width="400px" /></a>
+
+### Other Resources
+
+* \[todo\]
