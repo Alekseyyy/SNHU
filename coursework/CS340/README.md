@@ -57,7 +57,47 @@ Each module came with an "journaling" assignment, which existed to demonstrate c
 * [Assignment 3-1](./homework/3-1) \([writeup](./homework/3-1/writeup.pdf)\): about indexing and systems administration in MongoDB.
 * [Assignment 4-1](./homework/4-1) \([writeup](./homework/4-1/writeup.pdf)\): about interacting with MongoDB with Python and ``pymongo``.
 * [Assignment 5-2](./homework/5-2) \([writeup](./homework/5-2/writeup.pdf)\): introduction to the Python Dash framework for build web applications.
-* [Assignment 6-1](./homework/6-1) \([writeup](./homework/6-1/writeup.pdf)\): adding basic interactive components in a Dash webapp. 
+* [Assignment 6-1](./homework/6-1) \([writeup](./homework/6-1/writeup.pdf)\): adding basic interactive components in a Dash webapp.
+
+### Prompts Regarding the 8-2 Assignment
+
+Assignment 8-2 involves creating a ``README`` file that addresses three prompts. These are my answers to them:
+
+<details>
+<summary>Q1: Good Software Design</summary>
+
+> "How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?"
+
+A software product must be mature before it can be deployed into a hostile cloud service - where it will be subjected to "tall orders" from many end-users, along with malicious hackers trying to break it in order to steal confidential information or just cause general mayhem. A few things that can be done are as follows:
+
+1. Apply good software design practices like [refactoring](https://refactoring.guru/refactoring) and code peer review from experts.
+2. Apply good secure coding --- including but not limited to: [linting](https://www.perforce.com/blog/qac/what-is-linting), extensive [unit testing](https://www.dataquest.io/blog/unit-tests-python/), software [fuzzing and fault injection](https://www.fuzzingbook.org/html/Fuzzer.html), and, depending on the severity of the assets involved, [provably correct systems](https://engineering.cmu.edu/news-events/news/2024/12/23-provably-correct-software.html)
+3. If deploying the product to the cloud, as opposed to a "sideloaded" desktop application, consider making use of a [content delivery network](https://www.akamai.com/glossary/what-is-a-cdn), [load balancer](https://www.f5.com/glossary/load-balancer), network firewall, [web application firewall](https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/) and [web shell / server-side backdoor detection](https://redcanary.com/threat-detection-report/trends/webshells/). 
+
+</details>
+
+<details>
+<summary>Q2: How I go about solving software engineering problems</summary>
+
+> "How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?"
+
+When approaching a computer science or software engineering problem, I first try to get a deep understanding of the problem. Such a "deep" understanding of the thing that needs to be worked out, along with the appropriate constraints, will give me an idea of what kind of software solution is needed. 
+
+Personally, when I begin writing code, I start out by writing a "caveman" solution, where I simply want the programme to run and reliably make calculations. After this "caveman code" is worked out, I try to identify inefficiencies with what I have written, and then eliminate them. I also try to get "second opinions" from more experience coders. 
+
+</details>
+
+<details>
+<summary>Q3: The need for computer science</summary>
+
+> "What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?"
+
+Computer science is a "hodgepoge" of several disciplines, like mathematics, physics, and engineering. Computer scientists can work on theoretical problems, or apply computer science principles to solving applied problems. Regarding the former, theoretical computer science is important, because progress made in finding abstract, generalised and efficient solutions to computational problems will benefit societies at large. 
+
+Regarding the latter, applied computer science can benefit individuals, organizations and even society at large (see the _Free and Open Source Software_ movement). Applied computer scientists can use their understanding of principles of computing and informatics to design and implement complex systems that can work at scale. It is indeed possible to write software without much computer science knowledge, but such solutions will be limited (and highly dependent on third-party tools developed by computer scientists).
+
+</details>
+ 
 
 ## Resources
 
