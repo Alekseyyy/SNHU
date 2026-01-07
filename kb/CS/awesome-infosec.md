@@ -5,7 +5,7 @@ This is a curation of resources created by others and notes that I have taken re
 
 ## General H@cking
 
-* [A primer on Ruby Virtual Environments](https://phoenixnap.com/kb/install-ruby-ubuntu)
+* [A primer on Ruby Virtual Environments](https://phoenixnap.com/kb/install-ruby-ubuntu).
 * [Jayesh Madnani's list of hacking tools for bug bounty](https://www.linkedin.com/posts/jayesh-madnani_bugbountytips-hackerone-bugcrowd-activity-7135158245031055360-Q-A7)
 * [Reddit Thread: Looking for a good "do not scan" list](https://www.reddit.com/r/AskNetsec/comments/5v8qsx/looking_for_a_good_do_not_scan_list/)
 * [SoldierX](https://www.soldierx.com/)
@@ -46,8 +46,10 @@ This is a curation of resources created by others and notes that I have taken re
     * Archived Here: [https://web.archive.org/web/20250726002632/https://www.geeksforgeeks.org/nlp/relationship-extraction-in-nlp/](https://web.archive.org/web/20250726002632/https://www.geeksforgeeks.org/nlp/relationship-extraction-in-nlp/)
 * D. Makowski, "The psycho Package: an Efficient and Publishing-Oriented Workflow for Psychological Science," _The Journal of Open Source Software_, vol. 3, no. 22, pp. 470–470, Feb. 2018, doi: [https://doi.org/10.21105/joss.00470](https://doi.org/10.21105/joss.00470)
     * "Psycho" R Package author's website: [https://dominiquemakowski.github.io/](https://dominiquemakowski.github.io/)
-    * "Psycho" Project Website: [https://neuropsychology.github.io/psycho.R/](https://neuropsychology.github.io/psycho.R/)
-* G. Jackson, P. Keleher, and A. Sussman, “A Ping Too Far: Real World Network Latency Measurement,” _2015 IEEE 11th International Conference on e-Science. IEEE, pp. 580–588,_ Aug. 2015. doi: [10.1109/escience.2015.74](https://doi.org/10.1109/eScience.2015.74)
+    * "Psycho" Project Website: [https://neuropsychology.github.io/psycho.R/](https://neuropsychology.github.io/psycho.R/).
+* [Fred Hutch Cancer Center, Data Science Lab, AI for Efficient Programming, Chapter 3: Ethics of Using AI](https://hutchdatascience.org/AI_for_Efficient_Programming/ethics-of-using-ai.html).
+* G. Jackson, P. Keleher, and A. Sussman, “A Ping Too Far: Real World Network Latency Measurement,” _2015 IEEE 11th International Conference on e-Science. IEEE, pp. 580–588,_ Aug. 2015. doi: [10.1109/escience.2015.74](https://doi.org/10.1109/eScience.2015.74).
+* G. Vaidian, "Tips for Starting an Independent Research Project," University of Connecticut: Office of Undergraduate Research, [https://ugradresearch.uconn.edu/2023/11/03/tips-for-starting-an-independent-research-project/](https://ugradresearch.uconn.edu/2023/11/03/tips-for-starting-an-independent-research-project/) \(accessed Jan. 6, 2026\). 
 * J. Jaccard and J. Jacoby, "Theory Construction and Model Building Skills: A Practical Guide for Social Scientists \[Second Edition\]," _Guilford Press_. [https://search.worldcat.org/title/1132422889](https://search.worldcat.org/title/1132422889)
     * Supplementary Website: [https://www.theory-construction.com/](https://www.theory-construction.com/)
 * N. Chesser et al., "Anticipating Rare Events: Can Acts of Terror, Use of Weapons of Mass Destruction or Other High Profile Acts Be Anticipated?" _TOPICAL STRATEGIC MULTI-LAYER ASSESSMENT (SMA) MULTI-AGENCY/MULTI-DISCIPLINARY WHITE PAPERS IN SUPPORT OF COUNTER-TERRORISM AND COUNTER-WMD_, Nov. 2008, [https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf](https://nsiteam.com/social/wp-content/uploads/2016/01/Anticipating-Rare-Events.pdf)
@@ -92,6 +94,7 @@ This is a curation of resources created by others and notes that I have taken re
     * In particular: "There is also arctic shift which is similar to pullpush:"
     * ``https://arctic-shift.photon-reddit.com/`` or
     * ``https://ihsoyct.github.io/``
+* __Link Analysis: Unlock the insight in your connected data with powerful link analysis:__ [https://cambridge-intelligence.com/why-link-analysis/](https://cambridge-intelligence.com/why-link-analysis/)
 
 ### OSINT Literature
 
@@ -208,6 +211,9 @@ This is a curation of resources created by others and notes that I have taken re
 
 ## Reverse Engineering (RE)
 
+* R. Buttram, "The Biological Analogy and the Future of Information Security [v 1.2f]," GSEC Practical Assignment, [https://web.archive.org/web/20141017095514/https://www.giac.org/paper/gsec/1515/biological-analogy-future-information-security/102813](https://web.archive.org/web/20141017095514/https://www.giac.org/paper/gsec/1515/biological-analogy-future-information-security/102813).
+* D. Monaghan, "The Irish National Stud, 1900-2025." Cham: Springer Nature Switzerland, 2025. doi: [https://doi.org/10.1007/978-3-031-91635-9](https://doi.org/10.1007/978-3-031-91635-9).
+* R. Canzanese, M. Kam, and Spiros Mancoridis, "Inoculation against malware infection using kernel-level software sensors," Jun. 2011, doi: [https://doi.org/10.1145/1998582.1998600](https://doi.org/10.1145/1998582.1998600).
 * [Ghidra Basics: Manual Shellcode Analysis and C2 Extraction](https://embee-research.ghost.io/ghidra-basics-shellcode-analysis/)
 * [Reverse Engineering Malware Network Protocols with Angr](https://www.securityartwork.es/2018/04/09/reversing-of-malware-network-protocols-with-angr/)
 * [Reddit thread discussing sources of Benignware and their datasets](https://www.reddit.com/r/Malware/comments/bu2tvc/benignware_dataset/)
@@ -386,3 +392,4 @@ This list borrows, in part, from [ESecurityPlanet.com](https://www.esecurityplan
 * [Awesome Bug Bounty Tools by "@vavkamil"](https://github.com/vavkamil/awesome-bugbounty-tools)
 * [Awesome List of Social Media H@cking/Cybersec tools](https://github.com/MobileFirstLLC/social-media-hacker-list)
 * [Awesome List of Reverse Engineering tools by "@geeksniper"](https://github.com/geeksniper/reverse-engineering-toolkit)
+

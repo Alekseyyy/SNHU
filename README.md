@@ -32,8 +32,9 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 | [Introduction to Structured Database Environments](./coursework/DAD220/) | DAD220 |
 | __General STEM coursework__ | |
 | [Precalculus](./coursework/MAT140/) | MAT140 |
-| [Discrete Mathematics](./coursework/MAT230) | MAT230 |
 | [Introduction to Physics](./coursework/PHY150/) | PHY150 |
+| [Calculus I: Single-Variable Calculus] | MAT225 |
+| [Discrete Mathematics](./coursework/MAT230) | MAT230 |
 | __Other prerequisite coursework__ | |
 | [Perspectives in History](./coursework/HIS100/) | HIS100 |
 | [Applied History](./coursework/HIS200/) | HIS200 |
@@ -43,7 +44,7 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 </details>
 
 <details>
-<summary>Test-out Courses</summary>
+<summary>Test-Out Courses</summary>
 
 <br />
 
@@ -54,6 +55,7 @@ A partial list of courses offered by third-party providers that I took, and then
 | [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/ba83ef4d67d94dca87154ed312181845) | edX | IT-140: Introduction to Scripting |
 | [Introduction to Java Programming](./sundries/ossu/coursework/Sophia_IT-145) | Sophia Learning | IT-145: Foundations of Application Development |
 | [CS-201: Data Structures & Algorithms](./sundries/ossu/coursework/Study.com_CS-201) | Study.com | CS-300: DSA: Analysis and Design |
+| Data Analysis | Coursera/Google | \[todo\] |
 
 </details>
 
