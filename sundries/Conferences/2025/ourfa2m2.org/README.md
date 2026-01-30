@@ -3,6 +3,8 @@
 
 On the 8th and 9th of February 2025, I attended the <a href="https://www.ourfa2m2.org/" target="_blank">OURFA<sup>2</sup>M<sup>2</sup></a> virtual, and free, mathematics conference, which discusses maths from a "lefty" perspective. I attended them _as a viewer, not as a speaker_, and these are just some interesting takeaways from what I learnt from their seminars.
 
+Playlists of (some of) the seminars uploaded onto YouTubes: [https://www.youtube.com/watch?v=3t6eALo-Pyo&list=PLUZkuREPk8WWt4-9rqhSamf4als0EOuXX](https://www.youtube.com/watch?v=3t6eALo-Pyo&list=PLUZkuREPk8WWt4-9rqhSamf4als0EOuXX)
+
 ## Seminars that I attended
 
 ### Day 1
@@ -10,7 +12,7 @@ On the 8th and 9th of February 2025, I attended the <a href="https://www.ourfa2m
 <details>
 <summary>Our Stories: Makayla Cowles</summary>
 
-Nothing to see here ... for now ;-)
+This seminar can be viewed here: https://www.youtube.com/watch?v=3t6eALo-Pyo
 
 </details>
 
@@ -70,6 +72,8 @@ This one was very fun to watch to and interact with. The following are resources
 * Speaker's Homepage: https://www.onlinekyne.com/
     * Speaker's Substack: https://onlinekyne.substack.com/
     * National Museum of Mathematics: Math Encounters: https://momath.org/math-encounters/
+    
+This seminar can be viewed here: https://www.youtube.com/watch?v=kNcHldGc3Xo
 
 </details>
 
@@ -77,6 +81,8 @@ This one was very fun to watch to and interact with. The following are resources
 <summary>Our Stories: Fatima Akinola</summary>
 
 * Association for Women in Mathematics: https://awm-math.org/
+
+This seminar can be viewed here: https://www.youtube.com/watch?v=OhrkIzJRpzo
 
 </details>
 
@@ -91,6 +97,8 @@ This one was very fun to watch to and interact with. The following are resources
 * Article: A most cooperative network (Benjamin Allenn, 2017): https://communities.springernature.com/posts/a-most-cooperative-network
 * Article: Global cooperation depends on the strength of local connections (Benjamin Allen, ????) https://aeon.co/ideas/global-cooperation-depends-on-the-strength-of-local-connections
 * https://www.nature.com/articles/s41559-019-1019-7
+
+This seminar can be watched here: https://www.youtube.com/watch?v=mT-fDD3j5jE
 
 </details>
 

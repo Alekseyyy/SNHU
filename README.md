@@ -6,7 +6,7 @@
 
 ## Summary
 
-I am an undergraduate student at Southern New Hampshire University majoring in computer science with a minor in mathematics and a concentration in data analysis. My main interests are system programming, computer networks, machine learning and bioinformatics.
+I am an undergraduate student at Southern New Hampshire University majoring in computer science with a minor in mathematics and a concentration in data analysis. As of 01 Jan., 2026, I have [earned an associates degree in computer science](https://www.parchment.com/u/s/73lb), and I am currently working towards the bachelors-portion of my undergraduate education. My main interests are system programming, computer networks, machine learning and bioinformatics. 
 
 ![stats 1](https://github-readme-stats.vercel.app/api?username=Alekseyyy&show_icons=true)
 
@@ -33,7 +33,7 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 | __General STEM coursework__ | |
 | [Precalculus](./coursework/MAT140/) | MAT140 |
 | [Introduction to Physics](./coursework/PHY150/) | PHY150 |
-| [Calculus I: Single-Variable Calculus] | MAT225 |
+| [Calculus I: Single-Variable Calculus](./coursework/MAT225/) | MAT225 |
 | [Discrete Mathematics](./coursework/MAT230) | MAT230 |
 | __Other prerequisite coursework__ | |
 | [Perspectives in History](./coursework/HIS100/) | HIS100 |
@@ -66,12 +66,12 @@ Outside of school, I like to "stay sharp" by doing computer science practice wit
 <details>
 <summary>Open Source Society University (OSSU)</summary>
 
-A significant educational project that I am working on is a (unaccredited, but cheap) set of STEM "majors" from the [Open Source Society University](https://github.com/ossu) - abbreviated to _OSSU_. This includes all of my other non-accredited coursework that may or may not be in the OSSU curriculum.
+From time to time, I am working on  set of STEM "majors" from the [Open Source Society University](https://github.com/ossu) --- abbreviated to "OSSU." This includes all of my other non-accredited coursework that may or may not be in the OSSU curriculum.
 
 </details>
 
 <details>
-<summary>Textbook problems</summary>
+<summary>Textbook Problems</summary>
 
 * [(T) Starting Out with C++: From Control Structures through Objects (ISBN-13: 978-0-13-403732-5)](./sundries/Books/ISBN-13_978-0-13-403732-5)
 * [(L) Bayesian Statistics the Fun Way (ISBN-13: 978-1-59327-956-1)](./sundries/Books/ISBN-13_978-1-59327-956-1)
@@ -84,7 +84,7 @@ _Note to self: T = todo and L = later_
 </details>
 
 <details>
-<summary>Online code judges</summary>
+<summary>Online Code Judges</summary>
 
 * [CodeSignal](./sundries/OLCodeJudge/CodeSignal): general programming
 * [DM::OJ](./sundries/OLCodeJudge/DMOJ): general programming
@@ -97,7 +97,8 @@ _Note to self: T = todo and L = later_
 <details>
 <summary>Capture The Flags (CTFs)</summary>
 
-* picoCTF 2025: general beginner-level ctf challenges.
+* _picoCTF 2025_: general beginner-level ctf challenges.
+    * Sadly, I do not have a README or supplementary materials (I did these challenges haphazardly, and did not have the time to document my progress and achievements). 
 * [picoCTF 2023](./sundries/ctf/2023/picoCTF): general beginner-level ctf challenges.
 * [BrixelCTF 2020](./sundries/ctf/2020/brixelctf): general beginner-level ctf challenges.
 * [Decompetition 2020](./sundries/ctf/2020/decompetition): reverse engineering puzzles. Rather than trying to work out a "flag," participants are challenged to reengineer compiled binaries to best match the output of the original compiled executable.
