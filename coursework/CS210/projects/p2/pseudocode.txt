@@ -1,0 +1,65 @@
+
+Function Main()
+    Print Welcome Message
+
+    initialInvestment = HandleInput -> double
+    monthlyDeposit = HandleInput -> double
+    annualInterest = HandleInput -> double
+    numberOfYears = HandleInput -> int
+    
+    InvestmentAccount withoutMonthlyDeposit(initialInvestment, annualInterest, 0.0)
+    InvestmentAccount withMonthlyDeposit(initialInvestment, annualInterest, monthlyDeposit)
+    
+    DisplayOutput(withoutMonthlyDeposit, numberOfYears)
+    DisplayOutput(withMonthlyDeposit, numberOfYears)
+    
+    Pause and wait for user to quit
+End Function
+
+Function HandleInput(input)
+  While Not done:
+    input = GetInput()
+    if input is double and greater than 0:
+      Return input
+      done = True
+End Function
+
+Function DisplayOutput(InvestmentAccount instance, numberOfYears)
+  For Year = 1 To numberOfYears:
+    Print instance.currentBalance(numberOfYears) and instance.interestRate(numberOfYears)
+  End For
+End Function
+
+Function InvestmentAccount.endingBalance(t)
+  endingBalance = initialInvestment
+  previousYearBalance = 0
+  
+  For Month = 1 To Month * 12
+    interestEarned = (endingBalance + monthlyDeposit) * ((annualInterestRate / 100.0) / 12.0)
+    endingBalance += monthlyDeposit + interestEarned
+    If Month == (t - 1) * 12
+      previousYearBalance = endingBalance
+    End If
+  End For
+  
+  Return endingBalance
+End Function
+
+Function InvestmentAccount.interestRate(t)
+  endingBalance = initialInvestment
+  previousYearBalance = 0
+  
+  For Month = 1 To Month * 12
+    interestEarned = (endingBalance + monthlyDeposit) * ((annualInterestRate / 100.0) / 12.0)
+    endingBalance += monthlyDeposit + interestEarned
+    If Month == (t - 1) * 12
+      previousYearBalance = endingBalance
+    End If
+  End For
+  
+  If t = 1
+    Return endingBalance - initialAmount - (monthlyDeposit * 12)
+  Else
+    Return endingBalance - previousYearBalance - (monthlyDeposit * 12);
+  End If
+End Function

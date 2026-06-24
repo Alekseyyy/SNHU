@@ -1,0 +1,24 @@
+Grade: A
+
+Lecturer's comments: 
+"""
+Create a Database With Your Name
+The CREATE DATABASE statement is used to create a new SQL database.
+On the production systems you should have admin privilege before creating any database. 
+Once a database is created, 
+you can check it in the list of databases with the SQL command: SHOW DATABASES;
+
+Create a Table Called tb2 and List Table in Database
+CREATE TABLE is the keyword that tells the database system to create a new table. There is a unique name or identifier for the table that follows.
+Then in brackets comes the list defining each column in the table and what sort of data type it is. 
+After the data type, you can specify other optional attributes for each column:
+NOT NULL,DEFAULT,UNSIGNED,AUTO INCREMENT,PRIMARY KEY
+Each table should have a primary key column. Its value must be unique for each record in the table.
+The syntax that you used in the exercise makes it more clear. 
+
+Add a Second Field
+The ALTER TABLE statement is used to add, delete, or modify columns in an existing table.
+
+The objective of the lab was to learn how to develop a framework for a functional database; create tables, columns,
+and keys within a new database created You did great work with the unit. You are doing great.
+"""

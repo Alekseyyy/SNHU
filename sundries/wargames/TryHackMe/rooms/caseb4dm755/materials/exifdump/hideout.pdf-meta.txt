@@ -1,0 +1,83 @@
+ExifTool Version Number         : 12.47
+File Name                       : hideout.pdf
+Directory                       : .
+File Size                       : 4.7 MB
+File Modification Date/Time     : 2022:09:11 04:31:48+00:00
+File Access Date/Time           : 2023:03:31 21:02:26+00:00
+File Creation Date/Time         : 2023:03:31 21:02:23+00:00
+File Permissions                : -rw-rw-rw-
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : OnePlus
+Camera Model Name               : ONEPLUS A6013
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2022:09:11 12:31:48
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/220
+F Number                        : 1.7
+Exposure Program                : Program AE
+ISO                             : 100
+Exif Version                    : 0220
+Date/Time Original              : 2022:09:11 12:31:48
+Create Date                     : 2022:09:11 12:31:48
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/219
+Aperture Value                  : 1.7
+Brightness Value                : 2.87
+Exposure Compensation           : 0
+Max Aperture Value              : 1.7
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 4.3 mm
+Sub Sec Time                    : 728794
+Sub Sec Time Original           : 728794
+Sub Sec Time Digitized          : 728794
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 4608
+Exif Image Height               : 3456
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Sensing Method                  : Not defined
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 25 mm
+Scene Capture Type              : Standard
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 900
+Thumbnail Length                : 40889
+XMP Toolkit                     : Adobe XMP Core 5.1.0-jc003
+Capture Mode                    : Photo
+Scene                           : AutoHDR
+Is HDR Active                   : False
+Is Night Mode Active            : False
+Scene Detect Result Ids         : [60, 42]
+Scene Detect Result Confidences : [0.99988556, 0.97189426]
+Lens Facing                     : Back
+Image Width                     : 4608
+Image Height                    : 3456
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Aperture                        : 1.7
+Image Size                      : 4608x3456
+Megapixels                      : 15.9
+Scale Factor To 35 mm Equivalent: 5.9
+Shutter Speed                   : 1/220
+Create Date                     : 2022:09:11 12:31:48.728794
+Date/Time Original              : 2022:09:11 12:31:48.728794
+Modify Date                     : 2022:09:11 12:31:48.728794
+Thumbnail Image                 : (Binary data 40889 bytes, use -b option to extract)
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 71.5 deg
+Focal Length                    : 4.3 mm (35 mm equivalent: 25.0 mm)
+Hyperfocal Distance             : 2.08 m
+Light Value                     : 9.3

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/layout1" android:layout_width="fill_parent" android:layout_height="300.0sp" app:layout_constraintBottom_toTopOf="@id/play_btn" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <EditText android:id="@id/hours_edt_txt" android:layout_width="40.0sp" android:layout_height="wrap_content" android:layout_margin="20.0sp" android:hint="HH" android:inputType="number" />
+        <EditText android:id="@id/min_edt_txt" android:layout_width="40.0sp" android:layout_height="wrap_content" android:layout_margin="20.0sp" android:hint="MM" android:inputType="number" />
+        <EditText android:id="@id/seconds_edt_txt" android:layout_width="40.0sp" android:layout_height="wrap_content" android:layout_margin="20.0sp" android:hint="SS" android:inputType="number" />
+    </LinearLayout>
+    <Button android:id="@id/play_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/play" app:layout_constraintBottom_toTopOf="@id/textView" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/layout1" />
+    <TextView android:textSize="36.0sp" android:textStyle="bold" android:textColor="#ff189c1e" android:gravity="center" android:id="@id/textView" android:background="?android:detailsElementBackground" android:layout_width="0.0dip" android:layout_height="0.0dip" android:text="TextView" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.0" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/play_btn" app:layout_constraintVertical_bias="0.0" />
+</androidx.constraintlayout.widget.ConstraintLayout>

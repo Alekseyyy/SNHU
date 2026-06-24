@@ -1,0 +1,99 @@
+package assignment;
+
+/*
+ * BMSearch.java: An implementation of the "BMSearch"
+ *   BMSearch is a class that contains the functionality
+ *   needed to perform a Boyer-Moore Search. This kind
+ *   of search is smarter than a simple brute 
+ * 
+ */
+public class BMSearch {
+	
+	private int SYMBOL_SIZE;
+	
+	public BMSearch(int SYMBOL_SIZE) {
+		this.SYMBOL_SIZE = SYMBOL_SIZE;
+	}
+	
+	/*
+	 * Public method that embodies the main logic of the
+	 *   Boyer-Moore Search Algorithm. I referenced "Geeks-
+	 *   -forGeeks" (Mar. 11, 2024) when writing this method,
+	 *   and I wrote it in accordance with the requirements
+	 *   outlined in "Study.com" (n.d.).
+	 */
+	public void BoyerMooreIndex(String input, String pattern) {
+		// Begin by expressing strings as character arrays
+		char[] inputArray = input.toCharArray();
+		char[] patternArray = pattern.toCharArray(); /* Note that for the
+		  char[] variables of inputArray and patternArray, I referenced
+		  "GeeksForGeeks" (Jan. 4, 2025) when implementing them */
+		
+		// Also, calculate the length of the "inputArray", and the "patternArray"
+		int slen = inputArray.length; // length of "input" as a character array.
+		int plen = patternArray.length; // length of "pattern" as a character array.
+		
+		/* Implement the "Bad Character Rule" to populate the 
+		 * BAD_CHARACTERS integer array with heuristic data */
+		int[] BAD_CHARACTERS = this.BadCharacterRule(patternArray);
+		
+		/*
+		 * This is the main logic of the Boyer-Moore search 
+		 */
+		
+		int shiftPos = 0;
+		while (shiftPos <= (plen - slen)) {
+			int minFactor = plen - 1;
+			while (minFactor >= 0 && patternArray[minFactor] == inputArray[shiftPos + minFactor])
+				minFactor--;
+			if (minFactor < 0) {
+				System.out.printf("Pattern occured at shift: %d\n", shiftPos);
+				if (shiftPos + plen < slen)
+					shiftPos += plen - BAD_CHARACTERS[inputArray[shiftPos + plen]];
+				else
+					shiftPos += 1;
+			} else
+				shiftPos += this.BiggerInt(1, minFactor - BAD_CHARACTERS[inputArray[shiftPos + minFactor]]);
+		}
+		
+	} /* Note that this method references 
+	  "GeeksForGeeks" (Mar. 11, 2024) */
+	
+	/*
+	 * Private method that implements the "bad character
+	 *   rule" employed by the Boyer-Moore Search. The
+	 *   procedure adds identified "bad characters" to
+	 *   the private integer array of BAD_CHARACTERS.
+	 * @param str    the search pattern
+	 */
+	private int[] BadCharacterRule(char[] pattern) {
+		// First, populate the BAD_CHARACTERS array
+		// with sections ...
+		int[] BAD_CHARACTERS = new int[this.SYMBOL_SIZE];
+		
+		for (int i = 0; i < this.SYMBOL_SIZE; i++)
+			BAD_CHARACTERS[i] = -1;
+		for (int i = 0; i < pattern.length; i++)
+			BAD_CHARACTERS[(int)pattern[i]] = i;
+		
+		return BAD_CHARACTERS;
+	} /* Note that this method references 
+	   "GeeksForGeeks" (Mar. 11, 2024) */
+	
+	/*
+	 * Private method that returns the greater
+	 *   integer given two integers
+	 * 
+	 * @param a    an integer
+	 * @param b    another integer
+	 * @returns the greater integer between 
+	 *   a and b
+	 */
+	private int BiggerInt(int a, int b) {
+		if (a > b)
+			return a;
+		return b;
+	} /* Note that this method references
+	   "GeeksForGeeks" (Mar. 11, 2024) */
+}
+

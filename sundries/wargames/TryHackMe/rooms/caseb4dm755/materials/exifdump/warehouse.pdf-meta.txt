@@ -1,0 +1,71 @@
+ExifTool Version Number         : 12.47
+File Name                       : warehouse.pdf
+Directory                       : .
+File Size                       : 6.0 MB
+File Modification Date/Time     : 2022:09:11 06:59:02+00:00
+File Access Date/Time           : 2023:03:31 21:02:26+00:00
+File Creation Date/Time         : 2023:03:31 21:02:24+00:00
+File Permissions                : -rw-rw-rw-
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Camera Model Name               : Mi 9 Lite
+Orientation                     : Horizontal (normal)
+Modify Date                     : 2022:09:11 14:59:01
+Y Cb Cr Positioning             : Centered
+ISO                             : 25600
+Exposure Program                : Program AE
+F Number                        : 1.8
+Exposure Time                   : 1/14
+Sensing Method                  : Not defined
+Sub Sec Time Digitized          : 220867
+Sub Sec Time Original           : 220867
+Sub Sec Time                    : 220867
+Focal Length                    : 4.7 mm
+Flash                           : Off, Did not fire
+Light Source                    : Unknown
+Metering Mode                   : Center-weighted average
+Scene Capture Type              : Standard
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Focal Length In 35mm Format     : 25 mm
+Max Aperture Value              : 1.8
+Create Date                     : 2022:09:11 14:59:01
+Exposure Compensation           : 0
+Exif Image Height               : 3000
+White Balance                   : Auto
+Date/Time Original              : 2022:09:11 14:59:01
+Brightness Value                : -7.07
+Exif Image Width                : 4000
+Exposure Mode                   : Auto
+Aperture Value                  : 1.8
+Components Configuration        : Y, Cb, Cr, -
+Color Space                     : sRGB
+Scene Type                      : Directly photographed
+Shutter Speed Value             : 1/14
+Exif Version                    : 0220
+Flashpix Version                : 0100
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Make                            : Xiaomi
+Image Width                     : 4000
+Image Height                    : 3000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Aperture                        : 1.8
+Image Size                      : 4000x3000
+Megapixels                      : 12.0
+Scale Factor To 35 mm Equivalent: 5.3
+Shutter Speed                   : 1/14
+Create Date                     : 2022:09:11 14:59:01.220867
+Date/Time Original              : 2022:09:11 14:59:01.220867
+Modify Date                     : 2022:09:11 14:59:01.220867
+Circle Of Confusion             : 0.006 mm
+Field Of View                   : 71.5 deg
+Focal Length                    : 4.7 mm (35 mm equivalent: 25.0 mm)
+Hyperfocal Distance             : 2.20 m
+Light Value                     : -2.5

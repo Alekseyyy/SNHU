@@ -1,0 +1,6 @@
+Toronto 47
+Lima 66
+Istanbul 57
+Lagos 81
+Shanghai 61
+Sydney 64

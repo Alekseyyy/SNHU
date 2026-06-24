@@ -1,0 +1,21 @@
+Grade: A
+
+Lecturer's comments:
+"""
+schema is synonymous with database. As the query is written to create the database, similarly the query can be written to create the schema.
+Logical structure can be used by the schema to store data while memory component can be used by the database to store data. 
+Also, a schema is collection of tables while a database is a collection of schema.
+
+create database yourDatabaseName;
+The CREATE TABLE statement allows you to create a new table in a database.
+The following illustrates the basic syntax of the CREATE TABLE  statement:
+CREATE TABLE [IF NOT EXISTS] table_name(
+   column_1_definition,
+   column_2_definition,
+   ...,
+   table_constraints
+);
+UPDATE table_name
+SET column1 = value1, column2 = value2, ...
+WHERE condition;
+"""

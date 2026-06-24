@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/home/aleksey/Documents/work-stuff/Eclipse-Workspace/Study.com/.metadata/.plugins/org.eclipse.jdt.core
+2949097923.index
+1412680892.index
+1865797976.index
+3443170566.index
