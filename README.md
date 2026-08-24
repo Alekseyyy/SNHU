@@ -35,6 +35,7 @@ I am an undergraduate student at _Southern New Hampshire University_ majoring in
 | [Introduction to Physics](./coursework/PHY150/) | PHY150 |
 | [Calculus I: Single-Variable Calculus](./coursework/MAT225/) | MAT225 |
 | [Discrete Mathematics](./coursework/MAT230) | MAT230 |
+| [Applied Linear Algebra](./coursework/MAT350) | MAT350 |
 | __Other prerequisite coursework__ | |
 | [Perspectives in History](./coursework/HIS100/) | HIS100 |
 | [Applied History](./coursework/HIS200/) | HIS200 |

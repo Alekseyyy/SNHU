@@ -5,10 +5,17 @@
 
 ## Assignments
 
-### Marks
+### Projects
 
-| __Marked Item__ | __Points__ | __Grades__ |
-|-----------------|------------|------------|
+These are my midterms and final examinations, in the form of a project,
+
+* [Midterm (4-3)](./projects/4-3.pdf): Topics included direct limits, limits at infinity, formal definition of derivatives, the product and quotient rule, the chain rule, and implicit differentiation. Earned an 10/12, or a "B"-grade.
+* [Finals (7-3)](./projects/7-3.pdf): Topics include L'Hopital's Rule, Antiderivatives, Definite Integrals, Indefinite Integrals, and their application to toy physics and engineering problems. 
+
+### Grades
+
+| __Graded Item__ | __Points__ | __Letter Grade__ |
+|-----------------|------------|------------------|
 | 1-2 Discussion: Introduction | 30 / 30 | A |
 | 1-3 Reading and Participation Activities | 15 / 15 | A |
 | 1-4 Module One Problem Set | 60 / 60 | A |
@@ -32,11 +39,11 @@
 | 8-2 Module Eight Problem Set | 60 / 60 | A |
 | | Σ points = 915.2 / 1,000 | A- |
 
-## (Re-)discoveries
+## Extracurricular Work
 
 When taking this class, I made a few tools to assist in solving certain given problems. Some of them are:
 
-* _A modulus pattern formula for computing the derivative ``f^(w)`` for sine and cosine functions given an arbitrarily large **w** :_ [Modulus_Pattern_Formula_Trig_Functions.pdf](./papers/Modulus_Pattern_Formula_Trig_Functions.pdf).
+* _A modulus pattern formula for computing the derivative ``f^(w)`` for sine and cosine functions given an arbitrarily large **w** :_ [Modulus_Pattern_Formula_Trig_Functions.pdf](./extras/Modulus_Pattern_Formula_Trig_Functions.pdf).
 
 ## Resources
 
@@ -125,5 +132,9 @@ The primary resource, and mechanism by which to demonstrate competence and submi
 * __Textbook Readings:__
     * _§5.5: Substitution._
     * _§5.6: Integrate functions involving exponential and logarithmic functions._
+    
+## Resources
 
+* __Textbook__: An Introduction to Real Analysis (J. K. Hunter), https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf
+    * I cited this textbook for a rigourous definition of the limit.
 

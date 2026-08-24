@@ -7,8 +7,10 @@
 
 ## Projects
 
-* [Project 1: Matrix Theory Applied to Computer Network Engineering](./projects/1/3-4_project1.pdf)
-* Project 2: TBA
+These projects are the midterm (project 1) and the finals (project 2) in where I apply linear algebra to hypothetical, and realistic, problems in computer science and network engineering:
+
+* [Project 1: Matrix Theory Applied to Computer Network Engineering](./projects/1)
+* [Project 2: Application of Lower-Rank Approximation to Image Compression](./projects/2)
 
 ## Coursework (by module)
 
@@ -22,8 +24,8 @@ __Topics covered:__ (§1.1) Systems of linear equations, (§1.2) Matrices and li
 <summary>MATLAB Programming Labs</summary>
 
 * [lab_1.3.m](./labs/mod1/lab_1.3.m): On defining matricies, working out their dimensions, the identity matrix via ``eye(Matrix)``, and the matrix transpose
-* [lab_1.6.m](./labs/mod1/lab_1.6.m): Row reduction echelon form via ``rref(Matrix)``, and expressing the ``rref(Matrix`` in terms of its elements as ratios via ``format rat``.
-* [lab_1.8.m](./labs/mod1/lab_1.8.m): Augmented matricies, and the arithmetic solution to the number of free variables in an ``rref(Matrix)`` solution
+* [lab_1.6.m](./labs/mod1/lab_1.6.m): Row reduction echelon form via ``rref(Matrix)``, and expressing the ``rref(Matrix)`` in terms of its elements as ratios via ``format rat``.
+* [lab_1.8.m](./labs/mod1/lab_1.8.m): Augmented matricies, and the arithmetic solution to the number of free variables in an ``rref(Matrix)`` solution.
 
 </details>
 
@@ -111,6 +113,38 @@ __Topics covered:__ (§7.1) Inner product spaces, (§7.2) Norms and distances, (
 [todo]
 
 ## Resources
+
+### On the Application of Linear Algebra
+
+In the last module in the class, the students (s.a. myself) were asked to respond to a prompt discussing applications of linear algebra. We were also asked to include at least one bit of literature or online resource showing, or just introducing, an application of linear algebra to "real world" problems. Here are those literature items and resources shared by myself and others:
+
+* Al-Nafjan, A., Alrashoudi, N., & Alrasheed, H. (2022). Recommendation System Algorithms on Location-Based Social Networks: Comparative Study. _Information, 13(4)_, 188. https://doi.org/10.3390/info13040188
+* Brin, S., & Page, L. (1998). The anatomy of a large-scale hypertextual Web search engine. _Computer Networks and ISDN Systems, 30(1–7)_, 107–117. https://doi.org/10.1016/S0169-7552(98)00110-X
+* Bryan, K., & Leise, T. (2006). The $25,000,000,000 eigenvector: The linear algebra behind Google. _SIAM Review, 48(3)_, 569–581. https://doi.org/10.1137/050623280
+* Gambetta, G (2021). _Computer Graphics from Scratch: A Programmer's Introduction to 3D Rendering_. No Starch Press. https://nostarch.com/computer-graphics-scratch
+* Gupta, A., & Mandal, S. (2024). Linear algebra and Galois theory. arXiv. https://doi.org/10.48550/arXiv.2405.18121
+* Hassencahl, F. J. (1970). _HARRY H. LAUGHLIN, 'EXPERT EUGENICS AGENT' FOR THE HOUSE COMMITTEE ON IMMIGRATION AND NATURALIZATION, 1921 TO 1931_. Case Western Reserve University ProQuest Dissertations & Theses. https://www.proquest.com/docview/302467912
+* "Himasharandil" (Jul 9, 2025). _Matrix factorization techniques_. Medium. Retrieved on Aug. 24, 2026 from: https://medium.com/@himasharandil/matrix-factorization-techniques-ab01539c2906
+* Joshi, Sagar. Application of linear algebra in image processing for Medical Electronics. _Communications on Applied Nonlinear Analysis, vol. 32, no. 1_, 15 Sept. 2024, pp. 239–253, https://doi.org/10.52783/cana.v32.1634
+* Jovanovic, D. (2025, June 12). _Understanding matrices in supply chain • log-hub. Log_. Retrieved c.a. Aug. 20, 2026 from: https://log-hub.com/understanding-matrices-in-supply-chain/
+* Koren, Y., Bell, R., & Volinsky, C. (2009). Matrix factorization techniques for recommender systems. _Computer, 42(8)_, 30–37. https://doi.org/10.1109/MC.2009.263
+* Kun, J. (2015). _Here's just a fraction of what you can do with linear algebra_. Medium. https://medium.com/@jeremyjkun/here-s-just-a-fraction-of-what-you-can-do-with-linear-algebra-633383d4153f
+* Laughlin, H. H. (1935). The Probability-Resultant. _Proceedings of the National Academy of Sciences, 21(11)_, 601–610. https://doi.org/10.1073/pnas.21.11.601
+* Laughlin, H. H. (1934). Racing Capacity in the Thoroughbred Horse, Part II. _The Scientific Monthly_, https://www.jstor.org/stable/15575
+* Laughlin, H. H. (1933). The General Formula of Heredity. _Proceedings of the National Academy of Science, Vol. 19, No. 8_. https://doi.org/10.1073/pnas.19.8.787
+* Lee, F. (n.d.) _What is linear algebra for machine learning?_ IBM Think. Retrieved on Aug. 24, 2026 from: https://www.ibm.com/think/topics/linear-algebra-for-machine-learning
+* Lysa Antero. (2023). Applications of Eigenvectors in Mathematics and Computer Science. _Mathematica Eterna, 13(4)_, 1–2. https://doi.org/10.35248/1314-3344.23.13.202
+    * Note that I could not find this paper in the literature, it was a citation given by a classmate, and I figured that I would list it here for documentation purposes. 
+* National Coordination Office for Space-Based Positioning, Navigation, and Timing. GPS. https://www.gps.gov/
+* Quantum Flagship. (n.d.). _How your smartphone uses Quantum Mechanics_. Retrieved c.a. Aug. 2020, 2026 from: https://qt.eu/applications/how-your-smartphone-uses-quantum-mechanics
+* Rasuli, B., & Moore, C. (2019). _Linear algebra_. Radiopaedia.Org. https://doi.org/10.53347/rid-69563
+* Rosen, D. (Jul. 1, 2009). _Linear algebra for game developers ~ part 1_. Wolfire Games. Retrieved on Aug. 24, 2026 from: https://www.wolfire.com/blog/2009/07/linear-algebra-for-game-developers-part-1/
+* Salman, A. E. _H. H. Laughlin: American Scientist, American Progressive, Nazi Collaborator_. https://eugenicsanthology.com/home/hhlaughlin/
+* Silver, D. S. (2006). The Secret History of Mathematicians. _The American Scientist. Vol. 94. No. 6_. https://10.1511/2006.62.556
+* Singh, R. Milan (2026). Mathematical concepts of linear algebra in AI tools: a calculation-based study. Journal of Hyperstructures, 15(1), 172-180. https://doi.org/10.22098/jhs.2024.15660.1038
+* Strang, G. (n.d.). _Left and right inverses: Pseudoinverse [Video]_. Massachusetts Institute of Technology OpenCourseWare. https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-33-left-and-right-inverses-pseudoinverse/
+* Thomas, M. & Tereshchuk, Y. (Dec. 6, 2015). _Where would you use matrix algebra?_ Wordpress Blog. Retrieved on Aug. 24, 2026 from: https://mathsmartinthomas.wordpress.com/2015/12/06/where-would-you-use-matrix-algebra/
+* Tonsfeuerborn, M., von Nitzsch, R., & Siebert, J. U. (2026). Linear transformation of one-dimensional utility functions: Empirical study on the impact on the final ranking of alternatives in personal decisions. _Decision Analysis, 23(1)_, 46–64. https://doi.org/10.1287/deca.2024.0317
 
 ### MATLAB Reference Sheet
 
