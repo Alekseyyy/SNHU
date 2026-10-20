@@ -29,6 +29,7 @@ I am an undergraduate student at _Southern New Hampshire University_ majoring in
 | [Secure Coding](./coursework/CS305/) |CS305 |
 | [Software Testing Automation & QA](./coursework/CS320/) | CS320 |
 | [Client/Server Development](./coursework/CS340) | CS340 |
+| [Mobile Architecture and Programming](./coursework/CS360) | CS360 |
 | [Introduction to Structured Database Environments](./coursework/DAD220/) | DAD220 |
 | __General STEM coursework__ | |
 | [Precalculus](./coursework/MAT140/) | MAT140 |

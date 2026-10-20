@@ -1,5 +1,5 @@
 
-<img src="./images/banner.png" width="750px" />
+<img src="./images/banner.png" width="500px" />
 
 > "Students will apply mobile development principles and best practices to develop mobile applications using user-centered design principles and industry standards. Upon completion of a fully functional mobile application, students will conduct security, product assuredness, and compatibility checks before launching the application." ---[CS-360 Infographic](./images/CS%20360%20Course%20Overview%20Infographic.pdf).
 
@@ -24,6 +24,30 @@ When developing the inventory app, I had to "overcome" my tendency to build soft
 * Ahmann, A. S. (2026c). [Note regarding the Inventory App [7-2]](./project/7-2_notes.pdf).
 * Ahmann, A. (2026d). [CS-360— Assignment 7-2: Inventory Mobile Application Launch Plan](./project/7-2_launch.pdf).
 * [Project Codebase](./project/codebase) \([ZIP Archive](./project/codebase.zip)\).
+
+### Screenshots
+
+These are screenshots of the Inventory App as they are running in either the _Android Emulator_ or my a real Android phone. To view a specific activity or other kind of screenshot, just click on the arrow or description of screenshot to expand it, 
+
+<details>
+  <summary>Activity: Login Page</summary>
+  <img src="./images/screenshot_login.jpg" />
+</details>
+
+<details>
+  <summary>Activity: Create a New User</summary>
+  <img src="./images/screenshot_new-users.jpg" />
+</details>
+
+<details>
+  <summary>Database Shell: Items Table</summary>
+  <img src="./images/screenshot_table.jpg" />
+</details>
+
+<details>
+  <summary>Database Shell: Add a New Item</summary>
+  <img src="./images/screenshot_new-item.jpg" />
+</details>
 
 ## Resources
 
