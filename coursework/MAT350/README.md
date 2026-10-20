@@ -114,6 +114,11 @@ __Topics covered:__ (§7.1) Inner product spaces, (§7.2) Norms and distances, (
 
 ## Resources
 
+### General Resoures on Linear Algebra
+
+* On Eigenvalues and Eigenvectors: https://lpsa.swarthmore.edu/MtrxVibe/EigMat/MatrixEigen.html
+* 
+
 ### On the Application of Linear Algebra
 
 In the last module in the class, the students (s.a. myself) were asked to respond to a prompt discussing applications of linear algebra. We were also asked to include at least one bit of literature or online resource showing, or just introducing, an application of linear algebra to "real world" problems. Here are those literature items and resources shared by myself and others:
@@ -148,5 +153,5 @@ In the last module in the class, the students (s.a. myself) were asked to respon
 
 ### MATLAB Reference Sheet
 
-<a href="./img/matlab-cheatsheet.pdf"><img src="./img/matlab-cheatsheet.png" width="650px" /></a>
+<a href="./img/matlab-cheatsheet.pdf"><img src="./img/matlab-cheatsheet.png" width="750px" /></a>
 
