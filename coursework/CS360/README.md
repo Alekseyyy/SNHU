@@ -3,7 +3,7 @@
 
 > "Students will apply mobile development principles and best practices to develop mobile applications using user-centered design principles and industry standards. Upon completion of a fully functional mobile application, students will conduct security, product assuredness, and compatibility checks before launching the application." ---[CS-360 Infographic](./images/CS%20360%20Course%20Overview%20Infographic.pdf).
 
-In this course, I learnt about the basics of Mobile Architecture and Programming, with a focus on the Android platform. While I was not able to build a mobile phone application that went past the stages of a proof-of-concept and "alpha" stages of software development, I nonetheless have built a working protoype that can be built upon for problems regarding item management. 
+In this course, I learnt about the basics of Mobile Architecture and Programming, with a focus on the Android platform. While I was not able to build a mobile phone application that went past the stages of a proof-of-concept and "alpha" stages of software development, I nonetheless have built a working protoype that can be built upon for problems regarding item management. This course's [syllabus](./images/CS%20360%Syllabus.pdf) and "[Essential Questions Infographic](./images/cs%360%Essential%Questions%Infographic.pdf)" further elaborates on the topics discussed, and given problems, given in this course.
 
 ## Course Project
 
@@ -19,11 +19,19 @@ When developing the inventory app, I had to "overcome" my tendency to build soft
 
 ### Project Files
 
+<h3 style="color:red;">Please note: that this final project has several design and implementation problems, especially in regards to security. Use at your own risk.</h3>
+
 * Ahmann, A. (2026a). [Project 1, Assignment 3-3: Proposal for an Inventory Application for the Android mobile phone](./project/3-3_Proposal.pdf).
 * Ahmann, A. (2026b). [Notes while developing this app [5-2]](./project/5-2_notes.pdf).
 * Ahmann, A. S. (2026c). [Note regarding the Inventory App [7-2]](./project/7-2_notes.pdf).
 * Ahmann, A. (2026d). [CS-360— Assignment 7-2: Inventory Mobile Application Launch Plan](./project/7-2_launch.pdf).
 * [Project Codebase](./project/codebase) \([ZIP Archive](./project/codebase.zip)\).
+
+### Security Issues
+
+The main problem is that passwords are stored in plaintext, and there is no role-based access controls, so every user account has the same privileges. There might also be SQL injections problems, though I am not quite sure. 
+
+\[TODO: Expand on this subsection further\]
 
 ### Screenshots
 
@@ -31,35 +39,35 @@ These are screenshots of the Inventory App as they are running in either the _An
 
 <details>
   <summary>Activity: Login Page</summary>
-  <img src="./images/screenshot_login.jpg" width="300px" />
+  <img src="./images/screenshot_login.jpg" width="350px" />
 </details>
 
 <details>
   <summary>Activity: Create a New User</summary>
-  <img src="./images/screenshot_new-user.jpg" width="300px" />
+  <img src="./images/screenshot_new-user.jpg" width="350px" />
 </details>
 
 <details>
   <summary>Database Shell: Items Table</summary>
-  <img src="./images/screenshot_table.jpg" width="300px" />
+  <img src="./images/screenshot_table.jpg" width="350px" />
 </details>
 
 <details>
   <summary>Database Shell: Add a New Item</summary>
-  <img src="./images/screenshot_new-item.jpg" width="300px" />
+  <img src="./images/screenshot_new-item.jpg" width="350px" />
 </details>
 
 <details>
   <summary>Activity: SMS Permissions Request</summary>
-  <img src="./images/screenshot_permissions.jpg" width="300px" />
+  <img src="./images/screenshot_permissions.png" width="350px" />
 </details>
 
 ## Assignments
 
-These are other projects that I have accomplished that are not directly related to the final project:
+These are other homework assignments that I have done which are not directly related to the final project:
 
 * [Assignment 1-4: Assessment of "Phyphox" mobile phone application](./assignments/1-4.pdf)
-* [Assignment 2-2: Data Models in the Reddit Mobile Phone Application](./assignments/2-2.pdf)
+* [Assignment 2-2: Data Models in the Reddit Mobile Phone Application](./assignments/2-2.pdf): here, 
 * [Assignment 3-2: Memorandum describing the creation of a simple Android application project](./assignments/3-2.pdf)
 * [Assignment 4-4: Android User Interface Design](./assignments/4-4.pdf)
 * Assignment 5-2: Basic Application Codebase: [ZIPped codebase](./assignments/5-2.zip)
@@ -67,5 +75,8 @@ These are other projects that I have accomplished that are not directly related 
 
 ## Resources
 
-[todo]
+* Android Developers: https://developer.android.com/
+    * Kotlin Overview: https://developer.android.com/kotlin/overview
+    * Kotlin in Android: https://kotlinlang.org/docs/android-overview.html
+
 
