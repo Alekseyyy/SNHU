@@ -31,23 +31,41 @@ These are screenshots of the Inventory App as they are running in either the _An
 
 <details>
   <summary>Activity: Login Page</summary>
-  <img src="./images/screenshot_login.jpg" />
+  <img src="./images/screenshot_login.jpg" width="300px" />
 </details>
 
 <details>
   <summary>Activity: Create a New User</summary>
-  <img src="./images/screenshot_new-users.jpg" />
+  <img src="./images/screenshot_new-user.jpg" width="300px" />
 </details>
 
 <details>
   <summary>Database Shell: Items Table</summary>
-  <img src="./images/screenshot_table.jpg" />
+  <img src="./images/screenshot_table.jpg" width="300px" />
 </details>
 
 <details>
   <summary>Database Shell: Add a New Item</summary>
-  <img src="./images/screenshot_new-item.jpg" />
+  <img src="./images/screenshot_new-item.jpg" width="300px" />
 </details>
 
+<details>
+  <summary>Activity: SMS Permissions Request</summary>
+  <img src="./images/screenshot_permissions.jpg" width="300px" />
+</details>
+
+## Assignments
+
+These are other projects that I have accomplished that are not directly related to the final project:
+
+* [Assignment 1-4: Assessment of "Phyphox" mobile phone application](./assignments/1-4.pdf)
+* [Assignment 2-2: Data Models in the Reddit Mobile Phone Application](./assignments/2-2.pdf)
+* [Assignment 3-2: Memorandum describing the creation of a simple Android application project](./assignments/3-2.pdf)
+* [Assignment 4-4: Android User Interface Design](./assignments/4-4.pdf)
+* Assignment 5-2: Basic Application Codebase: [ZIPped codebase](./assignments/5-2.zip)
+* Assigment 6-3: Proof-of-Concept for Android’s Accelerometer Sensors \([writeup](./assignments/6-3/writeup.pdf), [ZIPped codebase](./assignments/codebase.zip)\)
+
 ## Resources
+
+[todo]
 
